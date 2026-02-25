@@ -1,32 +1,32 @@
 ﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
-0,,normal room,normaler raum,salle normale,sala normal,sala normal,normal room,普通の部屋
-1,,shop,laden,magasin,tienda,loja,shop,ショップ
-2,,big shop,grosser laden,grand magasin,tienda grande,loja grande,big shop,大型ショップ
-3,,gambling hall,wurfelraum,salle de jeux,casa de apuestas,salão de apostas,gambling hall,ギャンブルホール
-4,,shrine,schrein,autel,altar,altar,shrine,神殿
-5,,hub,hub,hub,central,central,hub,ハブ
-6,,upgrade terminal,upgrade terminal,terminal d'amélioration,terminal mejora,terminal de aprimoramentos,upgrade terminal,強化ターミナル
-7,,miniboss,miniboss,mini-boss,minijefe,minichefe,miniboss,中ボス
-8,,boss,boss,boss,jefe,chefe,boss,ボス
-9,,vault,kammer,chambre forte,bóveda,cofre,vault,宝物庫
-10,,weapon chamber,waffenkammer,armurerie,armería,câmara de armas,weapon chamber,武器部屋
-11,,secret room,geheimkammer,salle secrète,sala secreta,sala secreta,secret room,隠し部屋
-12,,life shop,lebensladen,magasin de vie,tienda de vida,loja de vida,life shop,ライフショップ
-13,,breachstone,bruchstein,pierre de brèche,piedra fisural,pedra de ruptura,breachstone,裂け目の石碑
-14,,breach,bruch,brèche,fisura,ruptura,breach,裂け目
-15,,unknown,unbekannt,inconnu,desconocida,desconhecido,unknown,不明
-16,,dug,grabung,creusée,excavada,escavado,dug,発掘された部屋
-17,,shortcut,abkürzung,raccourci,atajo,atalho,shortcut,抜け道
-18,,cartridge shop,patronenladen,magasin de cartouches,tienda cartuchos,loja de cartuchos,cartridge shop,カセットショップ
-19,,reliquary,reliquiar,reliquaire,relicario,relicário,reliquary,聖堂
+0,,normal room,normaler raum,salle normale,sala normal,sala normal,обычная комната,普通の部屋
+1,,shop,laden,magasin,tienda,loja,магазин,ショップ
+2,,big shop,grosser laden,grand magasin,tienda grande,loja grande,большой магазин,大型ショップ
+3,,gambling hall,wurfelraum,salle de jeux,casa de apuestas,salão de apostas,игорный зал,ギャンブルホール
+4,,shrine,schrein,autel,altar,altar,святилище,神殿
+5,,hub,hub,hub,central,central,хаб,ハブ
+6,,upgrade terminal,upgrade terminal,terminal d'amélioration,terminal mejora,terminal de aprimoramentos,терминал улучшений,強化ターミナル
+7,,miniboss,miniboss,mini-boss,minijefe,minichefe,мини-босс,中ボス
+8,,boss,boss,boss,jefe,chefe,босс,ボス
+9,,vault,kammer,chambre forte,bóveda,cofre,хранилище,宝物庫
+10,,weapon chamber,waffenkammer,armurerie,armería,câmara de armas,оружейная,武器部屋
+11,,secret room,geheimkammer,salle secrète,sala secreta,sala secreta,тайная комната,隠し部屋
+12,,life shop,lebensladen,magasin de vie,tienda de vida,loja de vida,магазин жизни,ライフショップ
+13,,breachstone,bruchstein,pierre de brèche,piedra fisural,pedra de ruptura,камень пролома,裂け目の石碑
+14,,breach,bruch,brèche,fisura,ruptura,пролом,裂け目
+15,,unknown,unbekannt,inconnu,desconocida,desconhecido,неизвестно,不明
+16,,dug,grabung,creusée,excavada,escavado,раскопано,発掘された部屋
+17,,shortcut,abkürzung,raccourci,atajo,atalho,срезка,抜け道
+18,,cartridge shop,patronenladen,magasin de cartouches,tienda cartuchos,loja de cartuchos,магазин картриджей,カセットショップ
+19,,reliquary,reliquiar,reliquaire,relicario,relicário,реликварий,聖堂
 20,,???,???,???,???,???,???,???
-21,,arcade,arcade,arcade,sala recreativa,salão de jogos,arcade,アーケード
-22,,danger room,gefahrraum,salle de danger,sala peligrosa,sala de perigo,danger room,危険な部屋
-23,,artifact shop,artifaktladen,magasin d'artefacts,tienda artefacto,loja de artefatos,artifact shop,アーティファクトショップ
-24,,active chamber,aktivkammer,chambre active,cámara activa,câmara ativa,active chamber,アクティブの部屋
-25,,gauntlet,spießlauf,défi,reto,desafio,gauntlet,チャレンジ
-26,,gauntlet entrance,spießlauf eingang,entrée du défi,entrada del reto,entrada do desafio,gauntlet entrance,チャレンジ入り口
-27,,warehouse,warenhaus,entrepôt,almacén,depósito,warehouse,倉庫
-28,,familiar room,bekannter raum,salle connue,sala conocida,sala conhecida,familiar room,見覚えのある部屋
-29,,module chamber,modulkammer,chambre de modules,cámara de módulo,câmara do módulo,module chamber,モジュールの部屋
-30,,normal room,normaler raum,salle normale,sala normal,sala normal,normal room,普通の部屋
+21,,arcade,arcade,arcade,sala recreativa,salão de jogos,аркада,アーケード
+22,,danger room,gefahrraum,salle de danger,sala peligrosa,sala de perigo,опасная комната,危険な部屋
+23,,artifact shop,artifaktladen,magasin d'artefacts,tienda artefacto,loja de artefatos,магазин артефактов,アーティファクトショップ
+24,,active chamber,aktivkammer,chambre active,cámara activa,câmara ativa,камера активных,アクティブの部屋
+25,,gauntlet,spießlauf,défi,reto,desafio,испытание,チャレンジ
+26,,gauntlet entrance,spießlauf eingang,entrée du défi,entrada del reto,entrada do desafio,вход в испытание,チャレンジ入り口
+27,,warehouse,warenhaus,entrepôt,almacén,depósito,склад,倉庫
+28,,familiar room,bekannter raum,salle connue,sala conocida,sala conhecida,знакомая комната,見覚えのある部屋
+29,,module chamber,modulkammer,chambre de modules,cámara de módulo,câmara do módulo,камера модулей,モジュールの部屋
+30,,normal room,normaler raum,salle normale,sala normal,sala normal,обычная комната,普通の部屋

@@ -1,8 +1,8 @@
 ﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
-0,,cursed,verflucht,maudite,maldita,amaldiçoado,cursed,呪い
-1,,"+2 hp, +5% damage on pickup","heilt 2 hp, +5% schaden","pv +2, dégâts +5 % à l'obtention ","+2 ps, +5% de daño al obtener","+2 de pv, +5% de dano ao obter","+2 hp, +5% damage on pickup",取得時HP+2、ダメージ+5%
-2,,"only breaks on its own, eventually",bricht nur durch raumklärung,finit par s'autodétruire,se autodestruye en algún momento,se autodestrói em algum momento,"only breaks on its own, eventually",やがて自壊するまで壊れない
-5,,"blessed: +10% damage, +20% ammo","heilig: +10% schaden, +20% munition","bénite : dégâts +10 %, munitions +20 % ","bendita: +10% de daño, +20% de munición","abençoado: +10% de dano, +20% de munição","blessed: +10% damage, +20% ammo",祝福：ダメージ+10%、弾薬+20%
-6,,cursed,verflucht,maudite,maldita,amaldiçoado,cursed,呪い
-7,,blessed,heilig,bénite,bendita,abençoado,blessed,祝福
-8,,"+10% damage, +20% ammo","+10% schaden, +20% munition","dégâts +10 %, munitions +20 %","+10% de daño, +20% de munición","+10% de dano, +20% de munição","+10% damage, +20% ammo",ダメージ+10%、弾薬+20%
+0,,cursed,verflucht,maudite,maldita,amaldiçoado,проклятое,呪い
+1,,"+2 hp, +5% damage on pickup","heilt 2 hp, +5% schaden","pv +2, dégâts +5 % à l'obtention ","+2 ps, +5% de daño al obtener","+2 de pv, +5% de dano ao obter","+2 ОЗ, +5% урона при подборе",取得時HP+2、ダメージ+5%
+2,,"only breaks on its own, eventually",bricht nur durch raumklärung,finit par s'autodétruire,se autodestruye en algún momento,se autodestrói em algum momento,"ломается само, рано или поздно",やがて自壊するまで壊れない
+5,,"blessed: +10% damage, +20% ammo","heilig: +10% schaden, +20% munition","bénite : dégâts +10 %, munitions +20 % ","bendita: +10% de daño, +20% de munición","abençoado: +10% de dano, +20% de munição","благословлённое: +10% урона, +20% боезапаса",祝福：ダメージ+10%、弾薬+20%
+6,,cursed,verflucht,maudite,maldita,amaldiçoado,проклятое,呪い
+7,,blessed,heilig,bénite,bendita,abençoado,благословлённое,祝福
+8,,"+10% damage, +20% ammo","+10% schaden, +20% munition","dégâts +10 %, munitions +20 %","+10% de daño, +20% de munición","+10% de dano, +20% de munição","+10% урона, +20% боезапаса",ダメージ+10%、弾薬+20%

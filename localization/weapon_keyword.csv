@@ -1,119 +1,119 @@
 ﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
-0,,piercing,bohrend,perforation,penetrante,perfuração,piercing,貫通
-1,,ricochet,ricochet,ricochet,rebote,ricochete,ricochet,跳弾
-2,,split,streuschuss,division,división,fracionamento,split,スプリット
-3,,homing,zielsuchend,guidage,guiada,teleguiado,homing,ホーミング
-4,,triple,dreifach,triple,triple,triplo,triple,トリプル
-5,,knockback,aufprall,recul,empuje,empurrão,knockback,ノックバック
-6,,giant,riesig,géant,gigante,gigante,giant,巨大
-7,,reflective,reflektion,renvoi,reflectante,refletivo,reflective,リフレクト
-8,,charges faster,schnelles laden,charge rapide,carga rápida,carregamento rápido,charges faster,高速装填
-9,,wider spray,weiter schusswinkel,large dispersion,dispersión,dispersão,wider spray,ワイドショット
-10,,chain lightning,kettenblitz,chaîne d'éclairs,cadena de rayos,cadeia de raios,chain lightning,チェインライトニング
-11,,shotgun style,explosives entladen,fusil à pompe,tipo escopeta,tipo espingarda,shotgun style,ショットガン
-12,,finale,finale,achèvement,finalización,disparo final,finale,フィナーレ
-13,,crossbeam,kreuzlaser,laser croisé,haz cruzado,raio cruzado,crossbeam,クロスビーム
-14,,twinshooter,doppelschuss,double tir,disparo doble,tiro duplo,twinshooter,ツインシューター
-15,,pulsewaves,pulswellen,impulsion,ondas de pulso,ondas de pulso,pulsewaves,パルスウェーブ
-16,,overheat,aufgehitzt,surchauffe,sobrecalentamiento,superaquecimento,overheat,オーバーヒート
-17,,shrapnel,schrapnell,éclats,metralla,estilhaços,shrapnel,炸裂
-18,,phasing,warp-schuss,distorsion,fase,trespasse,phasing,ワープショット
-19,,surge,uberladung,surtension,aluvión,surto,surge,サージ
-20,,burst,salvo,rafale,ráfaga,explosão,burst,バースト
-21,,quick,geschickt,rapide,rápida,rapidez,quick,クイック
-22,,gatling,deckfeuer,mitrailleuse,ametralladora,metralhadora,gatling,ガトリング
-23,,ringshot,drehwurf,tir conjoint,tiro conjunto,tiro conjunto,ringshot,リングショット
-24,,instant recall,ruckruf,rappel,reobtención instantánea,retorno imediato,instant recall,即回収
-25,,shielded,schild,protégé,protección,proteção,shielded,シールド
-26,,lance,lanze,lance,ristra,cordão,lance,ランス
-27,,chariot,palisade,chariot,cuadriga,muralha,chariot,チャリオット
-28,,heavy,schwer,lourd,pesada,pesado,heavy,ヘヴィ
-29,,bloodlust,blutdurst,sanguinaire,sed de sangre,sede de sangue,bloodlust,血の渇き
-30,,freeze,frost,gel,congelación,congelante,freeze,凍結
-31,,continuous,dauerhaft,continu,constante,contínuo,continuous,連続
-32,,align,eingestimmt,alignement,alineación,alinhamento,align,追従
-33,,consecrated,geweiht,consacrée,sagrada,consagrado,consecrated,聖別
-34,,antimagic,antimagie,anti-magie,antimagia,antimagia,antimagic,反魔法
-35,,akashic,akasha,akashique,akásica,akásico,akashic,アカシック
-36,,disrupting,disruptiv,perturbatrice,alteradora,perturbadora,disrupting,対機械
-37,,backblast,druckwell,onde de poussée,explosión trasera,explosão traseira,backblast,バックブラスト
-38,,infested,befall,infesté,infectada,infestado,infested,寄生
-39,,swarming,schwärmen,essaim,enjambre,enxameação,swarming,スウォーム
-40,,drag,zug,attraction,atracción,atração,drag,引きずり
-41,,instant hit,detonation,coup instantané,impacto instantáneo,acerto instantâneo,instant hit,即時ヒット
-42,,overcharge,detonation,surcharge,sobrecarga,sobrecarga,overcharge,オーバーチャージ
-43,,high-caliber,großer kaliber,gros calibre,alto calibre,calibre grosso,high-caliber,大口径
-44,,hitstreak,konzentration,tirs en série,concentración,sequência de tiros,hitstreak,連続ヒット
-45,,backshot,rückschuss,tir arrière,tiro trasero,tiro traseiro,backshot,バックショット
-46,,wall-breaker,wandbrecher,brise-murs,rompemuros,quebra-paredes,wall-breaker,ウォールブレーカー
-47,,all pierce,bohrend,perforation totale,penetración total,perfura-tudo,all pierce,全貫通
-48,,holy,heilig,saint,halo,sagrado,holy,天恵
-49,,hunter,jäger,chasseur,cazadora,caçador,hunter,ハンター
-50,,ammo leak,ammo verlust,fuite de munitions,munición ineficiente,vazamento de munição,ammo leak,弾薬漏れ
-51,,ammo steal,ammo diebstahl,vol de munitions,robo de munición,roubo de munição,ammo steal,弾薬泥棒
-52,,super galactic,supergalaktisch,super galactique,supergaláctica,supergaláctico,super galactic,超銀河級
-53,,heaven-piercing,himmel-durchdringend,divinité,penetración divina,perfuração divina,heaven-piercing,天界突破
-54,,all-blast,verwüstung,destruction,devastadora,devastação total,all-blast,全体爆発
-55,,echo,echo,écho,eco,eco,echo,エコー
-56,,unstable,instabil,instable,inestable,instável,unstable,不安定
-57,,sticky bombs,klebrig,bombes collantes,bomba adhesiva,bombas adesivas,sticky bombs,粘着ボム
-58,,remote trigger,auslöser,détonation à distance,detonación remota,detonação remota,remote trigger,リモートトリガー
-59,,lunge,ausstoß,avancée brutale,estocada,investida,lunge,突進
-60,,pin,stecker,immobilisation,inmovilización,fixação,pin,固定
-61,,enigmatic,enigmatisch,énigmatique,enigmática,enigmático,enigmatic,神秘
-62,,excavate,ausgrabung,excavation,excavadora,escavar,excavate,発掘
-63,,auto-hammer,autohammer,automarteau,automartillo,automartelo,auto-hammer,自動式
-64,,curse of pain,schmerzfluch,sort de douleur,maldición dolorosa,maldição da dor,curse of pain,苦痛の呪い
-65,,curse of numbness,taubfluch,sort de torpeur,maldición mutiladora,maldição da dormência,curse of numbness,痺れの呪い
-66,,curse of fatigue,mattfluch,sort de fatigue,maldición fatigante,maldição do cansaço,curse of fatigue,疲労の呪い
-67,,curse of stiffness,starrfluch,sort de raideur,maldición limitante,maldição da rigidez,curse of stiffness,硬直の呪い
-68,,curse of haphephobia,haphefluch,sort d'haptophobie,maldición murofóbica,maldição da afefobia,curse of haphephobia,接触恐怖の呪い
-69,,curse of paranoia,angstfluch,sort de paranoïa,maldición paranoica,maldição da paranoia,curse of paranoia,恐怖の呪い
-70,,curse of chaos,chaosfluch,sort de chaos,maldición caótica,maldição do caos,curse of chaos,混沌の呪い
-71,,sharpshooter,scharfschütze,franc-tireur,francotiradora,franco-atirador,sharpshooter,スナイパー
-72,,impale,spieß,empalement,empalamiento,espetada,impale,刺突
-73,,sacred,gesegnet,sacré,divina,sagrada,sacred,神聖
-74,,entropic,entropisch,entropie,entrópica,entrópica,entropic,エントロピー
-75,,plague,plage,fléau,enfermedad,praga,plague,疫病
-76,,crossfire,kreuzfeuer,tirs croisés,fuego cruzado,fogo cruzado,crossfire,十字砲火
-77,,precipitate,regen,précipitation,diluvio,chuva,precipitate,荒天
-78,,4th visitor,4ter besucher,4e visiteur,cuarto visitante,4º visitante,4th visitor,第４の来訪者
-79,,overclock,übertakt,surcadence,aceleración,dilúvio,overclock,オーバークロック
-80,,void,leerraum,néant,vacío,vazio,void,虚無
-81,,frontload,frontgeladen,charge frontale,carga frontal,dose de carga,frontload,フロントロード
-82,,entrench,verschanzt,retranché,trinchera,entrincheirar,entrench,トレンチ
-83,,firelance,feuerlanze,lance de feu,lanza ígnea,lança de fogo,firelance,ファイアランス
-84,,erupt,ausbruch,éruption,erupción,erupção,erupt,噴出
-85,,rupture,durchbruch,rupture,ruptura,rompimento,rupture,破裂
-86,,execute,richtend,exécution,ejecución,execução,execute,処刑
-87,,wall slam,wandhieb,coup de mur,golpe de muro,batida na parede,wall slam,ウォールスラム
-88,,wall crawl,wandkriechend,rase-murs,trepamuros,rastejo em paredes,wall crawl,ウォールクロール
-89,,cleaner,saäuberer,nettoyeur,limpiadora,limpador,cleaner,掃除屋
-90,,haphephilia,wandnah,haptophilie,murofilia,afefilia,haphephilia,接触恐怖
-91,,arcane feedback,zauberrückruf,intensité occulte,influencia arcana,influência arcana,arcane feedback,神秘の呼応
-92,,lucky sevens,glückssieben,sept de chance,siete de la suerte,sete da sorte,lucky sevens,ラッキーセブン
-93,,bio-electric,bioelektrisch,bioélectrique,bioeléctrica,bioelétrico,bio-electric,バイオ・エレクトリック
-94,,side blade,seitenschwert,lame secondaire,hoja auxiliar,lâmina lateral,side blade,サイドブレード
-95,,hunter add-on,jäger add-on,bonus de chasseur,mod de caza,complemento de caça,hunter add-on,ハンターアドオン
-96,,volatile,flüchtig,volatile,volátil,volátil,volatile,揮発性
-97,,razor,klinge,rasoir,cuchilla,navalha,razor,サイクロン
-98,,runes,runen,runes,runas,runas,runes,ルーン
-99,,temporally destabilized,zeitdestabilisiert,instabilité temporelle,inestabilidad temporal,instabilidade temporária,temporally destabilized,一時的不安定
-100,,living walls,lebende wände,murs vivants,muros vivientes,paredes vivas,living walls,生ける壁
-101,,third-party cheats,dritte-party cheats,trucs de tiers,trucos de terceros,trapassas de terceiros,third-party cheats,非公式チート
-102,,arcane vessel,arkangefäß,réceptacle occulte,recipiente arcano,nave arcana,arcane vessel,神秘の器
-103,,revenge,rache,revanche,venganza,vingança,revenge,復讐
-104,,core compression,kernkomprimierung,compression de noyau,compresión de núcleo,compressão de núcleo,core compression,圧縮コア
-105,,lashout,aushieb,déchaînement,latigazo,revolta,lashout,強襲
-106,,rescindant,hohlruf,annulateur,anuladora,rescindente,rescindant,無力化
-107,,vigil,wacht,vigile,vigilancia,vigília,vigil,警戒
-108,,recycle,recycling,recyclage,reciclaje,reaproveitamento,recycle,リサイクル
-109,,shredder,shredder,broyage,trituradora,picador,shredder,シュレッダー
-110,,shockwave,schockwelle,onde de choc,onda de choque,onda de choque,shockwave,ショックウェーブ
-111,,aftershock,nachbeben,réplique,réplica,abalo secundário,aftershock,アフターショック
-112,,imbue,durchwirkung,imprégnation,imbuida,instigar,imbue,吹き込み
-113,,bullet catch,kugelfang,attrape-balles,atrapabalas,captura de bala,bullet catch,弾丸キャッチ
-114,,reap,ernte,moisson,siega,ceifar,reap,刈り取り
-115,,harvest,ertrag,récolte,cosecha,colheita,harvest,収穫
-116,,return,rückkehr,retour,retorno,retorno,return,リターン
-117,,absorb,absorption,absorption,absorción,absorção,absorb,吸収
+0,,piercing,bohrend,perforation,penetrante,perfuração,пробивание,貫通
+1,,ricochet,ricochet,ricochet,rebote,ricochete,рикошет,跳弾
+2,,split,streuschuss,division,división,fracionamento,разделение,スプリット
+3,,homing,zielsuchend,guidage,guiada,teleguiado,самонаведение,ホーミング
+4,,triple,dreifach,triple,triple,triplo,тройной,トリプル
+5,,knockback,aufprall,recul,empuje,empurrão,отбрасывание,ノックバック
+6,,giant,riesig,géant,gigante,gigante,гигантский,巨大
+7,,reflective,reflektion,renvoi,reflectante,refletivo,отражение,リフレクト
+8,,charges faster,schnelles laden,charge rapide,carga rápida,carregamento rápido,быстрый заряд,高速装填
+9,,wider spray,weiter schusswinkel,large dispersion,dispersión,dispersão,широкий разброс,ワイドショット
+10,,chain lightning,kettenblitz,chaîne d'éclairs,cadena de rayos,cadeia de raios,цепная молния,チェインライトニング
+11,,shotgun style,explosives entladen,fusil à pompe,tipo escopeta,tipo espingarda,стиль дробовика,ショットガン
+12,,finale,finale,achèvement,finalización,disparo final,финал,フィナーレ
+13,,crossbeam,kreuzlaser,laser croisé,haz cruzado,raio cruzado,перекрёстный луч,クロスビーム
+14,,twinshooter,doppelschuss,double tir,disparo doble,tiro duplo,двойной стрелок,ツインシューター
+15,,pulsewaves,pulswellen,impulsion,ondas de pulso,ondas de pulso,пульсовые волны,パルスウェーブ
+16,,overheat,aufgehitzt,surchauffe,sobrecalentamiento,superaquecimento,перегрев,オーバーヒート
+17,,shrapnel,schrapnell,éclats,metralla,estilhaços,шрапнель,炸裂
+18,,phasing,warp-schuss,distorsion,fase,trespasse,фазирование,ワープショット
+19,,surge,uberladung,surtension,aluvión,surto,всплеск,サージ
+20,,burst,salvo,rafale,ráfaga,explosão,очередь,バースト
+21,,quick,geschickt,rapide,rápida,rapidez,быстрый,クイック
+22,,gatling,deckfeuer,mitrailleuse,ametralladora,metralhadora,гатлинг,ガトリング
+23,,ringshot,drehwurf,tir conjoint,tiro conjunto,tiro conjunto,кольцевой выстрел,リングショット
+24,,instant recall,ruckruf,rappel,reobtención instantánea,retorno imediato,мгновенный возврат,即回収
+25,,shielded,schild,protégé,protección,proteção,защищённый,シールド
+26,,lance,lanze,lance,ristra,cordão,копьё,ランス
+27,,chariot,palisade,chariot,cuadriga,muralha,колесница,チャリオット
+28,,heavy,schwer,lourd,pesada,pesado,тяжёлый,ヘヴィ
+29,,bloodlust,blutdurst,sanguinaire,sed de sangre,sede de sangue,жажда крови,血の渇き
+30,,freeze,frost,gel,congelación,congelante,заморозка,凍結
+31,,continuous,dauerhaft,continu,constante,contínuo,непрерывный,連続
+32,,align,eingestimmt,alignement,alineación,alinhamento,слежение,追従
+33,,consecrated,geweiht,consacrée,sagrada,consagrado,освящённый,聖別
+34,,antimagic,antimagie,anti-magie,antimagia,antimagia,антимагия,反魔法
+35,,akashic,akasha,akashique,akásica,akásico,акашик,アカシック
+36,,disrupting,disruptiv,perturbatrice,alteradora,perturbadora,разрушающий,対機械
+37,,backblast,druckwell,onde de poussée,explosión trasera,explosão traseira,обратная волна,バックブラスト
+38,,infested,befall,infesté,infectada,infestado,заражённый,寄生
+39,,swarming,schwärmen,essaim,enjambre,enxameação,роение,スウォーム
+40,,drag,zug,attraction,atracción,atração,притяжение,引きずり
+41,,instant hit,detonation,coup instantané,impacto instantáneo,acerto instantâneo,мгновенный хит,即時ヒット
+42,,overcharge,detonation,surcharge,sobrecarga,sobrecarga,перезаряд,オーバーチャージ
+43,,high-caliber,großer kaliber,gros calibre,alto calibre,calibre grosso,крупный калибр,大口径
+44,,hitstreak,konzentration,tirs en série,concentración,sequência de tiros,серия попаданий,連続ヒット
+45,,backshot,rückschuss,tir arrière,tiro trasero,tiro traseiro,выстрел назад,バックショット
+46,,wall-breaker,wandbrecher,brise-murs,rompemuros,quebra-paredes,разрушитель стен,ウォールブレーカー
+47,,all pierce,bohrend,perforation totale,penetración total,perfura-tudo,полное пробивание,全貫通
+48,,holy,heilig,saint,halo,sagrado,святой,天恵
+49,,hunter,jäger,chasseur,cazadora,caçador,охотник,ハンター
+50,,ammo leak,ammo verlust,fuite de munitions,munición ineficiente,vazamento de munição,утечка боезапаса,弾薬漏れ
+51,,ammo steal,ammo diebstahl,vol de munitions,robo de munición,roubo de munição,кража боезапаса,弾薬泥棒
+52,,super galactic,supergalaktisch,super galactique,supergaláctica,supergaláctico,супергалактический,超銀河級
+53,,heaven-piercing,himmel-durchdringend,divinité,penetración divina,perfuração divina,небопробивающий,天界突破
+54,,all-blast,verwüstung,destruction,devastadora,devastação total,тотальный взрыв,全体爆発
+55,,echo,echo,écho,eco,eco,эхо,エコー
+56,,unstable,instabil,instable,inestable,instável,нестабильный,不安定
+57,,sticky bombs,klebrig,bombes collantes,bomba adhesiva,bombas adesivas,липкие бомбы,粘着ボム
+58,,remote trigger,auslöser,détonation à distance,detonación remota,detonação remota,дистанционный взрыв,リモートトリガー
+59,,lunge,ausstoß,avancée brutale,estocada,investida,выпад,突進
+60,,pin,stecker,immobilisation,inmovilización,fixação,пригвождение,固定
+61,,enigmatic,enigmatisch,énigmatique,enigmática,enigmático,загадочный,神秘
+62,,excavate,ausgrabung,excavation,excavadora,escavar,раскопка,発掘
+63,,auto-hammer,autohammer,automarteau,automartillo,automartelo,автомолот,自動式
+64,,curse of pain,schmerzfluch,sort de douleur,maldición dolorosa,maldição da dor,проклятие боли,苦痛の呪い
+65,,curse of numbness,taubfluch,sort de torpeur,maldición mutiladora,maldição da dormência,проклятие онемения,痺れの呪い
+66,,curse of fatigue,mattfluch,sort de fatigue,maldición fatigante,maldição do cansaço,проклятие усталости,疲労の呪い
+67,,curse of stiffness,starrfluch,sort de raideur,maldición limitante,maldição da rigidez,проклятие скованности,硬直の呪い
+68,,curse of haphephobia,haphefluch,sort d'haptophobie,maldición murofóbica,maldição da afefobia,проклятие гаптофобии,接触恐怖の呪い
+69,,curse of paranoia,angstfluch,sort de paranoïa,maldición paranoica,maldição da paranoia,проклятие паранойи,恐怖の呪い
+70,,curse of chaos,chaosfluch,sort de chaos,maldición caótica,maldição do caos,проклятие хаоса,混沌の呪い
+71,,sharpshooter,scharfschütze,franc-tireur,francotiradora,franco-atirador,снайпер,スナイパー
+72,,impale,spieß,empalement,empalamiento,espetada,насаживание,刺突
+73,,sacred,gesegnet,sacré,divina,sagrada,священный,神聖
+74,,entropic,entropisch,entropie,entrópica,entrópica,энтропийный,エントロピー
+75,,plague,plage,fléau,enfermedad,praga,чума,疫病
+76,,crossfire,kreuzfeuer,tirs croisés,fuego cruzado,fogo cruzado,перекрёстный огонь,十字砲火
+77,,precipitate,regen,précipitation,diluvio,chuva,ливень,荒天
+78,,4th visitor,4ter besucher,4e visiteur,cuarto visitante,4º visitante,4-й гость,第４の来訪者
+79,,overclock,übertakt,surcadence,aceleración,dilúvio,разгон,オーバークロック
+80,,void,leerraum,néant,vacío,vazio,пустота,虚無
+81,,frontload,frontgeladen,charge frontale,carga frontal,dose de carga,фронтальная загрузка,フロントロード
+82,,entrench,verschanzt,retranché,trinchera,entrincheirar,окопный,トレンチ
+83,,firelance,feuerlanze,lance de feu,lanza ígnea,lança de fogo,огненное копьё,ファイアランス
+84,,erupt,ausbruch,éruption,erupción,erupção,извержение,噴出
+85,,rupture,durchbruch,rupture,ruptura,rompimento,разрыв,破裂
+86,,execute,richtend,exécution,ejecución,execução,казнь,処刑
+87,,wall slam,wandhieb,coup de mur,golpe de muro,batida na parede,удар о стену,ウォールスラム
+88,,wall crawl,wandkriechend,rase-murs,trepamuros,rastejo em paredes,ползание по стене,ウォールクロール
+89,,cleaner,saäuberer,nettoyeur,limpiadora,limpador,уборщик,掃除屋
+90,,haphephilia,wandnah,haptophilie,murofilia,afefilia,гаптофилия,接触恐怖
+91,,arcane feedback,zauberrückruf,intensité occulte,influencia arcana,influência arcana,мистический отклик,神秘の呼応
+92,,lucky sevens,glückssieben,sept de chance,siete de la suerte,sete da sorte,счастливые семёрки,ラッキーセブン
+93,,bio-electric,bioelektrisch,bioélectrique,bioeléctrica,bioelétrico,биоэлектрический,バイオ・エレクトリック
+94,,side blade,seitenschwert,lame secondaire,hoja auxiliar,lâmina lateral,боковой клинок,サイドブレード
+95,,hunter add-on,jäger add-on,bonus de chasseur,mod de caza,complemento de caça,надстройка охотника,ハンターアドオン
+96,,volatile,flüchtig,volatile,volátil,volátil,летучий,揮発性
+97,,razor,klinge,rasoir,cuchilla,navalha,бритва,サイクロン
+98,,runes,runen,runes,runas,runas,руны,ルーン
+99,,temporally destabilized,zeitdestabilisiert,instabilité temporelle,inestabilidad temporal,instabilidade temporária,временная дестабилизация,一時的不安定
+100,,living walls,lebende wände,murs vivants,muros vivientes,paredes vivas,живые стены,生ける壁
+101,,third-party cheats,dritte-party cheats,trucs de tiers,trucos de terceros,trapassas de terceiros,сторонние читы,非公式チート
+102,,arcane vessel,arkangefäß,réceptacle occulte,recipiente arcano,nave arcana,мистический сосуд,神秘の器
+103,,revenge,rache,revanche,venganza,vingança,месть,復讐
+104,,core compression,kernkomprimierung,compression de noyau,compresión de núcleo,compressão de núcleo,сжатие ядра,圧縮コア
+105,,lashout,aushieb,déchaînement,latigazo,revolta,выпад,強襲
+106,,rescindant,hohlruf,annulateur,anuladora,rescindente,аннулятор,無力化
+107,,vigil,wacht,vigile,vigilancia,vigília,бдение,警戒
+108,,recycle,recycling,recyclage,reciclaje,reaproveitamento,переработка,リサイクル
+109,,shredder,shredder,broyage,trituradora,picador,шредер,シュレッダー
+110,,shockwave,schockwelle,onde de choc,onda de choque,onda de choque,ударная волна,ショックウェーブ
+111,,aftershock,nachbeben,réplique,réplica,abalo secundário,афтершок,アフターショック
+112,,imbue,durchwirkung,imprégnation,imbuida,instigar,пропитывание,吹き込み
+113,,bullet catch,kugelfang,attrape-balles,atrapabalas,captura de bala,перехват пули,弾丸キャッチ
+114,,reap,ernte,moisson,siega,ceifar,жатва,刈り取り
+115,,harvest,ertrag,récolte,cosecha,colheita,урожай,収穫
+116,,return,rückkehr,retour,retorno,retorno,возврат,リターン
+117,,absorb,absorption,absorption,absorción,absorção,поглощение,吸収

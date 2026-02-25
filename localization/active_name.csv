@@ -1,42 +1,42 @@
 ﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
-0,,none,keins,aucun,ninguno,vazio,none,なし
-1,,unstable catalyst,instabiler katalysator,catalyseur instable,catalizador inestable,catalisador instável,unstable catalyst,不安定触媒
-2,,ancient runestone,antiker runenstein,pierre runique ancienne,runa arcana,pedra rúnica antiga,ancient runestone,古代のルーンストーン
-3,,petri dish,petrischale,boîte de pétri,placa de petri,placa de petri,petri dish,ペトリ皿
-4,,scrambler,chiffre,brouilleur,recodificador,misturador,scrambler,スクランブラー
-5,,excavation kit,ausgrabungskit,kit d'excavation,kit de excavación,kit de escavação,excavation kit,発掘道具
-6,,supply drop,versorgung,largage d'équipement,suministros,aparição de suprimentos,supply drop,補給物資
-7,,focusing lens,fokuslinse,focus d'objectif,lente de enfoque,lentes de foco,focusing lens,集束レンズ
-8,,resonating crystal,resonanzkristall,cristal résonnant,cristal resonante,cristal ressonante,resonating crystal,共鳴結晶
-9,,repair nanites,reparaturnaniten,nanites réparatrices,nanoreparadores,nanorrobôs de reparação,repair nanites,修理ナノマシン
-10,,prototype genocide,massakerprototyp,génocide prototype,protomasacre,protótipo de extermínio,prototype genocide,試作虐殺兵器
-11,,cracked blade,gebrochene klinge,lame fendue,acero crepitante,lâmina rachada,cracked blade,折れた刃
-12,,hunter array,jägerarray,matrice de chasseur,matriz de caza,matriz de caçador,hunter array,ハンターアレイ
-13,,golden gun,goldene pistole,soleil doré,pistola de oro,arma dourada,golden gun,ゴールデンガン
-14,,capital investment,kapitalanlage,investissement,inversión de capital,investimento de capital,capital investment,資本投資
-15,,pulse reflector,pulsreflektor,réflecteur à impulsion,reflector magnético,refletor de pulso,pulse reflector,パルスリフレクター
-16,,delivery drone,lieferungsdrone,drone livreur,dron de reparto,drone de entrega,delivery drone,配送ドローン
-17,,tome of pyromancy,buch der feuermagie,tome de pyromancie,tomo de piromancia,tomo de piromancia,tome of pyromancy,炎の魔導書
-18,,tome of cryomancy,buch der eismagie,tome de cryomancie,tomo de criomancia,tomo de criomancia,tome of cryomancy,氷の魔導書
-19,,tome of geomancy,buch der erdmagie,tome de géomancie,tomo de geomancia,tomo de geomancia,tome of geomancy,大地の魔導書
-20,,tome of electromancy,buch der sturmmagie,tome d'électromancie,tomo de electromancia,tomo de eletromancia,tome of electromancy,電撃の魔道書
-21,,tome of sight,buch der sicht,tome de prédiction,tomo de videncia,tomo da visão,tome of sight,眼の魔道書
-22,,tome of the abyss,buch des abgrunds,tome de l'abîme,tomo del abismo,tomo do abismo,tome of the abyss,深淵の魔道書
-23,,tome of enigmancy,buch der enigma,tome de l'énigmancie,tomo de criptomancia,tomo de enigmática,tome of enigmancy,秘術の魔道書
+0,,none,keins,aucun,ninguno,vazio,нет,なし
+1,,unstable catalyst,instabiler katalysator,catalyseur instable,catalizador inestable,catalisador instável,нестабильный катализатор,不安定触媒
+2,,ancient runestone,antiker runenstein,pierre runique ancienne,runa arcana,pedra rúnica antiga,древний рунный камень,古代のルーンストーン
+3,,petri dish,petrischale,boîte de pétri,placa de petri,placa de petri,чашка петри,ペトリ皿
+4,,scrambler,chiffre,brouilleur,recodificador,misturador,скрамблер,スクランブラー
+5,,excavation kit,ausgrabungskit,kit d'excavation,kit de excavación,kit de escavação,набор для раскопок,発掘道具
+6,,supply drop,versorgung,largage d'équipement,suministros,aparição de suprimentos,сброс припасов,補給物資
+7,,focusing lens,fokuslinse,focus d'objectif,lente de enfoque,lentes de foco,фокусирующая линза,集束レンズ
+8,,resonating crystal,resonanzkristall,cristal résonnant,cristal resonante,cristal ressonante,резонирующий кристалл,共鳴結晶
+9,,repair nanites,reparaturnaniten,nanites réparatrices,nanoreparadores,nanorrobôs de reparação,ремонтные нанороботы,修理ナノマシン
+10,,prototype genocide,massakerprototyp,génocide prototype,protomasacre,protótipo de extermínio,прототип геноцида,試作虐殺兵器
+11,,cracked blade,gebrochene klinge,lame fendue,acero crepitante,lâmina rachada,треснувший клинок,折れた刃
+12,,hunter array,jägerarray,matrice de chasseur,matriz de caza,matriz de caçador,охотничья матрица,ハンターアレイ
+13,,golden gun,goldene pistole,soleil doré,pistola de oro,arma dourada,золотой пистолет,ゴールデンガン
+14,,capital investment,kapitalanlage,investissement,inversión de capital,investimento de capital,капиталовложение,資本投資
+15,,pulse reflector,pulsreflektor,réflecteur à impulsion,reflector magnético,refletor de pulso,импульсный отражатель,パルスリフレクター
+16,,delivery drone,lieferungsdrone,drone livreur,dron de reparto,drone de entrega,дрон доставки,配送ドローン
+17,,tome of pyromancy,buch der feuermagie,tome de pyromancie,tomo de piromancia,tomo de piromancia,том пиромантии,炎の魔導書
+18,,tome of cryomancy,buch der eismagie,tome de cryomancie,tomo de criomancia,tomo de criomancia,том криомантии,氷の魔導書
+19,,tome of geomancy,buch der erdmagie,tome de géomancie,tomo de geomancia,tomo de geomancia,том геомантии,大地の魔導書
+20,,tome of electromancy,buch der sturmmagie,tome d'électromancie,tomo de electromancia,tomo de eletromancia,том электромантии,電撃の魔道書
+21,,tome of sight,buch der sicht,tome de prédiction,tomo de videncia,tomo da visão,том ясновидения,眼の魔道書
+22,,tome of the abyss,buch des abgrunds,tome de l'abîme,tomo del abismo,tomo do abismo,том бездны,深淵の魔道書
+23,,tome of enigmancy,buch der enigma,tome de l'énigmancie,tomo de criptomancia,tomo de enigmática,том энигмантии,秘術の魔道書
 24,,scanner 2.0,scanner 2.0,scanner 2.0,escáner 2.0,scanner 2.0,scanner 2.0,スキャナー2.0
-25,,voltaic thruster,voltaischer antrieb,propulseur voltaïque,propulsor voltaico,propulsor voltaico,voltaic thruster,電流スラスター
-26,,blazing wreath,feuerkranz,couronne de flammes,aliento llameante,coroa de fogo,blazing wreath,炎のリース
-27,,warped teleporter,verzerrter teleporter,téléporteur exploratoire,teletransportador,teletransportador,warped teleporter,歪曲テレポーター
-28,,glacial shard,eisiger zapfen,fragment glacial,esquirla glacial,fragmento glacial,glacial shard,氷河の破片
-29,,demolition charge,explosive ladung,charge de démolition,carga demoledora,carga de demolição,demolition charge,汎用破壊爆弾
-30,,stormheart,sturmherz,cœur orageux,ojo de tormenta,coração de tempestade,stormheart,ストームハート
-31,,mini weapon trove,mini waffenkammer,mini mine d'armes,miniarsenal,miniarsenal,mini weapon trove,小型武器庫
-32,,grim idol,grimmer idol,idole macabre,ídolo sombrío,ídolo sombrio,grim idol,不気味な像
-33,,demon's claw,dämonenklaue,griffe de démon,garra demoníaca,garra do demônio,demon's claw,悪魔の爪
-34,,crystallized light,kristallisiertes licht,lumière cristallisée,luz cristalizada,luz cristalizada,crystallized light,クリスタル・ライト
-35,,hellfire barrage,fegefeuer,barrage infernal,cortina infernal,barragem de fogo do inferno,hellfire barrage,ヘルファイヤ爆撃
-36,,haunted blaster,geistblaster,fusil hanté,plasma embrujado,detonador assombrado,haunted blaster,死霊のブラスター
-37,,king's ransom,königssumme,rançon du roi,bala afortunada,resgate do rei,king's ransom,王の身代金
-38,,cleanup crew,aufräumcrew,équipe de nettoyage,equipo de limpieza,equipe de limpeza,cleanup crew,掃除屋
-39,,titan fist,titanfaust,poing de titan,puño de titán,punho do titã,titan fist,巨人の拳
-40,,skeleton key,skelettschlüssel,clé de squelette,llave maestra,chave mestra,skeleton key,万能鍵
+25,,voltaic thruster,voltaischer antrieb,propulseur voltaïque,propulsor voltaico,propulsor voltaico,вольтовый ускоритель,電流スラスター
+26,,blazing wreath,feuerkranz,couronne de flammes,aliento llameante,coroa de fogo,пылающий венок,炎のリース
+27,,warped teleporter,verzerrter teleporter,téléporteur exploratoire,teletransportador,teletransportador,искажённый телепортер,歪曲テレポーター
+28,,glacial shard,eisiger zapfen,fragment glacial,esquirla glacial,fragmento glacial,ледяной осколок,氷河の破片
+29,,demolition charge,explosive ladung,charge de démolition,carga demoledora,carga de demolição,подрывной заряд,汎用破壊爆弾
+30,,stormheart,sturmherz,cœur orageux,ojo de tormenta,coração de tempestade,сердце бури,ストームハート
+31,,mini weapon trove,mini waffenkammer,mini mine d'armes,miniarsenal,miniarsenal,мини-арсенал,小型武器庫
+32,,grim idol,grimmer idol,idole macabre,ídolo sombrío,ídolo sombrio,мрачный идол,不気味な像
+33,,demon's claw,dämonenklaue,griffe de démon,garra demoníaca,garra do demônio,коготь демона,悪魔の爪
+34,,crystallized light,kristallisiertes licht,lumière cristallisée,luz cristalizada,luz cristalizada,кристаллизованный свет,クリスタル・ライト
+35,,hellfire barrage,fegefeuer,barrage infernal,cortina infernal,barragem de fogo do inferno,адский огневой вал,ヘルファイヤ爆撃
+36,,haunted blaster,geistblaster,fusil hanté,plasma embrujado,detonador assombrado,одержимый бластер,死霊のブラスター
+37,,king's ransom,königssumme,rançon du roi,bala afortunada,resgate do rei,королевский выкуп,王の身代金
+38,,cleanup crew,aufräumcrew,équipe de nettoyage,equipo de limpieza,equipe de limpeza,команда зачистки,掃除屋
+39,,titan fist,titanfaust,poing de titan,puño de titán,punho do titã,кулак титана,巨人の拳
+40,,skeleton key,skelettschlüssel,clé de squelette,llave maestra,chave mestra,скелетный ключ,万能鍵

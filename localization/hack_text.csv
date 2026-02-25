@@ -1,38 +1,38 @@
 ﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
-0,,hack,hacken,pirater,hackear,hackear,hack,ハッキング
-1,,difficulty >>,schwergrad >>,difficulté >>,dificultad >>,dificuldade >>,difficulty >>,難易度>>
-2,,layers     >>,schichten  >>,niveaux >>,capas >>,camadas >>,layers     >>,レイヤー数>>
-3,,easy peasy,einfach,du gâteau,pan comido,moleza,easy peasy,お茶の子さいさい
-4,,kinda tricky,knifflig,un peu dur,complicadillo,meio complicado,kinda tricky,やや難しい
-5,,highly secure,sehr sicher,super sécurisé,muy seguro,extremamente seguro,highly secure,かなり堅牢
-6,,daemon-proofed,daemonensicher,anti-daemons,antidaemon,à prova do daemon,daemon-proofed,悪魔対策済み
-7,,on_success >>,erfolg     >>,réussite >>,por_éxito >>,com_sucesso >>,on_success >>,成功時>>
-8,,on_failure >>,fehlschlag >>,échec >>,por_fallo >>,com_fracasso >>,on_failure >>,失敗時>>
-9,,take.damage(),nimm.schaden(),subir.dégâts(),daño.recibido(),sofrer.dano(),take.damage(),負う.ダメージ()
-10,,do.nothing(),nichts.passiert(),ne.rien.faire(),sin.efectos(),nada.a.fazer(),do.nothing(),何もしない()
-11,,attempts.left(,versuche.übrig(,essais.restants(,intentos.rest(,tentativ.rest.() ,attempts.left(,残り回数(
-12,,open.sesame(),öffne.tür(),sésame.ouvre-toi(),ábrete.sésamo(),abre-te.sésamo(),open.sesame(),ひらけ.ゴマ()
-13,,init.hack(),init.hack(),init.piratage(),inic.hackeo(),iniciar.hackeamento(),init.hack(),開始.ハッキング()
-14,,weapon.up(),mehr.waffen(),arme.augmentée(),aumento.arma(),aumento.de.arma(),weapon.up(),武器.増加()
-15,,price.down(),preis.runter(),prix.baissé(),rebaja.precio(),preço.reduzido(),price.down(),価格.ダウン()
-16,,upgrades.up(),mehr.upgrades(),améliorations.bonus(),más.mejoras(),aumento.de.aprim() ,upgrades.up(),アップグレード.増加()
-17,,forcefield.down(),kraftfeld.runter(),champ.de.force.baissé(),anular.barrera(),queda.de.barreira() ,forcefield.down(),フォースフィールド.ダウン()
-18,,item.upgrade(),belohnung.besser(),amélioration.objet(),mejora.objeto(),aprimoramento.de.item(),item.upgrade(),アイテム.アップグレード()
-19,,collect(),sammeln(),récolter(),collecter(),coletar(),collect(),アイテム.獲得()
-20,,create.reward(),belohnung(),récompense(),recompensa(),aprim.de.item() ,create.reward(),作成.報酬()
-21,,active.up(),mehr.waffen(),active.bonus(),aumento.activa(),aumento.ativado(),active.up(),アクティブ.増加()
-22,,careful!,vorsicht!,attention !,¡cuidado!,cuidado!,careful!,慎重に！
-23,,collect!,sammle!,récolte !,¡obtén eso!,colete!,collect!,集めろ！
-24,,loop!,durch!,boucle !,¡bucle!,loop!,loop!,ループ！
-25,,navigate!,navigiere!,fraye-toi un chemin !,¡ábrete paso!,navegue!,navigate!,導け！
-26,,block!,blocke!,bloque !,¡bloquea!,bloqueie!,block!,ブロック！
-27,,firewall!,firewall!,mur de feu !,¡cortafuegos!,firewall!,firewall!,ファイアウォール！
-28,,survive!,überlebe!,survis !,¡sobrevive!,sobreviva!,survive!,生き残れ！
-29,,pick!,nimm!,choisis !,¡escoge!,escolha!,pick!,取れ！
-30,,math!,mathe!,calcule !,¡calcula!,calcule!,math!,計算しろ！
-31,,shoot!,feuer!,tire !,¡dispara!,atire!,shoot!,撃て！
-32,,repeat!,mache nach!,répète !,¡repite!,repita!,repeat!,繰り返せ！
-33,,dig!,grabe!,creuse !,¡cava!,cave!,dig!,掘り進め！
-34,,harvest!,nimm auf!,récolte !,¡cosecha!,colha!,harvest!,取りまくれ！
-35,,pick highest!,größte zahl!,choisis le plus élevé !,¡elige: más alto!,escolha o mais alto!,pick highest!,最大値を選べ！
-36,,pick lowest!,kleinste zahl!,choisis le moins élevé !,¡elige: más bajo!,escolha o mais baixo!,pick lowest!,最小値を選べ！
+0,,hack,hacken,pirater,hackear,hackear,взлом,ハッキング
+1,,difficulty >>,schwergrad >>,difficulté >>,dificultad >>,dificuldade >>,сложность >>,難易度>>
+2,,layers     >>,schichten  >>,niveaux >>,capas >>,camadas >>,слои     >>,レイヤー数>>
+3,,easy peasy,einfach,du gâteau,pan comido,moleza,проще простого,お茶の子さいさい
+4,,kinda tricky,knifflig,un peu dur,complicadillo,meio complicado,непросто,やや難しい
+5,,highly secure,sehr sicher,super sécurisé,muy seguro,extremamente seguro,высокая защита,かなり堅牢
+6,,daemon-proofed,daemonensicher,anti-daemons,antidaemon,à prova do daemon,защита от демонов,悪魔対策済み
+7,,on_success >>,erfolg     >>,réussite >>,por_éxito >>,com_sucesso >>,при_успехе >>,成功時>>
+8,,on_failure >>,fehlschlag >>,échec >>,por_fallo >>,com_fracasso >>,при_провале >>,失敗時>>
+9,,take.damage(),nimm.schaden(),subir.dégâts(),daño.recibido(),sofrer.dano(),получить.урон(),負う.ダメージ()
+10,,do.nothing(),nichts.passiert(),ne.rien.faire(),sin.efectos(),nada.a.fazer(),ничего.не.делать(),何もしない()
+11,,attempts.left(,versuche.übrig(,essais.restants(,intentos.rest(,tentativ.rest.() ,попыток.осталось(,残り回数(
+12,,open.sesame(),öffne.tür(),sésame.ouvre-toi(),ábrete.sésamo(),abre-te.sésamo(),сим.сим.откройся(),ひらけ.ゴマ()
+13,,init.hack(),init.hack(),init.piratage(),inic.hackeo(),iniciar.hackeamento(),нач.взлом(),開始.ハッキング()
+14,,weapon.up(),mehr.waffen(),arme.augmentée(),aumento.arma(),aumento.de.arma(),оружие.вверх(),武器.増加()
+15,,price.down(),preis.runter(),prix.baissé(),rebaja.precio(),preço.reduzido(),цена.вниз(),価格.ダウン()
+16,,upgrades.up(),mehr.upgrades(),améliorations.bonus(),más.mejoras(),aumento.de.aprim() ,улучшения.вверх(),アップグレード.増加()
+17,,forcefield.down(),kraftfeld.runter(),champ.de.force.baissé(),anular.barrera(),queda.de.barreira() ,силовое.поле.вниз(),フォースフィールド.ダウン()
+18,,item.upgrade(),belohnung.besser(),amélioration.objet(),mejora.objeto(),aprimoramento.de.item(),улучш.предмета(),アイテム.アップグレード()
+19,,collect(),sammeln(),récolter(),collecter(),coletar(),собрать(),アイテム.獲得()
+20,,create.reward(),belohnung(),récompense(),recompensa(),aprim.de.item() ,создать.награду(),作成.報酬()
+21,,active.up(),mehr.waffen(),active.bonus(),aumento.activa(),aumento.ativado(),актив.вверх(),アクティブ.増加()
+22,,careful!,vorsicht!,attention !,¡cuidado!,cuidado!,осторожно!,慎重に！
+23,,collect!,sammle!,récolte !,¡obtén eso!,colete!,собери!,集めろ！
+24,,loop!,durch!,boucle !,¡bucle!,loop!,цикл!,ループ！
+25,,navigate!,navigiere!,fraye-toi un chemin !,¡ábrete paso!,navegue!,навигируй!,導け！
+26,,block!,blocke!,bloque !,¡bloquea!,bloqueie!,блокируй!,ブロック！
+27,,firewall!,firewall!,mur de feu !,¡cortafuegos!,firewall!,файрвол!,ファイアウォール！
+28,,survive!,überlebe!,survis !,¡sobrevive!,sobreviva!,выживи!,生き残れ！
+29,,pick!,nimm!,choisis !,¡escoge!,escolha!,выбери!,取れ！
+30,,math!,mathe!,calcule !,¡calcula!,calcule!,считай!,計算しろ！
+31,,shoot!,feuer!,tire !,¡dispara!,atire!,стреляй!,撃て！
+32,,repeat!,mache nach!,répète !,¡repite!,repita!,повтори!,繰り返せ！
+33,,dig!,grabe!,creuse !,¡cava!,cave!,копай!,掘り進め！
+34,,harvest!,nimm auf!,récolte !,¡cosecha!,colha!,собирай!,取りまくれ！
+35,,pick highest!,größte zahl!,choisis le plus élevé !,¡elige: más alto!,escolha o mais alto!,выбери наибольшее!,最大値を選べ！
+36,,pick lowest!,kleinste zahl!,choisis le moins élevé !,¡elige: más bajo!,escolha o mais baixo!,выбери наименьшее!,最小値を選べ！

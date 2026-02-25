@@ -1,25 +1,25 @@
 ﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
-0,,report,report,rapport,informe,relatório,report,レポート
-1,,practice,übung,entraîn. ,práctica,treino,practice,練習
-2,,trials,prüfungen,épreuves,pruebas,provações,trials,試練
-3,,extras,extras,bonus,extras,extras,extras,エクストラ
-10,,took & hits,nahm & treffer,& coups subis,& impactos recibidos,atingido & vezes,took & hits,被弾数：&
-11,,& rooms,& räume,& salles,& salas,& salas,& rooms,部屋数：&
-12,,& secret rooms,& geheimräume,& salles secrètes,& salas secretas,& salas secretas,& secret rooms,隠し部屋：&
-13,,empty,leer,vide,vacío,vazio,empty,空
-14,,hold left to#delete a report,zum löschen#links halten,maintenir gauche :#supprimer rapport,mantén izquierda:#borrar informe,mantenha à esquerda para#excluir um relatório,hold left to#delete a report,左を長押しして#レポートを削除
-15,,hold right to#save report,zum speichern#rechts halten,maintenir droite :#sauvegarder rapport,mantén derecha:#guardar informe,mantenha à direita para#salvar o relatório,hold right to#save report,右を長押しして#レポートを保存
-16,,hold right to#overwrite report,zum überschreiben#rechts halten,maintenir droite :#remplacer rapport,mantén derecha:#sobrescribir informe,mantenha à direita para#substituir o relatório,hold right to#overwrite report,右を長押しして#レポートを上書き
-17,,reflect on your past,denke über #deine vergangenheit nach,réfléchis à ton passé,reflexiona sobre#tu pasado,reflita sobre seu passado,reflect on your past,過去を振り返る
-18,,begin,start,démarrer,iniciar,iniciar,begin,開始
-19,,recall past battles,wecke alte kampferinnerungen,se souvenir de combats,rememora batallas,relembrar batalhas passadas,recall past battles,過去の戦いを思い返す
-20,,tier,rang,rang,rango,nível,tier,ティア
-21,,default,präsent,par défaut,inicial,padrão,default,通常
-22,,damaged,verletzt,abîmée,dañada,com danos,damaged,損傷状態
-23,,original,original,originale,original,original,original,オリジナル
-24,,trial i,prüfung i,épreuve i,prueba i,provação i,trial i,試練I
-25,,trial ii,prüfung ii,épreuve ii,prueba ii,provação ii,trial ii,試練II
-26,,trial iii,prüfung iii,épreuve iii,prueba iii,provação iii,trial iii,試練III
-27,,trial iv,prüfung iv,épreuve iv,prueba iv,provação iv,trial iv,試練IV
-28,,trial v,prüfung v,épreuve v,prueba v,provação v,trial v,試練V
-29,,looking for something..?,suchst du nach etwas..?,que cherches-tu... ?,¿buscas algo...?,procurando alguma coisa...?,looking for something..?,何かお探しかい…？
+0,,report,report,rapport,informe,relatório,отчёт,レポート
+1,,practice,übung,entraîn. ,práctica,treino,практика,練習
+2,,trials,prüfungen,épreuves,pruebas,provações,испытания,試練
+3,,extras,extras,bonus,extras,extras,дополнения,エクストラ
+10,,took & hits,nahm & treffer,& coups subis,& impactos recibidos,atingido & vezes,& ударов,被弾数：&
+11,,& rooms,& räume,& salles,& salas,& salas,& комнат,部屋数：&
+12,,& secret rooms,& geheimräume,& salles secrètes,& salas secretas,& salas secretas,& тайных комнат,隠し部屋：&
+13,,empty,leer,vide,vacío,vazio,пусто,空
+14,,hold left to#delete a report,zum löschen#links halten,maintenir gauche :#supprimer rapport,mantén izquierda:#borrar informe,mantenha à esquerda para#excluir um relatório,удерживай влево#чтобы удалить отчёт,左を長押しして#レポートを削除
+15,,hold right to#save report,zum speichern#rechts halten,maintenir droite :#sauvegarder rapport,mantén derecha:#guardar informe,mantenha à direita para#salvar o relatório,удерживай вправо#для сохранения,右を長押しして#レポートを保存
+16,,hold right to#overwrite report,zum überschreiben#rechts halten,maintenir droite :#remplacer rapport,mantén derecha:#sobrescribir informe,mantenha à direita para#substituir o relatório,удерживай вправо#чтобы перезаписать отчёт,右を長押しして#レポートを上書き
+17,,reflect on your past,denke über #deine vergangenheit nach,réfléchis à ton passé,reflexiona sobre#tu pasado,reflita sobre seu passado,взгляни на своё прошлое,過去を振り返る
+18,,begin,start,démarrer,iniciar,iniciar,начать,開始
+19,,recall past battles,wecke alte kampferinnerungen,se souvenir de combats,rememora batallas,relembrar batalhas passadas,вспомни прошлые бои,過去の戦いを思い返す
+20,,tier,rang,rang,rango,nível,уровень,ティア
+21,,default,präsent,par défaut,inicial,padrão,базовый,通常
+22,,damaged,verletzt,abîmée,dañada,com danos,повреждённый,損傷状態
+23,,original,original,originale,original,original,оригинальный,オリジナル
+24,,trial i,prüfung i,épreuve i,prueba i,provação i,испытание i,試練I
+25,,trial ii,prüfung ii,épreuve ii,prueba ii,provação ii,испытание ii,試練II
+26,,trial iii,prüfung iii,épreuve iii,prueba iii,provação iii,испытание iii,試練III
+27,,trial iv,prüfung iv,épreuve iv,prueba iv,provação iv,испытание iv,試練IV
+28,,trial v,prüfung v,épreuve v,prueba v,provação v,испытание v,試練V
+29,,looking for something..?,suchst du nach etwas..?,que cherches-tu... ?,¿buscas algo...?,procurando alguma coisa...?,что-то ищешь..?,何かお探しかい…？
