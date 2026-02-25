@@ -1,8 +1,9 @@
-# Star of Providence — Русская локализация
+# Star of Providence - русская локализация
 
-> Это **AI-перевод** который выполнен с помощью **Claude Sonnet 4.6** (Anthropic), с ручной вычиткой и адаптацией игровых терминов.
+> Это AI-перевод с помощью модели Sonnet 4.6 (Anthropic) + ручная вычитка и адаптация игровых терминов.
 
-Неофициальный русский перевод для [Star of Providence](https://store.steampowered.com/app/603960/Star_of_Providence/) · **98.5% переведено**
+Неофициальный русский перевод для [Star of Providence](https://store.steampowered.com/app/603960/Star_of_Providence/) · 98.5% переведено.
+
 
 ---
 
@@ -13,21 +14,27 @@
 3. Укажи путь к папке игры (скрипт попробует найти автоматически)
 4. В игре выбери язык **«русский»**
 
-Чтобы вернуть оригинал — запусти `restore_backup.bat`.
+Чтобы восстановить файлы, в случае проблем - запусти `restore_backup.bat`.
 
 ---
 
-## Поддержать автора
+<div align="center">
 
-Если перевод пригодился — можно закинуть на кофе:
+### Поддержать автора
 
-[![Поддержать на Donation Alerts](https://img.shields.io/badge/Donation_Alerts-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgMTloMjBMMTIgMnptMCAxNS41Yy0uODMgMC0xLjUtLjY3LTEuNS0xLjVzLjY3LTEuNSAxLjUtMS41IDEuNS42NyAxLjUgMS41LS42NyAxLjUtMS41IDEuNXptMS0zLjVoLTJWOGgydjZ6Ii8+PC9zdmc+)](https://your-donationalerts-link-here)
+Если перевод пригодился - можно закинуть на кофе :3
+
+[![Задонатить](https://img.shields.io/badge/DonationAlerts-FF6A00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.donationalerts.com/r/sergaris)
+
+<sub>Кнопка не работает? → [прямая ссылка](https://www.donationalerts.com/c/sergaris)</sub>
+
+</div>
 
 ---
 
-## Нашёл ошибку в переводе?
+## Об ошибках в переводе
 
-Если что-то переведено неточно или звучит странно — открой [Issue](../../issues) и опиши:
+Если что-то переведено неточно или звучит странно - открой [Issue](../../issues) и опиши:
 - где в игре встретилась строка
 - что не так
 - свой вариант (если есть)
@@ -57,7 +64,7 @@
 
 ```bash
 # Инициализация localization/ из файлов игры (первый запуск)
-python scripts/patch.py init --game-path "E:\SteamLibrary\steamapps\common\Star of Providence"
+python scripts/patch.py init --game-path "E:\\SteamLibrary\\steamapps\\common\\Star of Providence"
 
 # Повторная инициализация (перезапись)
 python scripts/patch.py init --game-path "..." --force
@@ -81,7 +88,7 @@ python scripts/patch.py validate
 | Бестиарий и смерти | ✓ Готово |
 | Диалоги NPC | ✓ Готово |
 
-> Оставшиеся ~1.5% — плейсхолдеры разработчиков (`???`, `lorem ipsum`), латинские фразы и имена в титрах.
+> Оставшиеся ~1.5% - плейсхолдеры разработчиков (`???`, `lorem ipsum`), латинские фразы и имена в титрах.
 
 ### Технические детали
 
@@ -92,8 +99,8 @@ python scripts/patch.py validate
 
 ### При обновлении игры
 
-1. `python scripts/patch.py init --game-path "..." --force` — обновит localization/
-2. `git diff` — новые строки будут иметь ZHS == EN
+1. `python scripts/patch.py init --game-path "..." --force` - обновит localization/
+2. `git diff` - новые строки будут иметь ZHS == EN
 3. Переведи новые строки
 
 </details>
