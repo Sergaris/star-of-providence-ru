@@ -1,0 +1,15 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+0,,enemies,feinde ,ennemis,enemigos,inimigos,enemies,敵
+1,,rooms,räume,salles,salas,salas,rooms,部屋
+2,,rooms,räume,salles,salas,salas,rooms,部屋
+3,,score,score,score,puntuación,pontuação,score,スコア
+4,,time spent,zeit benötigt,temps de jeu,tiempo empleado,tempo gasto,time spent,所要時間
+5,,times hit,treffer genommen,coups reçus,impactos recibidos,vezes que foi atingido,times hit,被弾数
+6,,rooms explored,erforschte räume,salles explorées,salas exploradas,salas exploradas,rooms explored,探索した部屋
+7,,secrets found,geheimräume gefunden,secrets trouvés,secretos hallados,salas secretas encontradas,secrets found,発見した隠し部屋
+8,,new highscore,neuer highscore,nouveau record,nuevo récord,nova pontuação máxima,new highscore,新しいハイスコア
+9,,your score,dein score,ton score,tu puntuación,sua pontuação,your score,あなたのスコア
+10,,old highscore,alter highscore,ancien record,récord anterior,pontuação máxima anterior,old highscore,これまでのハイスコア
+11,,current highscore,momentaner highscore,record actuel,récord actual,pontuação máxima atual,current highscore,現在のハイスコア
+12,,your rank is ,dein rank ist ,ton rang :,rango obtenido:,sua classificação é,your rank is,あなたのランク：
+13,,seals broken,siegel gebrochen,sceaux brisés,sellos rotos,selos quebrados,seals broken,解かれた封印

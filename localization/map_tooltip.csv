@@ -1,0 +1,53 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+,Room labels.,,,,,,,
+0,,unexplored,unerforscht,inexplorée,inexplorada,inexplorada,unexplored,未探索
+1,,press select to teleport,eingabe um zu teleportieren,choisis-en une où te téléporter,selecciona para teletransportarte,selecione para se teletransportar,press select to teleport,選択してテレポート
+2,,you are here,du bist hier,tu es ici,estás aquí,você está aqui,you are here,現在地
+3,,cannot reach this area,unerreichbar,zone inaccessible,zona inalcanzable,não é possível acessar essa área,cannot reach this area,このエリアには入れない
+,Secondary screen.,,,,,,,
+4,,upgrades,upgrades,améliorations,mejoras,aprimoramentos,upgrades,アップグレード
+5,,cartridges,steckmod.,cartouches,cartuchos,cartuchos,cartridges,カセット
+6,,keywords,schlüsselworte,mots-clés,palabras clave,palavras-chave,keywords,キーワード
+7,,blessing,segen,bénédiction,bendición,bênção,blessing,祝福
+8,,bombs,bomben,bombes,bombas,bombas,bombs,ボム
+9,,active,aktiv,active,activa,ativo,active,アクティブ
+,Tip.,,,,,,,
+10,,bomb button,bombentaste,bouton bombe,pulsa 'bomba',botão de bomba,bomb button,ボムボタン
+11,,dash button,tauchtaste,bouton propulsion,pulsa 'impulso',botão de acelerar,dash button,ダッシュボタン
+12,,to break weapon,waffe brechen,pour casser une arme,para romper arma,quebrar arma,to break weapon,武器を破壊
+13,,to extend info,extra info,pour plus d'infos,para ver más info,exibir mais informações,to extend info,詳細へ
+,None.,,,,,,,
+14,,-none-,-keins-,-aucune-,-nada-,-vazio-,-none-,-無し-
+,Impossible note.,,,,,,,
+15,,-impossible-,-unmöglich-,-impossible-,-imposible-,-inacessível-,-impossible-,-不可能-
+,Skully stats.,,,,,,,
+16,,stats,statistik,stats,atributos,atributos,stats,データ
+17,,damage,schaden,dégâts,daño,dano,damage,ダメージ
+18,,max ammo,max ammo,munitions max,munición máx.,munição máxima,max ammo,最大弾数
+19,,fire speed,feuergeschw.,vitesse tir ,vel. disparo ,vel. disparo ,fire speed,攻撃速度
+20,,crit chance,krit. chance,taux critique,prob. crítico ,prob. crítico ,crit chance,クリティカル率
+21,,crit damage,krit. schaden,dégâts crit. ,daño crítico,dano crítico,crit damage,クリティカルダメージ
+,Skully status.,,,,,,,
+22,,"ohhh, shiny!","ohhh, glänzend!","ooh, ça brille !","hola, ¡preciosidad!","ohhhh, que brilhante!","ohhh, shiny!",すごい、光ってる！
+23,,where we goin?,wo gehen wir hin?,on va où ?,¿adónde vamos?,para onde vamos?,where we goin?,どこに向かってるんだ？
+24,,hey there handsome.,na ihr hübschen?,"salut, mon beau.","hola, hermosura.","olá, lindeza.",hey there handsome.,やあ、今日もステキだね。
+25,,shhhhhhh.,shhhhhhh.,chut.,shhhhhh.,chiiiiiu.,shhhhhhh.,シーッ。
+26,,have we met before?,kennen wir uns?,on se connaît ?,¿nos conocemos?,já nos conhecemos?,have we met before?,前にどこかで会ったっけ？
+27,,that’s cool.,ist kuhl.,c'est cool.,genial.,que legal.,that’s cool.,いいね。
+,Skully on full HP.,,,,,,,
+28,,lookin’ good!,alles gut!,tout va bien !,¡me siento genial!,tudo ótimo!,lookin’ good!,元気そうだな！
+29,,no worries.,keine sorgen.,pas de souci.,todo correcto.,sem problemas.,no worries.,心配ない。
+,Skully low HP.,,,,,,,
+30,,you gonna eat that?,wirst du das essen?,tu vas manger ça ?,¿vas a comerte eso?,você vai comer isso?,you gonna eat that?,それを食べるのか？
+31,,stop that.,hör damit auf.,arrête.,para ya.,pare com isso.,stop that.,やめとけよ。
+32,,you need a break?,brauchst du pause?,besoin d'une pause ?,¿necesitas descansar?,precisa de uma pausa?,you need a break?,一回休んどく？
+33,,my lips are sealed!,meine lippen sind zu!,je ne vais rien dire !,¡no diré nada!,minha boca é um túmulo!,my lips are sealed!,僕は喋れないんだ！
+34,,oof. ow.,oof. ow.,ouf. aïe.,ufff. ay.,aff. ai.,oof. ow.,おっとっと。
+35,,oops.,oops.,mince.,cachis.,ops.,oops.,おおっと。
+36,,not you too.,nicht du auch.,"pas toi, aussi.",¿para ti también?,até você?,not you too.,あんたもなのか。
+,Skully with 10+ modules.,,,,,,,
+37,,im feeling ...powerful.,ich fühle mich ...mächtig.,je me sens... fort.,siento... poder.,me sinto... poderoso.,im feeling ...powerful.,なんだか力が…みなぎってきたぞ。
+38,,getting stronger!,werde stärker!,toujours plus puissant !,¡cada vez más fuerte!,cada vez mais forte!,getting stronger!,強くなっている！
+39,,i am become!,ich bin geworden!,je suis à fond !,¡estoy en plenitud!,estou pleno!,i am become!,スカルにふさわしい！
+40,,"ohhhh, what’s that do??","ohhhh, was tut das?","oh, ça fait quoi, ça ?","vaya, ¿eso qué hace?","huuum, o que isso faz??","ohhhh, what’s that do??",うわぁ、あれは何をするんだ？？
+41,,aahhh! mine! mine!,aahhh! meins! meins!,"aah ! Je veux, je veux !",¡aaah! ¡es mío! ¡mío!,ahhhh! é meu! é meu!,aahhh! mine! mine!,うわぁ、あれは私のだ！

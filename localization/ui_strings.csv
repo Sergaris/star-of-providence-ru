@@ -1,0 +1,40 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+0,,best:,bestes:,meilleur :,mejor:,melhor:,рекорд:,ベスト：
+,Microcore.,,,,,,,
+1,,inactive machine,inaktive maschine,machine inactive,máquina inactiva,máquina inativa,неактивная машина,非活性状態の機械
+2,,reward,belohnung,récompense,premio,recompensa,награда,報酬
+3,,reward lv.,belohnung lv.,niv. récompense,nv. de premio,nv. da recompensa,уровень награды,報酬レベル
+,Midgame save screen.,,,,,,,
+4,,game in progress#continue?,spiel im gang#fortsetzen?,partie en cours##continuer ?,partida en curso#¿continuar?,jogo em andamento#continuar?,игра в процессе#продолжить?,ゲームが進行中です#続けますか？
+5,,yeah,ja,oui,sí,claro,да,あぁ
+6,,nah,nein,non,no,nem,нет,いや
+,Save discrepancy.,,,,,,,
+7,,save discrepancy detected##which save would#you like to use?,speicherdiskrepanz entdeckt##welches speicher#willst du nutzen?,autre sauvegarde détectée##laquelle veux-tu#utiliser ?,discrepancia de guardado##¿qué partida guardada#quieres usar?,discrepância de salvamento detectada##qual salvamento#você gostaria de usar?,обнаружено расхождение сохранений##какое сохранение#использовать?,セーブデータの不一致を検出##どちらのセーブデータを使用しますか？
+,Database comm.,,,,,,,
+8,,"greetings, visitor %nr%","gruße, besucher %nr%","bonjour, visiteur %nr%","saludos, visitante %nr%","saudações, visitante %nr%","привет, посетитель %nr%",ようこそ、来訪者 %nr%
+9,,external influence on database coherency has been detected_,externe influenz auf die datenbank wurde erkannt_,influence externe détectée sur la cohérence de la base de donnée_,injerencias en la integridad de la base de datos detectadas_,influência externa na coerência do banco de dados foi detectada_,обнаружено внешнее воздействие на целостность базы данных_,データベースへの外部からの干渉を検知しました_
+10,,"corruption levels: 94%,#null driver event imminent_","korruption: 94%,#nulltreiberereignis steht unmittelbar bevor_","corruption : 94 %,#événement du pilote de null imminent_","niveles de corrupción: 94%,#evento de controlador null inminente_","nível de corrupção: 94%, #evento de driver de null iminente_","уровень повреждения: 94%,#событие нулевого драйвера неизбежно_",破損率：94%#NULLドライバーイベントが切迫しています_
+11,,the user has been deemed a void-class threat_,benutzer wurde als leere-klasse bedrohung befunden_,utilisateur identifié comme menace de classe néant_,usuario clasificado como amenaza de clase: vacío_,o usuário foi considerado uma ameaça da classe ‘vazio’_,пользователь признан угрозой класса «пустота»_,ユーザーを虚無クラスの脅威と認定しました_
+12,,purification in progress..._,säuberung ist im gange..._,purification en cours..._,purga en proceso..._,purificação em andamento..._,очистка в процессе…_,浄化プロセスを起動…_
+13,,thank you for using#the facility database_,vielen dank für die#nutzung der datenbank_,merci d'avoir utilisé#la base de données_,gracias por usar la base de#datos de las instalaciones_,obrigado por usar#o banco de dados da instalação_,спасибо за использование#базы данных объекта_,施設データベースをご利用いただき#ありがとうございました_
+14,,see you next time_,auf wiedersehen_,à bientôt_,hasta la próxima_,até a próxima_,до следующей встречи_,またのご利用をお待ちしております_
+16,,"greetings, visitor_","gruße, besucher_","bonjour, visiteur_","saludos, visitante_","saudações, visitante_","привет, посетитель_",ようこそ、来訪者_
+,Looping.,,,,,,,
+15,,-loop %loop%-,-schleife %loop%-,-boucle %loop%-,-vuelta %loop%-,-loop %loop%-,-цикл %loop%-,‐ループ %loop%‐
+,Save discrepancy.,,,,,,,
+17,,local save,lokalspeicher,sauv. locale,partida local,salvamento local,локальное сохранение,ローカルのセーブ
+18,,cloud save,cloudspeicher,sauv. du cloud,en la nube,salvamento em nuvem,облачное сохранение,クラウドのセーブ
+,Hold button confirm.,,,,,,,
+19,,hold confirm,gedrückt halten,maintenir pour confirmer,mantén para 'confirmar',segure para confirmar,удерживайте,長押しで決定
+,Saving reports.,,,,,,,
+20,,- save report,- report speichern,- sauvegarder rapport,- guardar informe,- salvar relatório,- сохранить отчёт,- レポートを保存
+,Tutorial,,,,,,,
+21,,good luck,viel glück,bonne chance,buena suerte,boa sorte,удачи,幸運を
+22,,your time is nigh,deine zeit ist gekommen,ton heure approche,se acerca tu hora,sua hora está chegando,твой час близок,汝の時は来たれり
+,Loop titles.,,,,,,,
+23,,it begins,es beginnt,c'est parti,esto es el principio,é o começo,начало,始まり
+24,,out of depth,zu tief,c'est de plus en plus compliqué,en la boca del lobo,fora das profundezas,за гранью,深度不明
+25,,everything hurts,alles schmerzt,la souffrance est incessante,dolor por todas partes,tudo dói,всё болит,なにもかも痛い
+26,,eternal nightmare,ewiger albtraum,un cauchemar éternel,pesadilla eterna,pesadelo eterno,вечный кошмар,永遠の悪夢
+,Discrepancy confirm.,,,,,,,
+27,,confirm choice,wahl bestätigen,confirmer le choix,confirmar elección,confirmar escolha,подтвердить выбор,よろしいですか？

@@ -1,0 +1,20 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+0,,sup,hi,salut,hola,olá,sup,やあ
+1,,advice,ratschlag,conseil,consejo,conselho,advice,アドバイス
+2,,gossip,tratsch,ragots,charla,especulações,gossip,よもやま話
+3,,shop,kaufen,magasin,tienda,loja,shop,ショップ
+4,,bye,tschüss,au revoir,adiós,tchau,bye,じゃまた
+5,,furnish,deko,meubler,amueblar,mobiliar,furnish,インテリア
+6,,yes,ja,oui,sí,sim,yes,はい
+7,,no,nein,non,no,não,no,いいえ
+8,,music,musik,musique,música,música,music,音楽
+9,,#/p2/c1that'll be,#/p2/c1das wird,#/p2/c1ça fera,#/p2/c1su precio es,#/p2/c1isso dá,#/p2/c1that'll be,#/p2/c1値段は
+10,,carpet,teppich,tapis,alfombra,tapete,carpet,カーペット
+11,,banner,banner,bannière,estandarte,banner,banner,バナー
+12,,portrait,porträt,portrait,retrato,retrato,portrait,絵画
+13,,spoop,spoop,spoop,spoop,spoop,spoop,かぶりもの
+14,,#/p2/c4can be toggled.,#/p2/c4ist umschaltbar.,#/p2/c4peut s'alterner.,#/p2/c4se puede activar o no.,#/p2/c4pode ativar e desativar.,#/p2/c4can be toggled.,#/p2/c4切り替え可能だ。
+15,,cancel,abbrechen,annuler,cancelar,cancelar,cancel,キャンセル
+16,,starting loop:,startschleife:,boucle de départ :,vuelta inicial:,loop inicial:,starting loop:,開始ループ：
+17,,no loops,keine schleifen,sans boucles,sin vueltas,sem loops,no loops,ループなし
+18,,hardmode not cleared#cannot loop in hardmode,hartmodus nicht bezwungen#kann nicht schleifen,mode difficile non fini#boucles indisponibles,modo difícil no completado#vueltas no disponibles,modo difícil não concluído#loop não disponível no modo difícil,hardmode not cleared#cannot loop in hardmode,ハードモードを未クリア#ハードモードでループ選択不可

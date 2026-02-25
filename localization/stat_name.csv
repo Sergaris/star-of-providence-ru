@@ -1,0 +1,11 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+0,,rarity,rarität,rareté,rareza,raridade,редкость,レア度
+1,,damage,schaden,dégâts,daño,dano,урон,ダメージ
+2,,firerate,feuerrate,cadence,cadencia,taxa de disparo,скорострельность,攻撃速度
+3,,max ammo,max ammo,munitions max,munición máx.,munição máxima,макс. боезапас,最大弾数
+4,,crit chance,krit. chance,taux critique,probab. crítico,chance de crítico,шанс крита,クリティカル率
+5,,crit damage,krit. schaden,dégâts critiques,daño crítico,dano crítico,урон крита,クリティカルダメージ
+6,,refill ammo,ammofüllung,recharge,recarga,reabastecer munição,пополнение боезапаса,弾薬を補給
+7,,max hp,max hp,pv max,ps máx.,pv máximo,макс. ОЗ,最大HP
+8,,gain bombs,erhalte bomben,obtiens bombes,obtienes bombas,obtém bombas,получить бомбы,ボムを取得
+9,,gain a shield,erhalte ein schild,obtiens bouclier,obtienes un escudo,obtém um escudo,получить щит,シールドを取得

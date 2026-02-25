@@ -1,0 +1,65 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+0,,magnifying glass,vergrößerungsglass,loupe,lupa,lupa,magnifying glass,虫メガネ
+1,,firecracker,knaller,pétard,petardo,rojão,firecracker,爆竹
+2,,victory sign,siegeszeichen,signe de victoire,señal de la victoria,sinal de vitória,victory sign,勝利のサイン
+3,,golden star,goldstern,étoile dorée,estrella dorada,estrela dourada,golden star,金の星
+4,,cool sunglasses,sonnenbrillen,lunettes cool,gafas molonas,óculos de sol descolados,cool sunglasses,イケてるサングラス
+5,,spyglass,fernglass,longue-vue,catalejo,luneta,spyglass,双眼鏡
+6,,hat,hut,chapeau,sombrero,chapéu,hat,帽子
+7,,plate,platte,plaque,placa,chapa,plate,装甲
+8,,13 leaf clover,13-kleeblatt,trèfle à 13 feuilles,trébol de 13 hojas,trevo de 13 folhas,13 leaf clover,十三葉のクローバー
+9,,mining hat,bergbauerhut,casque de mineur,casco de minería,capacete de mineração,mining hat,採掘ヘルメット
+10,,rocket,rakette,fusée,cohete,foguete,rocket,ロケット
+11,,cloak,mantel,cape,capa,manto,cloak,マント
+12,,syringe,spritze,seringue,jeringuilla,seringa,syringe,注射器
+13,,electrode,elektrode,électrode,electrodo,eletrodo,electrode,電極
+14,,trumpet,horn,trompette,trompeta,trompete,trumpet,トランペット
+15,,dagger,dolch,dague,daga,punhal,dagger,ダガー
+16,,member card,klubkarte,carte de membre,carné de miembro,cartão de sócio,member card,メンバーカード
+17,,pickaxe,spitzhacke,pioche,pico,picareta,pickaxe,つるはし
+18,,hammer,hammer,marteau,martillo,martelo,hammer,ハンマー
+19,,glowing rune,glühende rune,rune luisante,runa brillante,runa brilhante,glowing rune,光るルーン
+20,,treasure chest,schatztruhe,coffre à trésor,cofre del tesoro,baú de tesouro,treasure chest,宝箱
+21,,err: integer overflow,err: integer überlauf,erreur : dépassement d'entier,error: rango excedido,erro: intervalo excedido,err: integer overflow,エラー：整数オーバーフロー
+22,,battery,batterie,batterie,batería,bateria,battery,電池
+23,,broken mirror,gebrochener spiegel,miroir brisé,espejo roto,espelho quebrado,broken mirror,割れた鏡
+24,,crowbar,brechstange,pied-de-biche,palanca,pé de cabra,crowbar,バール
+25,,gun,gewehr,arme à feu,pistola,pistola,gun,銃
+26,,calculator,taschenrechner,calculatrice,calculadora,calculadora,calculator,電卓
+27,,bulwark,schild,rempart,bastión,baluarte,bulwark,防御壁
+28,,plug,stecker,prise,enchufe,plugue,plug,プラグ
+29,,braveheart,mutherz,courage,corazón osado,coração valente,braveheart,勇敢な心
+30,,scope,visier,viseur,mira larga,mira,scope,スコープ
+31,,crackshot,schnappschuss,bon tireur,tiro experto,tiro rápido,crackshot,クラックショット
+32,,reflector,reflektor,réflecteur,reflector,refletor,reflector,リフレクター
+33,,garbage data?,abfalldata?,données inutiles ?,¿datos basura?,dados inúteis?,garbage data?,ごみデータ？
+34,,magic sword,mag. schwert,épée magique,espada mágica,espada mágica,magic sword,魔法の剣
+35,,magic shield,mag. schild,bouclier magique,escudo mágico,escudo mágico,magic shield,魔法の盾
+36,,magic rod,mag. stab,bâton magique,vara mágica,vara mágica,magic rod,魔法のロッド
+37,,magic pack,mag. tasche,pack magique,bolsa mágica,pacote mágico,magic pack,魔法のカバン
+38,,templegame,tempelspiel,jeu du temple,templojuego,jogo do templo,templegame,寺院ゲーム
+39,,power core,kraftkern,noyau de pouvoir,núcleo de poder,núcleo de poder,power core,パワーコア
+40,,ironheart,eisenherz,cœur de fer,corazón férreo,coração de ferro,ironheart,鉄の心
+41,,transfusion,transfusion,transfusion,transfusión,transfusão,transfusion,輸血
+42,,credit card,kreditkarte,carte bancaire,tarjeta de crédito,cartão de crédito,credit card,クレジットカード
+43,,bandage,verband,pansement,venda,curativo,bandage,包帯
+44,,contract,kontrakt,contrat,contrato,contrato,contract,契約
+45,,blast powder,knallpulver,poudre explosive,pólvora,pólvora,blast powder,火薬
+46,,jackhammer,presslufthammer,marteau-piqueur,martillo neumático,britadeira,jackhammer,削岩機
+47,,flag,flagge,drapeau,bandera,bandeira,flag,旗
+48,,kunai,kunai,kunai,kunai,kunai,kunai,クナイ
+49,,robot honey,roboterhönig,miel à robot,miel para bots,mel para robôs,robot honey,ロボットはちみつ
+50,,needle,nadel,aiguille,aguja,agulha,needle,針
+51,,broken wand,gebrochener stab,baguette cassée,varita rota,varinha quebrada,broken wand,折れた杖
+52,,juggernaut,koloss,colosse,mastodonte,rolo compressor,juggernaut,ジャガーノート
+53,,little flame,kleine flamme,petite flamme,llamita,pequena chama,little flame,小さき炎
+54,,grudge,groll,rancune,rencor,rancor,grudge,恨み
+55,,pillow,kissen,coussin,cojín,almofada,pillow,枕
+56,,juicebox,packung saft,brique de jus,cargador,caixa de suco,juicebox,ジュースパック
+57,,nautilus,nautilus,nautilus,nautilus,náutilo,nautilus,オウムガイ
+58,,ace of hearts,herzass,as de cœur,as de corazones,ás de coração,ace of hearts,ハートのエース
+59,,ace of diamonds,karoass,ace de carreau,as de diamantes,ás de diamantes,ace of diamonds,ダイヤのエース
+60,,ace of spades,pikass,as de pique,as de picas,ás de espadas,ace of spades,スペードのエース
+61,,ace of clubs,ass der stäbe,as de trèfle,as de tréboles,ás de paus,ace of clubs,クラブのエース
+62,,ace of coins,ass der münzen,as de denier,as de oros,ás de ouros,ace of coins,コインのエース
+63,,ace of cups,ass der pokale,as de coupe,as de copas,ás de copas,ace of cups,カップのエース

@@ -1,0 +1,38 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+0,,player,spieler,joueur,jugador,jogador,игрок,プレイヤー
+1,,lethality,tödlichkeit,létalité,letalidad,letalidade,летальность,致死性
+2,,exit,aus,quitter,salir,sair,выход,戻る
+12,,null#normal mode,null#normaler modus,null#mode normal,null#modo normal,null#modo normal,null#обычный режим,ＮＵＬＬ#ノーマルモード
+13,,d-13#hard mode,d-13#schwerer modus,d-13#mode difficile,d-13#modo difícil,d-13#modo difícil,d-13#сложный режим,Ｄ-１３#ハードモード
+14,,overlord#sword mode,overlord#schwertmodus,chef suprême#mode épée,señor supremo#modo espada,senhor supremo#modo espada,overlord#режим меча,オーバーロード#ソードモード
+15,,???#chaos mode,???#chaosmodus,???#mode chaos,???#modo caos,???#modo caos,???#режим хаоса,？？？#カオスモード
+16,,null,null,null,null,null,null,ＮＵＬＬ
+17,,d-13,d-13,d-13,d-13,d-13,d-13,Ｄ-１３
+18,,overlord,overlord,chef suprême,señor supremo,senhor supremo,overlord,オーバーロード
+19,,???,???,???,???,???,???,？？？
+20,,a. blaster,a.blaster,a. blaster,fulminadora,a. blaster,a. бластер,A.ブラスター
+21,,"arena blaster#no bombs, active items","arena blaster#keine bomben, aktivnutzung","arena blaster#sans bombes, objets actifs","fulminadora#sin bombas, objetos activos","arena blaster#sem bombas, só itens ativos","арена бластер#без бомб, с активными предметами",アリーナブラスター#ボムの代わりにアクティブアイテム
+22,,skully#modular weapons,skully#modulare waffen,skully#armes modulaires,skully#armas modulares,skully#armas modulares,скалли#модульное оружие,スカリー#モジュール武器
+23,,skully,skully,skully,skully,skully,скалли,スカリー
+24,,"armsmaster#two weapon slots, no bombs","waffenmeister#zwei waffenslots, keine bomben","maître d'armes#deux armes, sans bombes","maestro armero#dos armas, sin bombas",mestre das armas#dois espaços para armas#sem bombas,"мастер оружия#два слота оружия, без бомб",アームマスター#武器スロット2つ、ボムなし
+25,,armsmaster,waffenmeist.,maître d'armes,maestro armero,mestre das armas,мастер оружия,アームマスター
+30,,"mild#100% damage, 10 health","mild#100% schaden, 10 hp","léger#100 % dégâts, 10 pv","apacible#100% de daño, 10 ps","moderado#100% de dano, 10 de vida","лёгкий#100% урона, 10 ОЗ",マイルド#与ダメージ100%、HP10
+31,,"intense#125% damage, 50% health","intensiv#125% schaden, 50% hp","intense#125 % dégâts, 50 % pv","intenso#125% de daño, 50% de ps","intenso#125% de dano, 50% de vida","интенсив#125% урона, 50% ОЗ",刺激的#与ダメージ125%、HP50%
+32,,"sudden death#200% damage, 1 hp","plötzlicher tod#200% schaden, 1 hp","mort subite#200 % dégâts, 1 pv","muerte súbita#200% de daño, 1 ps","morte súbita#200% de dano, 1 de pv","внезапная смерть#200% урона, 1 ОЗ",突然の死#与ダメージ200%、HP1
+33,,mild,mild,léger,apacible,moderado,лёгкий,マイルド
+34,,intense,intensiv,intense,intenso,intenso,интенсив,刺激的
+35,,sudden death,plötz. tod,mort subite,muerte súbita,morte súbita,внезапная смерть,突然の死
+48,,seed,seed,seed,semilla,seed,сид,シード
+49,,random,zufalls,aléatoire,al azar,aleatória,случайно,ランダム
+50,,random seed,zufälliger seed,seed aléatoire,semilla al azar,seed aleatória,случайный сид,ランダムシード
+51,,custom seed#press to set,eigener seed#drücke zum bestimmen,seed perso.#appuyer pour définir,semilla pers.#pulsa para añadir,seed personalizada#pressione para definir,свой сид#нажмите для ввода,カスタムシード#選択で設定
+64,,normal mode#default difficulty,normalmodus#standardschwierigkeit,mode normal#difficulté par défaut,modo normal#dificultad inicial,modo normal#dificuldade padrão,обычный режим#стандартная сложность,ノーマルモード#通常の難易度
+65,,hard mode#expert difficulty,hartmodus#expertenschwierigkeit,mode difficile#difficulté pour experts,modo difícil#dificultad para expertos,modo difícil#dificuldade para experientes,сложный режим#для экспертов,ハードモード#上級者向け
+66,,normal,normal,normal,normal,normal,обычный,ノーマル
+67,,hard,hart,difficile,difícil,difícil,сложный,ハード
+68,,difficulty,schwierigkeit,difficulté,dificultad,dificuldade,сложность,難易度
+69,,loops,schleifen,boucles,vueltas,loops,циклы,ループ
+70,,enabled,an,oui,sí,ativado,вкл,オン
+71,,disabled,aus,non,no,desativado,выкл,オフ
+72,,null#twelfth visitor,null#zwölfter besucher,null#douzième visiteur,null#duodécimo visitante,null#décimo segundo visitante,null#двенадцатый посетитель,ＮＵＬＬ#第１２の来訪者
+73,,d-13#thirteenth visitor,d-13#dreizehnter besucher,d-13#treizième visiteur,d-13#decimotercer visitante,d-13#décimo terceiro visitante,d-13#тринадцатый посетитель,Ｄ-１３#第１３の来訪者

@@ -1,0 +1,12 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+0,,erases and briefly prevents enemy attacks,löscht und verhindert fiendliche angriffe,efface et évite brièvement les attaques ennemies,destruye y evita brevemente los ataques enemigos,elimina e evita brevemente ataques inimigos,erases and briefly prevents enemy attacks,敵の攻撃をかき消す緊急回避手段
+1,,fires a gigalaser,feuert ein tödliches strahl,tire un gigalaser,dispara un gigaláser,dispara um gigalaser,fires a gigalaser,ギガレーザーを発射
+2,,damages and freezes all enemies,schadet und friert feinde ein,cause des dégâts et gèle tous les ennemis,daña y congela a todos los enemigos,causa dano e congela todos os inimigos,damages and freezes all enemies,すべての敵にダメージと凍結を与える
+3,,lasts 4x as long,hält 4 mal länger an,dure 4x plus longtemps,dura 4 veces más,tem duração 4 vezes maior,lasts 4x as long,持続時間4倍
+4,,damages all enemies,schadet alle feinde,dégâts sur tous les ennemis,daña a todos los enemigos,causa dano a todos os inimigos,damages all enemies,すべての敵にダメージ
+5,,releases a burst of swarmers,schickt ein pack schwärmer los,libère un essaim de bourdrones,expulsa una ráfaga de zánganos,lança uma enxurrada de enxamers,releases a burst of swarmers,スウォーマーの群れを放つ
+6,,uncovers new rooms. used last otherwise,gräbt neue räume aus. sonst immer zuletzt benutzt,révèle des salles. à utiliser en dernier recours,"revela salas nuevas o, en combate, se usa como último recurso","revela novas salas. caso contrário, sempre usado por último",uncovers new rooms. used last otherwise,新しい部屋をあばく。それ以外では最後に使用
+7,,converts bullets to money,wandelt geschosse in geld um,convertit les balles en argent,convierte las balas en dinero,converte balas em dinheiro,converts bullets to money,敵弾をお金に変える
+8,,reflects bullets,reflektiert geschosse,renvoie les balles,refleja las balas,reflete balas,reflects bullets,敵弾を跳ね返す
+9,,always used first in combat. +5% damage and speed while held,immer zuerst benutzt im kampf. +5% schaden und geschwindigkeit wenn getragen,à utiliser en premier en combat. dégâts et vitesse +5 % (portée),se usa primero en combate. equipada: +5% de daño y velocidad,sempre usado primeiro em combate. +5% de dano e velocidade enquanto entiver com ela,always used first in combat. +5% damage and speed while held,戦闘中は常に最初に使用される。所有中はダメージとスピードが5%上昇
+10,,destroys all blocks,zerstört alle blöcke,détruit tous les blocs,destruye todos los bloques,destrói todos os blocos,destroys all blocks,すべてのブロックを破壊

@@ -1,0 +1,85 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+0,,start,start,jouer,jugar,iniciar jogo,старт,スタート
+1,,options,optionen,options,opciones,opções,опции,オプション
+2,,exit,ausgang,quitter,salir,sair,выход,終了
+3,,back,zurück,retour,atrás,voltar,назад,戻る
+4,,video,video,vidéo,vídeo,vídeo,видео,ビデオ設定
+5,,audio,audio,audio,sonido,áudio,звук,オーディオ設定
+6,,controls,steuerung,commandes,controles,controles,управление,操作設定
+7,,mode,bildschirm,mode,modo,modo,режим,モード
+8,,resolution,auflösung,résolution,resolución,resolução,разрешение,解像度
+9,,cursor,mauszeiger,curseur,cursor,cursor,курсор,カーソル
+10,,shake cam,rüttelung,vibrat. cam.,temblor cám.,vib. de câmera ,тряска камеры,カメラの揺れ
+11,,fullscreen,voll,plein écran,pantalla comp.,tela cheia,полный экран,全画面表示
+12,,window,fenster,fenêtre,ventana,em janela,окно,ウィンドウ表示
+13,,default,normal,par défaut,inicial,padrão,по умолчанию,デフォルト
+14,,crosshair,fadenkreuz,collimateur,retícula,mira,прицел,照準
+15,,mild,mild,léger,suave,moderado,лёгкая,優しめ
+16,,normal,normal,normal,normal,normal,обычная,普通
+17,,strong,stark,fort,intensa,intenso,сильная,強い
+18,,nuclear,nuklear,nucléaire ,nuclear,nuclear,ядерная,超激しい
+19,,music volume,musik,vol. musique ,música,vol. música ,громкость музыки,BGM音量
+20,,sfx volume,sound,volume sons,efectos,vol. efeitos ,громкость эффектов,SFX音量
+21,,controls,steuerung,commandes,controles,controles,управление,操作設定６
+22,,control mode,steuermodus,mode commandes ,modo de control,modo de controle,режим управления,操作モード
+23,,keyboard,tastatur,clavier,teclado,teclado,клавиатура,キーボード
+24,,controller,controller,manette,mando,controle,геймпад,コントローラー
+25,,resume,fortsetzen,reprendre,continuar,continuar,продолжить,再開
+26,,exit to menu,zum hauptmenu,retourner au menu,salir al menú,ir para o menu,в меню,メニューに戻る
+27,,exit game,spiel verlassen,quitter le jeu,salir del juego,sair do jogo,выход из игры,ゲーム終了
+28,,enter the new key,neue taste eingeben,appuie sur la touche,pulsa una tecla,escolha a nova tecla,нажмите новую клавишу,新しいキーを入力してください
+29,,escape to cancel,esc zum abbrechen,échap. pour annuler,esc para cancelar,pressione esc para cancelar,ESC — отмена,ESCキーでキャンセル
+30,,key already in use,taste bereits besetzt,touche déjà attribuée,tecla ya en uso,tecla já em uso,клавиша уже занята,キーは使用中です
+31,,language,sprache,langue,idioma,idioma,язык,言語
+32,,choose one,wähle eins,choisis-en 1,elige una,selecione um,выберите один,1つを選択
+33,,so be it,so sei es,ansi soit-il,que así sea,que assim seja,да будет так,ではそうしよう
+34,,thats all folks,das wars leute,c'est tout,eso es todo,"isso é tudo, pessoal",вот и всё,以上だ
+35,,photosensitivity,fotosensetivität,photosensibilité,fotosensibilidad,fotossensib. ,светочувствительность,視覚過敏対応
+36,,on,an,avec,sí,ligado,вкл,オン
+37,,off,aus,sans,no,desligado,выкл,オフ
+38,,3d sound,3d sound,son 3d,sonido 3d,som 3d,3D-звук,3Dサウンド
+39,,global,global,mondial,global,global,глобальный,グローバル
+40,,local,lokal,local,local,local,локальный,ローカル
+41,,scanlines,abtastlinien,lignes de scan,líneas de exp. ,linhas de varr. ,развёртка,スキャンライン
+42,,interpolation,interpolation,interpolation,interpolación,interpolação,интерполяция,補間
+43,,reset controls,steuerung zurücksetzen,rétablir commandes,restablecer contr.,redefinir controles,сбросить управление,操作をリセット
+44,,aim opacity,zieltransparenz,opacité d'objectif,opacidad objetivo,opacidade da mira,прозрачность прицела,照準の不透明度
+45,,v-sync,v-sync,v-sync,sinc. vertical,v-sync,верт. синхр.,垂直同期
+46,,the nimbus#has been broken,der ring#wurde gebrochen,le halo#s'est brisé,el aura#se ha roto,o círculo#se quebrou,нимб#разрушен,ルーンの輪が#破壊された
+47,,crosshair 2,fadenkreuz 2,collimateur 2,retícula 2,mira 2,прицел 2,照準2
+48,,reset progress,fortschritt zurücksetzen,réinitialiser,reiniciar progreso,zerar o progresso,сбросить прогресс,進行状況をリセット
+49,,crt,crt,crt,crt,crt,ЭЛТ,CRT
+50,,ui flicker,ui-flackern,clignotement iu,parpadeo iu,inter. da iu ,мерцание интерфейса,UIの点滅
+51,,enter the new button,neuen knopf eingeben,appuyer sur la touche,pulsa un botón,escolha o novo botão,нажмите новую кнопку,新しいボタンを入力
+52,,start to cancel,start zum abbrechen,start pour annuler,start para cancelar,pressione start para cancelar,START — отмена,スタートでキャンセル
+53,,button already in use,knopf bereits besetzt,touche déjà attribuée,botón ya en uso,botão já em uso,кнопка уже занята,ボタンは使用中です
+54,,hitbox,hitbox,hitbox,caja de colisión,hitbox,хитбокс,当たり判定
+55,,outlines,umrisse,contours,contornos,contornos,контуры,アウトライン
+56,,restart,neustart,redémarrer,reiniciar,reiniciar,перезапуск,リスタート
+57,,shiny lasers,laser-glühen,lasers brillants,láseres brillantes,lasers com brilho,яркие лазеры,まぶしいレーザー
+58,,guns on hold,feuer halten,appuyer pour tirer,disparar pulsando,tiro ao press. ,стрельба по удержанию,スティックでショットを撃たない
+59,,the breach#has been opened,die bresche#wurde geöffnet,la brèche#est ouverte,se ha abierto#la fisura,a ruptura#se abriu,брешь#открыта,裂け目が#開かれた
+60,,laser aim,zielstrahl,visée du laser,apuntado láser,mira laser,лазерный прицел,レーザー照準
+61,,empty,leer,vide,vacío,vazio,пусто,空
+62,,cannot#dig here,der ring#wurde gebrochen,impossible de#creuser ici,no se puede#cavar aquí,não é possível#escavar aqui,здесь#копать нельзя,ここは#掘れない
+63,,back to hub,zum hub,retour au hub,volver a la central,voltar à central,в хаб,ハブに戻る
+64,,-tier %tier%-,-rank %tier%-,-rang %tier%-,-rango %tier%-,-nível %tier%-,-уровень %tier%-,- ティア %tier% -
+65,,bravo!,bravo!,bravo !,¡bravo!,bravo!,браво!,ブラボー！
+66,,excellent!,hervorragend!,excellent !,¡excelente!,excelente!,отлично!,エクセレント！
+67,,perfect!,perfekt!,parfait !,¡perfecto!,perfeito!,идеально!,パーフェクト！
+68,,touchscreen,touchscreen,écran tactile,pantalla táctil,touchscreen,сенсорный экран,タッチスクリーン
+69,,strafing,strafing,dépl. latéral,desp. lateral,mov. lateral,стрейф,ストレイフ移動
+70,,vibration,vibration,vibration,vibración,vibração,вибрация,振動
+71,,button style,knopfstil,style de touche,estilo de botones,estilo de botão,стиль кнопок,ボタンのスタイル
+72,,auto,auto,auto,auto,auto,авто,自動
+73,,playstation,playstation,playstation,playstation,playstation,PLAYSTATION,PLAYSTATION
+74,,xbox,xbox,xbox,xbox,xbox,XBOX,XBOX
+75,,switch pro,switch pro,switch pro,switch pro,switch pro,SWITCH PRO,SWITCHプロコン
+76,,generic,jeglich,générique,genérico,genérico,общий,一般
+77,,+ to cancel,+ zum abbrechen,+ pour annuler,+ para cancelar,+ para cancelar,+ — отмена,＋でキャンセル
+78,,aim assist,zielassistänz,aide à la visée,puntería asist.,assist. de mira,помощь прицеливания,エイムアシスト
+79,,assist range,wirkung,portée d'aide,rango de asist.,alcance da assist.,радиус помощи,アシスト範囲
+80,,wallpaper,hintergrund,fond d'écran,fondo de pant.,papel de parede,обои,壁紙
+81,,low,schwach,faible,bajo,nível baixo,низкая,弱
+82,,medium,mittel,moyenne,medio,nível médio,средняя,中
+83,,high,stark,élevée,alto,nível alto,высокая,強
