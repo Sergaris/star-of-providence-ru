@@ -36,6 +36,9 @@ NARRATIVE_FILES = {
 
 DESCRIPTION_FILES = {
     "bestiary_entry.csv",
+}
+
+TOOLTIP_FILES = {
     "item_tooltip.csv",
     "upgrade_tooltip.csv",
     "upgrade_description.csv",
@@ -48,14 +51,14 @@ DESCRIPTION_FILES = {
     "tooltip_crate.csv",
     "active_description.csv",
     "area_report.csv",
+    "weapon_keyword.csv",
+    "weapon_keyword_ex.csv",
 }
 
 UI_FILES = {
     "ui_strings.csv",
     "option_caption.csv",
     "option_tooltip.csv",
-    "weapon_keyword.csv",
-    "weapon_keyword_ex.csv",
     "bestiary_special.csv",
     "bestiary_type.csv",
 }
@@ -87,9 +90,10 @@ SKIP_FILES = {
     "credits.csv",
 }
 
-DIALOGUE_MAX_VIS = 40
+DIALOGUE_MAX_VIS = 22
 NARRATIVE_MAX_VIS = 42
 DESCRIPTION_MAX_VIS = 50
+TOOLTIP_MAX_VIS = 25
 UI_MAX_VIS = 45
 DEFAULT_MAX_VIS = 50
 
@@ -157,6 +161,8 @@ def get_max_vis(filename: str) -> int | None:
         return NARRATIVE_MAX_VIS
     if filename in DESCRIPTION_FILES:
         return DESCRIPTION_MAX_VIS
+    if filename in TOOLTIP_FILES:
+        return TOOLTIP_MAX_VIS
     if filename in UI_FILES:
         return UI_MAX_VIS
     return DEFAULT_MAX_VIS
