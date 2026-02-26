@@ -139,6 +139,12 @@ def fix_zhs_text(text: str, max_vis: int) -> str:
     """Fix line breaks in ZHS text, recalculating word wraps without breaking mid-word."""
     if not text or not text.strip():
         return text
+        
+    # Keep leading hash if present, but ignore for algorithm
+    leading_hash = ""
+    if text.startswith("#"):
+        leading_hash = "#"
+        text = text[1:]
 
     double_parts = text.split("##")
     fixed_double: list[str] = []
@@ -148,7 +154,7 @@ def fix_zhs_text(text: str, max_vis: int) -> str:
         dp_clean = re.sub(r" +", " ", dp.replace("#", " ")).strip()
         fixed_double.append(break_segment(dp_clean, max_vis))
 
-    return "##".join(fixed_double)
+    return leading_hash + "##".join(fixed_double)
 
 
 def get_max_vis(filename: str) -> int | None:

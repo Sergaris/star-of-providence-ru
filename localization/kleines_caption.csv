@@ -1,4 +1,4 @@
-﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 0,,sup,hi,salut,hola,olá,привет,やあ
 1,,advice,ratschlag,conseil,consejo,conselho,совет,アドバイス
 2,,gossip,tratsch,ragots,charla,especulações,сплетни,よもやま話
@@ -8,13 +8,13 @@
 6,,yes,ja,oui,sí,sim,да,はい
 7,,no,nein,non,no,não,нет,いいえ
 8,,music,musik,musique,música,música,музыка,音楽
-9,,#/p2/c1that'll be,#/p2/c1das wird,#/p2/c1ça fera,#/p2/c1su precio es,#/p2/c1isso dá,/p2/c1это будет стоить,#/p2/c1値段は
+9,,#/p2/c1that'll be,#/p2/c1das wird,#/p2/c1ça fera,#/p2/c1su precio es,#/p2/c1isso dá,#/p2/c1это будет стоить,#/p2/c1値段は
 10,,carpet,teppich,tapis,alfombra,tapete,ковёр,カーペット
 11,,banner,banner,bannière,estandarte,banner,баннер,バナー
 12,,portrait,porträt,portrait,retrato,retrato,портрет,絵画
 13,,spoop,spoop,spoop,spoop,spoop,маска,かぶりもの
-14,,#/p2/c4can be toggled.,#/p2/c4ist umschaltbar.,#/p2/c4peut s'alterner.,#/p2/c4se puede activar o no.,#/p2/c4pode ativar e desativar.,/p2/c4можно переключить.,#/p2/c4切り替え可能だ。
+14,,#/p2/c4can be toggled.,#/p2/c4ist umschaltbar.,#/p2/c4peut s'alterner.,#/p2/c4se puede activar o no.,#/p2/c4pode ativar e desativar.,#/p2/c4можно переключить.,#/p2/c4切り替え可能だ。
 15,,cancel,abbrechen,annuler,cancelar,cancelar,отмена,キャンセル
 16,,starting loop:,startschleife:,boucle de départ :,vuelta inicial:,loop inicial:,начальный цикл:,開始ループ：
 17,,no loops,keine schleifen,sans boucles,sin vueltas,sem loops,без циклов,ループなし
-18,,hardmode not cleared#cannot loop in hardmode,hartmodus nicht bezwungen#kann nicht schleifen,mode difficile non fini#boucles indisponibles,modo difícil no completado#vueltas no disponibles,modo difícil não concluído#loop não disponível no modo difícil,хардмод не пройден цикл в хардмоде#недоступен,ハードモードを未クリア#ハードモードでループ選択不可
+18,,hardmode not cleared#cannot loop in hardmode,hartmodus nicht bezwungen#kann nicht schleifen,mode difficile non fini#boucles indisponibles,modo difícil no completado#vueltas no disponibles,modo difícil não concluído#loop não disponível no modo difícil,хардмод не пройден#цикл в хардмоде#недоступен,ハードモードを未クリア#ハードモードでループ選択不可
