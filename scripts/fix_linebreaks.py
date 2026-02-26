@@ -136,7 +136,7 @@ def break_segment(segment: str, max_vis: int) -> str:
 
 
 def fix_zhs_text(text: str, max_vis: int) -> str:
-    """Fix line breaks in ZHS text, respecting existing '#' and '##'."""
+    """Fix line breaks in ZHS text, recalculating word wraps without breaking mid-word."""
     if not text or not text.strip():
         return text
 
@@ -144,9 +144,9 @@ def fix_zhs_text(text: str, max_vis: int) -> str:
     fixed_double: list[str] = []
 
     for dp in double_parts:
-        single_parts = dp.split("#")
-        fixed_single = [break_segment(seg, max_vis) for seg in single_parts]
-        fixed_double.append("#".join(fixed_single))
+        # First, remove single '#' to recalculate breaks
+        dp_clean = re.sub(r" +", " ", dp.replace("#", " ")).strip()
+        fixed_double.append(break_segment(dp_clean, max_vis))
 
     return "##".join(fixed_double)
 

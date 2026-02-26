@@ -7,9 +7,9 @@
 11,,& rooms,& räume,& salles,& salas,& salas,& комнат,部屋数：&
 12,,& secret rooms,& geheimräume,& salles secrètes,& salas secretas,& salas secretas,& тайных комнат,隠し部屋：&
 13,,empty,leer,vide,vacío,vazio,пусто,空
-14,,hold left to#delete a report,zum löschen#links halten,maintenir gauche :#supprimer rapport,mantén izquierda:#borrar informe,mantenha à esquerda para#excluir um relatório,удерживай влево#чтобы удалить отчёт,左を長押しして#レポートを削除
-15,,hold right to#save report,zum speichern#rechts halten,maintenir droite :#sauvegarder rapport,mantén derecha:#guardar informe,mantenha à direita para#salvar o relatório,удерживай вправо#для сохранения,右を長押しして#レポートを保存
-16,,hold right to#overwrite report,zum überschreiben#rechts halten,maintenir droite :#remplacer rapport,mantén derecha:#sobrescribir informe,mantenha à direita para#substituir o relatório,удерживай вправо чтобы#перезаписать отчёт,右を長押しして#レポートを上書き
+14,,hold left to#delete a report,zum löschen#links halten,maintenir gauche :#supprimer rapport,mantén izquierda:#borrar informe,mantenha à esquerda para#excluir um relatório,удерживай влево чтобы удалить отчёт,左を長押しして#レポートを削除
+15,,hold right to#save report,zum speichern#rechts halten,maintenir droite :#sauvegarder rapport,mantén derecha:#guardar informe,mantenha à direita para#salvar o relatório,удерживай вправо для сохранения,右を長押しして#レポートを保存
+16,,hold right to#overwrite report,zum überschreiben#rechts halten,maintenir droite :#remplacer rapport,mantén derecha:#sobrescribir informe,mantenha à direita para#substituir o relatório,удерживай вправо чтобы перезаписать отчёт,右を長押しして#レポートを上書き
 17,,reflect on your past,denke über #deine vergangenheit nach,réfléchis à ton passé,reflexiona sobre#tu pasado,reflita sobre seu passado,взгляни на своё прошлое,過去を振り返る
 18,,begin,start,démarrer,iniciar,iniciar,начать,開始
 19,,recall past battles,wecke alte kampferinnerungen,se souvenir de combats,rememora batallas,relembrar batalhas passadas,вспомни прошлые бои,過去の戦いを思い返す
