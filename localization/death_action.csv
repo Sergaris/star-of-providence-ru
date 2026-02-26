@@ -5,7 +5,7 @@
 36,,consumed by#%deathsource,verendet durch #%deathsource,consommé par #%deathsource,consumición por #%deathsource,consumido por #%deathsource,поглощён#%deathsource,%deathsource#に消費された
 38,,hacked by#%deathsource,gehackt durch #%deathsource,piraté par #%deathsource,hackeo por #%deathsource,hackeado por #%deathsource,взломан#%deathsource,%deathsource#にハックされた
 51,,devoured by#%deathsource,verschlungen von #%deathsource,dévoré par #%deathsource,has sido pasto de #%deathsource,devorado por #%deathsource,сожран#%deathsource,%deathsource#に喰われた
-67,,somehow ended#%deathsource,irgendwie verendet durch #%deathsource,bizarrement achevé par #%deathsource,muerte rara por #%deathsource,eliminado de alguma forma por #%deathsource,как-то погиб от#%deathsource,なぜだか%deathsource#の前に力尽きた
+67,,somehow ended#%deathsource,irgendwie verendet durch #%deathsource,bizarrement achevé par #%deathsource,muerte rara por #%deathsource,eliminado de alguma forma por #%deathsource,как-то погиб#от %deathsource,なぜだか%deathsource#の前に力尽きた
 74,,harvested by#%deathsource,geerntet durch #%deathsource,cueilli par #%deathsource,te ha cosechado #%deathsource,colhido por #%deathsource,собран#%deathsource,%deathsource#に収集された
 139,,harvested by#%deathsource,geerntet durch #%deathsource,cueilli par #%deathsource,te ha cosechado #%deathsource,colhido por #%deathsource,собран#%deathsource,%deathsource#に収集された
 93,,flattened by#%deathsource,zerquetscht durch #%deathsource,aplati par #%deathsource,aplastamiento por #%deathsource,esmagado por #%deathsource,раздавлен#%deathsource,%deathsource#に押しつぶされた
@@ -19,5 +19,5 @@
 222,,destroyed by#%deathsource,zerstört durch #%deathsource,détruit par #%deathsource,destrucción por #%deathsource,destruído por #%deathsource,уничтожен#%deathsource,%deathsource#に破壊された
 238,,executed by#%deathsource,gerichtet von #%deathsource,exécuté par #%deathsource,ejecución por #%deathsource,executado por #%deathsource,казнён#%deathsource,%deathsource#に処刑された
 240,,expurged by#%deathsource,verbannt von #%deathsource,expurgé par #%deathsource,expurgación por #%deathsource,expurgado por #%deathsource,изгнан#%deathsource,%deathsource#に排除された
-250,,never woke from a#%deathsource,nie erwacht von #%deathsource,ne s'est jamais réveillé d'un #%deathsource,nunca despiertas de #%deathsource,nunca acorda de um #%deathsource,не проснулся после#%deathsource,%deathsource#から目覚めることはなかった
+250,,never woke from a#%deathsource,nie erwacht von #%deathsource,ne s'est jamais réveillé d'un #%deathsource,nunca despiertas de #%deathsource,nunca acorda de um #%deathsource,не проснулся#после %deathsource,%deathsource#から目覚めることはなかった
 253,,erased by#%deathsource,gelöscht durch #%deathsource,effacé par #%deathsource,aniquilación por #%deathsource,aniquilado por #%deathsource,стёрт#%deathsource,%deathsource#に削除された

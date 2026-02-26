@@ -1,10 +1,10 @@
 ﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 0,,unfortunate accident,trauriger unglücksfall,accident malheureux,desgraciado accidente,acidente infeliz,несчастный случай,不運な事故
-1,,crushed by scenery,zerquetscht,écrasé par le décor,aplastamiento,esmagado por blocos,раздавлен декорацией,ブロックとの衝突 
+1,,crushed by scenery,zerquetscht,écrasé par le décor,aplastamiento,esmagado por blocos,раздавило декорацией,ブロックとの衝突 
 3,,ghost,geist,fantôme,fantasma,fantasma,призрак,ゴースト
 4,,microcore,mikrokern,microcœur,micronúcleo,micronúcleo,микроядро,マイクロコア
 5,,sentinel,sentinel,sentinelle,centinela,sentinela,страж,センティネル
-6,,giant ghost,riesengeist,fantôme géant,fantasma gigante,fantasma gigante,гигант-призрак,巨大ゴースト
+6,,giant ghost,riesengeist,fantôme géant,fantasma gigante,fantasma gigante,огромный призрак,巨大ゴースト
 7,,turret,turret,tourelle,torreta,torre,турель,タレット
 8,,spikes,stacheln,pointes,pinchos,espinhos,шипы,トゲ
 9,,electricity,elektrizität,électricité,electricidad,eletricidade,электричество,電流
@@ -15,9 +15,9 @@
 16,,swarmer,schwarmer,bourdrone,zángano,enxamer,роевик,スウォーマー
 17,,blastcore,kraftkern,explocœur,núcleo explosivo,núcleo explosivo,взрывное ядро,ブラストコア
 18,,chamberhead,kammerhaupt,chambrier,armatesta,cararmada,камерная голова,チェンバーヘッド
-19,,malice engine,teufelsmaschine,engin de malice,motor de malicia,máquina maliciosa,двигатель злобы,マリス・エンジン
-20,,swarm host,schwarmhost,hôte d'essaim,huésped de enjambre,hospedeiro de enxame,хозяин роя,スウォームホスト
-21,,electromancer,elektromancer,électromancien,electromante,eletromante,электромансер,エレクトロマンサー
+19,,malice engine,teufelsmaschine,engin de malice,motor de malicia,máquina maliciosa,машина злобы,マリス・エンジン
+20,,swarm host,schwarmhost,hôte d'essaim,huésped de enjambre,hospedeiro de enxame,владыка роя,スウォームホスト
+21,,electromancer,elektromancer,électromancien,electromante,eletromante,электромант,エレクトロマンサー
 23,,fire,feuer,feu,fuego,fogo,огонь,炎
 24,,quadcore,quadcore,quadcore,quadcore,quadcore,квадроядро,クアドコア
 25,,peaspitter,bohnenspucker,sarbacane,cerbatana,cuspidor de grãos,горохострел,ピースピッター
@@ -27,8 +27,8 @@
 29,,jelly,gelee,gelée,gelatina,geleia,желе,ゼリー
 30,,pollyp,pollip,polype,pólipo,pólipo,полип,ポリープ
 31,,chomper,zermalmer,croqueur,mordedor,mastigador,кусака,チョンパー
-33,,chamberlord,kammerherr,chambellord,señor armatesta,senhorarmado,лорд камер,チェンバーロード
-34,,ringleader,anführer,chef de cercle,líder anular,líder do círculo,главарь кольца,リングリーダー
+33,,chamberlord,kammerherr,chambellord,señor armatesta,senhorarmado,повелитель камер,チェンバーロード
+34,,ringleader,anführer,chef de cercle,líder anular,líder do círculo,главарь,リングリーダー
 35,,guardian,wächter,gardien,guardián,guardião,страж,ガーディアン
 36,,presence,präsenz,présence,presencia,presença,присутствие,気配
 37,,behemoth,ungeheuer,mastodonte,behemoth,gigante,бегемот,ベヒーモス
@@ -36,7 +36,7 @@
 40,,hermit,einsiedler,ermite,ermitaño,eremita,отшельник,ハーミット
 41,,bumper,bumper,bumper,bumper,bumper,бампер,バンパー
 42,,heavy sentinel,schwerer sentinel,sentinelle lourde,centinela pesado,sentinela pesada,тяжёлый страж,ヘヴィセンティネル
-43,,lost soul,verlorene seele,âme perdue,alma en pena,alma perdida,потерянная душа,ロストソウル
+43,,lost soul,verlorene seele,âme perdue,alma en pena,alma perdida,заблудшая душа,ロストソウル
 44,,beast,biest,bête,bestia,fera,зверь,ビースト
 45,,exhaust,auspuff,extracteur,extractor,exaustor,выхлоп,エグゾースト
 46,,crawler,krabbler,arthrobot,trepador,rastejante,ползун,クローラー
@@ -44,31 +44,31 @@
 48,,skully,skully,skully,skully,skully,скалли,スカル
 50,,armor tac,rüstung tac,armor tac,armor tac,blindado tac,бронетак,アーマー・タック
 51,,devourer,verschlinger,dévoreur,devorador,devorador,пожиратель,デヴァウラー
-52,,ice wyrm,eisdrache,ver glacial,sierpe de hielo,serpe de gelo,ледяной вирм,アイスワーム
+52,,ice wyrm,eisdrache,ver glacial,sierpe de hielo,serpe de gelo,ледяной змей,アイスワーム
 53,,gauntlet,spießlauf,défi,reto,desafio,испытание,チャレンジ
 61,,sentron,sentron,sentron,sentron,sentron,сентрон,セントロン
 62,,archivator,archivator,archiveur,archivero,arquivador,архиватор,アーキビテイター
-64,,hacking mishap,hackversuch,piratage raté,hackeo fallido,acidente de hacking,сбой взлома,ハッキング事故
+64,,hacking mishap,hackversuch,piratage raté,hackeo fallido,acidente de hacking,неудачный взлом,ハッキング事故
 65,,icicle,eiszapfen,stalactite,témpano,pingente de gelo,сосулька,つらら
 66,,martyr,märtyrer,martyre,mártir,mártir,мученик,マーター
 67,,fish,fisch,poisson,pez,peixe,рыба,フィッシュ
 68,,crazy fish,irrer fisch,poisson fou,pez enajenado,peixe maluco,безумная рыба,クレイジーフィッシュ
 69,,ice ghost,eisgeist,fantôme gelé,fantasma gélido,fantasma de gelo,ледяной призрак,アイスゴースト
-70,,giant ice ghost,eisgeistriese,gros fantôme gelé,fantasmón gélido,fantasma de gelo gigante,гигант-ледяной призрак,巨大アイスゴースト
-71,,frosthead,frosthaupt,chambre givrée,escarchatesta,caragelada,морозная голова,フロストヘッド
+70,,giant ice ghost,eisgeistriese,gros fantôme gelé,fantasmón gélido,fantasma de gelo gigante,огромный ледяной призрак,巨大アイスゴースト
+71,,frosthead,frosthaupt,chambre givrée,escarchatesta,caragelada,ледяная голова,フロストヘッド
 72,,crystal seeker,kristallsucher,chercheur cristallin,buscador cristalino,buscador de cristais,кристальный искатель,クリスタル・シーカー
 73,,shade,schatten,ombre,sombra,sombra,тень,シェイド
 74,,soul extractor,seelenextraktor,extracteur d'âmes,extirpador de almas,extrator de almas,экстрактор душ,ソウルエクストラクター
 75,,war sphere,kriegssphäre,sphère de guerre,esfera de guerra,esfera de guerra,боевая сфера,ウォースフィア
 80,,blazing skully,feuerskully,skully flambant,skully llameante,skully em chamas,пылающий скалли,炎のスカル
 81,,reaver,todesantliz,pilleur,saqueador,saqueador,ривер,リーバー
-82,,furnace maw,feuermaul,clapet de forge,horno dentado,boca de fornalha,пасть горна,溶鉱炉の口
+82,,furnace maw,feuermaul,clapet de forge,horno dentado,boca de fornalha,жерло горна,溶鉱炉の口
 83,,fire ghost,feuergeist,spectre du feu,fantasma ígneo,fantasma de fogo,огненный призрак,ファイヤーゴースト
-84,,giant fire ghost,großer feuergeist,spectre du feu géant,fantasmón ígneo,fantasma de fogo gigante,гигант-огненный призрак,巨大ファイヤーゴースト
-85,,pipeipede,rohrfuß,scolotube,tubugusano,canocomcara,трубоног,パイプピード
+84,,giant fire ghost,großer feuergeist,spectre du feu géant,fantasmón ígneo,fantasma de fogo gigante,огромный огненный призрак,巨大ファイヤーゴースト
+85,,pipeipede,rohrfuß,scolotube,tubugusano,canocomcara,трубоножка,パイプピード
 86,,shard,fragment,fragment,esquirla,fragmento,осколок,シャード
 93,,crusher,zermalmer,broyeur,triturador,esmagador,дробилка,クラッシャー
-94,,firepipe,feuerrohr,tube de feu,tubo flamígero,tubo de fogo,огнетруба,ファイアパイプ
+94,,firepipe,feuerrohr,tube de feu,tubo flamígero,tubo de fogo,огненная труба,ファイアパイプ
 95,,focus,fokus,focus,foco,foco,фокус,フォーカス
 96,,overseer,aufseher,superviseur,supervisor,supervisor,надзиратель,オーバーシーア
 97,,funnel,rohrwerk,conduit,canalizador,funil,воронка,ファネル
@@ -77,11 +77,11 @@
 100,,firewall,firewall,pare-feu,cortafuegos,firewall,файрвол,ファイヤーウォール
 101,,overlord,overlord,chef suprême,señor supremo,senhor supremo,оверлорд,オーバーロード
 102,,bloke,bloke,bloke,bloke,bloke,чувак,ブローク
-104,,pyromancer,pyromancer,pyromancien,piromante,piromante,пиромансер,パイロマンサー
+104,,pyromancer,pyromancer,pyromancien,piromante,piromante,пиромант,パイロマンサー
 105,,infernalist,infernalist,infernaliste,infernalista,infernalista,инферналист,インフェルニスト
-106,,cryomancer,cryomancer,cryomancien,criomante,criomante,криомансер,クライオマンサー
+106,,cryomancer,cryomancer,cryomancien,criomante,criomante,криомант,クライオマンサー
 107,,iceweaver,eisweber,enneigés,tejehielos,tecelão de gelo,ледоткач,アイスウィーバー
-108,,necromancer,necromancer,nécromancien,nigromante,necromante,некромансер,ネクロマンサー
+108,,necromancer,necromancer,nécromancien,nigromante,necromante,некромант,ネクロマンサー
 109,,chamberlain,kammerfürst,chambellan,armatesta grande,cararmada grande,камергер,チェインバレン
 111,,mimic,mimic,copie,mimic,mímico,мимик,ミミック
 112,,demiskull,demischädel,demi-crâne,semicráneo,demicrânio,получереп,デミスカル
@@ -90,9 +90,9 @@
 115,,eternal chamberhead,ewiger haupt,chambrier éternel,armatesta eterno,cararmada eterno,вечная камерная голова,エターナル・チェンバーヘッド
 119,,relic,relikt,relique,vestigio,relíquia,реликвия,レリック
 120,,honor guard,ehrenwache,garde d'honneur,guardia de honor,guarda de honra,почётный страж,オーナーガード
-121,,haunted block,besessener block,bloc hanté,bloque embrujado,bloco assombrado,проклятый блок,呪われたブロック
-122,,redcap,rotkappe,bonnet-rouge,gorro rojo,barrete vermelho,красная шапка,レッドキャップ
-123,,bane engine,todesmaschine,engin de ruine,motor del flagelo,motor maldito,двигатель гибели,ベイン・エンジン
+121,,haunted block,besessener block,bloc hanté,bloque embrujado,bloco assombrado,одержимый блок,呪われたブロック
+122,,redcap,rotkappe,bonnet-rouge,gorro rojo,barrete vermelho,красный колпак,レッドキャップ
+123,,bane engine,todesmaschine,engin de ruine,motor del flagelo,motor maldito,машина погибели,ベイン・エンジン
 124,,soul tank,seelentank,cuve d'âmes,tanque de almas,tanque de alma,резервуар душ,ソウルタンク
 125,,idol,idol,idole,ídolo,ídolo,идол,アイドル
 126,,eternal gestalt,gestalt,forme éternelle,forma eterna,gestalt eterna,вечный гештальт,エターナル・ゲシュタルト
@@ -108,12 +108,12 @@
 136,,eternal mage,ewiger magier,mage éternel,mago eterno,mago eterno,вечный маг,エターナル・メイジ
 137,,headless mage,hauptloser magier,mage sans tête,mago decapitado,mago sem cabeça,безголовый маг,ヘッドレスメイジ
 138,,vortex reaper,wirbelmaske,faucheur du vortex,segador del vórtice,ceifador do vórtice,вихревой жнец,ボルテックス・リーパー
-139,,soulmonger,seelenschinder,cueilleur d'âmes,vendealmas,vendedor de almas,торговец душами,ソウルモンガー
+139,,soulmonger,seelenschinder,cueilleur d'âmes,vendealmas,vendedor de almas,ловец душ,ソウルモンガー
 140,,twofold,das zweifache,double,dúplex,olho duplo,двойной,ツーフォールド
 144,,candle,kerze,bougie,vela,vela,свеча,キャンドル
 145,,bat,fledermaus,roussette,murciélago,morcego,летучая мышь,コウモリ
 146,,firebat,feuerrmaus,roussette de feu,murciélago ígneo,morcego de fogo,огненная мышь,ファイヤーコウモリ
-147,,giant skully,riesenskully,skully géant,skully gigante,skully gigante,гигантский скалли,巨大スカル
+147,,giant skully,riesenskully,skully géant,skully gigante,skully gigante,огромный скалли,巨大スカル
 148,,grinder,grinder,grinder,grinder,triturador,гриндер,グラインダー
 149,,fish,fisch,poisson,pez,peixe,рыба,フィッシュ
 150,,genesis,genesis,genesis,génesis,gênesis,генезис,ジェネシス
@@ -121,26 +121,26 @@
 152,,zealot,zelote,zélote,fanático,fanático,фанатик,ジーロット
 153,,seekerhead,hauptsucher,cherche-chambre,buscador jefe,mestre buscador,голова-искатель,シーカーヘッド
 154,,martyrball,martyrball,boule-martyre,bola mártir,bola mártir,шар-мученик,マーターボール
-155,,anathemancer,anathemancer,anathémancien,anatemante,anatemântico,анафемансер,アナテマンサー
+155,,anathemancer,anathemancer,anathémancien,anatemante,anatemântico,анафемант,アナテマンサー
 156,,displacer,ersetzer,clignoteur,desplazador,deslocador,смещатель,ディスプレイサー
 157,,eternal displacer,ewiger ersetzer,clignoteur éternel,desplazador eterno,deslocador eterno,вечный смещатель,エターナル・ディスプレイサー
 158,,aegis,aegis,égide,égida,égide,эгида,アイギス
 159,,unbreakable aegis,unzerbrechliche aegis,égide indestructible,égida irrompible,égide inquebrável,несокрушимая эгида,不壊のアイギス
 160,,angel,engel,ange,ángel,anjo,ангел,エンジェル
 161,,imp,imp,lutin,diablillo,diabrete,бес,インプ
-162,,geomancer,geomancer,géomancien,geomante,geomante,геомансер,ジオマンサー
-163,,earthbreaker,erdbrecher,brise-terre,rompemundos,quebra-terra,землеломец,アースブレイカー
+162,,geomancer,geomancer,géomancien,geomante,geomante,геомант,ジオマンサー
+163,,earthbreaker,erdbrecher,brise-terre,rompemundos,quebra-terra,сокрушитель земли,アースブレイカー
 164,,defoe,defoe,defoe,defoe,defoe,дефо,デフォー
 165,,scarfy,schleifer,écharpe,pañoleto,lenço,шарфик,スカーフィー
 166,,lich,lich,lich,lich,lich,лич,リッチ
 167,,database,datenbank,base de données,base de datos,base de dados,база данных,データベース
 168,,oblivion,oblivion,oblivion,el olvido,oblívio,забвение,オブリビオン
 169,,flameseer,flammeseher,feu devin,llamadivino,chama divina,провидец пламени,フレイムシーア
-170,,archaeomancer,archaeomancer,archéomancien,arqueomante,arqueomante,археомансер,アーケオマンサー
-171,,vardimancer,vardimancer,vardimancien,vardimante,vardimante,вардимансер,ヴァルディマンサー
-172,,prismancer,prismancer,prismancien,prismante,prismante,призмансер,プリズマンサー
+170,,archaeomancer,archaeomancer,archéomancien,arqueomante,arqueomante,археомант,アーケオマンサー
+171,,vardimancer,vardimancer,vardimancien,vardimante,vardimante,вардимант,ヴァルディマンサー
+172,,prismancer,prismancer,prismancien,prismante,prismante,призмант,プリズマンサー
 173,,dendritic,dendrite,dendrite,dendrita,dendrítico,дендрит,デンドリティック
-174,,saucer,fliegende untertasse,soucoupe,platillo volante,disco voador,блюдце,ソーサー
+174,,saucer,fliegende untertasse,soucoupe,platillo volante,disco voador,летающая тарелка,ソーサー
 175,,shuffler,schweber,alternateur,alternador,embaralhador,тасовщик,シャッフラー
 176,,possessor,besitzer,possesseur,posesor,possuidor,одержимый,ポゼッサー
 177,,banshee,banshee,banshee,banshee,banshee,баньши,バンシー
@@ -148,7 +148,7 @@
 179,,wiseguy,besserwisser,mafioso,mafioso,cara esperto,умник,ワイズガイ
 180,,drone,drone,drone,dron,drone,дрон,ドローン
 181,,glacial legion,eislegion,légion glaciale,legión glacial,legião glacial,ледяной легион,アイス・レギオン
-182,,omnimancer,omnimancer,omnimancien,omnimante,omnimante,омнимансер,オムニマンサー
+182,,omnimancer,omnimancer,omnimancien,omnimante,omnimante,омнимант,オムニマンサー
 183,,transistor,transistor,transistor,transistor,transistor,транзистор,トランジスタ
 184,,charlie,charlie,charlie,charlie,charlie,чарли,チャーリー
 185,,heavy crawler,schwerer krabbler,arthrobot lourd,trepador pesado,rastejante pesado,тяжёлый ползун,ヘヴィクローラー
@@ -182,19 +182,19 @@
 223,,cursed blade,verfluchte klinge,lame maudite,acero maldito,lâmina amaldiçoada,проклятый клинок,カースド・ブレイド
 224,,dominion,dominion,domination,dominio,domínio,доминион,ドミニオン
 225,,hothead,hitzkopf,tête brûlée,enardecido,cabeça quente,горячая голова,ホットヘッド
-226,,wraith,gespenst,spectre,espectro,espectro,врайт,レイス
-227,,enigmancer,enigmancer,énigmancien,criptomante,enigmático,энигмансер,エニグマンサー
+226,,wraith,gespenst,spectre,espectro,espectro,умертвие,レイス
+227,,enigmancer,enigmancer,énigmancien,criptomante,enigmático,энигмант,エニグマンサー
 228,,holy rod,heilige rute,sceptre saint,vara sagrada,cetro sagrado,святой жезл,ホーリーロッド
 229,,noxious dead,giftkopf,mort toxique,muerto venenoso,morto tóxico,ядовитый мертвец,ノキシアス・デッド
 230,,dart trap,pfeilfalle,piège à flèches,trampa de flechas,armadilha de dardo,дротиковая ловушка,ダーツトラップ
-232,,big dart trap,große pfeilfalle,gros piège à flèches,gran trampa de flechas,armadilha de dardo grande,большой дротик,大型ダーツトラップ
+232,,big dart trap,große pfeilfalle,gros piège à flèches,gran trampa de flechas,armadilha de dardo grande,большая дротиковая ловушка,大型ダーツトラップ
 233,,chaosgod,chaosgott,dieu du chaos,dios del caos,deus do caos,бог хаоса,カオスゴッド
 234,,rockhead,steinkopf,tête-de-roc,cabeza de roca,pedregoso,каменная голова,ロックヘッド
 235,,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr
-236,,drdlich,drdlich,drdlich,drdlich,drdlich,дрдлич,ドルドリッチ
-237,,drdknight,drdknight,drdknight,drdknight,drdknight,дрдрыцарь,ドルドナイト
-238,,drdskull,drdskull,drdskull,drdskull,drdskull,дрдчереп,ドルドスカル
-239,,drdlord,drdlord,drdlord,drdlord,drdlord,дрдлорд,ドルドロード
+236,,drdlich,drdlich,drdlich,drdlich,drdlich,дрд-лич,ドルドリッチ
+237,,drdknight,drdknight,drdknight,drdknight,drdknight,дрд-рыцарь,ドルドナイト
+238,,drdskull,drdskull,drdskull,drdskull,drdskull,дрд-череп,ドルドスカル
+239,,drdlord,drdlord,drdlord,drdlord,drdlord,дрд-лорд,ドルドロード
 240,,the warden,der aufseher,le gardien,el custodio,o diretor,смотритель,看守
 241,,ace of storms,sturmass,as des tempêtes,as tormentoso,ás das tempestades,туз бурь,嵐のエース
 245,,firespinner,drehfeuer,feu tournant,lanzafuegos,lança-fogo,огневерт,ファイヤースピナー
