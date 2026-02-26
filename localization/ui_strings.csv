@@ -9,7 +9,7 @@
 5,,yeah,ja,oui,sí,claro,да,あぁ
 6,,nah,nein,non,no,nem,нет,いや
 ,Save discrepancy.,,,,,,,
-7,,save discrepancy detected##which save would#you like to use?,speicherdiskrepanz entdeckt##welches speicher#willst du nutzen?,autre sauvegarde détectée##laquelle veux-tu#utiliser ?,discrepancia de guardado##¿qué partida guardada#quieres usar?,discrepância de salvamento detectada##qual salvamento#você gostaria de usar?,обнаружено расхождение сохранений какое#сохранение использовать?,セーブデータの不一致を検出##どちらのセーブデータを使用しますか？
+7,,save discrepancy detected##which save would#you like to use?,speicherdiskrepanz entdeckt##welches speicher#willst du nutzen?,autre sauvegarde détectée##laquelle veux-tu#utiliser ?,discrepancia de guardado##¿qué partida guardada#quieres usar?,discrepância de salvamento detectada##qual salvamento#você gostaria de usar?,обнаружено расхождение сохранений##какое сохранение использовать?,セーブデータの不一致を検出##どちらのセーブデータを使用しますか？
 ,Database comm.,,,,,,,
 8,,"greetings, visitor %nr%","gruße, besucher %nr%","bonjour, visiteur %nr%","saludos, visitante %nr%","saudações, visitante %nr%","привет, посетитель %nr%",ようこそ、来訪者 %nr%
 9,,external influence on database coherency has been detected_,externe influenz auf die datenbank wurde erkannt_,influence externe détectée sur la cohérence de la base de donnée_,injerencias en la integridad de la base de datos detectadas_,influência externa na coerência do banco de dados foi detectada_,обнаружено внешнее воздействие на целостность#базы данных_,データベースへの外部からの干渉を検知しました_

@@ -1,4 +1,4 @@
-ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 0,,sup,hi,salut,hola,olá,привет,やあ
 1,,advice,ratschlag,conseil,consejo,conselho,совет,アドバイス
 2,,gossip,tratsch,ragots,charla,especulações,сплетни,よもやま話
@@ -17,4 +17,4 @@ ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 15,,cancel,abbrechen,annuler,cancelar,cancelar,отмена,キャンセル
 16,,starting loop:,startschleife:,boucle de départ :,vuelta inicial:,loop inicial:,начальный цикл:,開始ループ：
 17,,no loops,keine schleifen,sans boucles,sin vueltas,sem loops,без циклов,ループなし
-18,,hardmode not cleared#cannot loop in hardmode,hartmodus nicht bezwungen#kann nicht schleifen,mode difficile non fini#boucles indisponibles,modo difícil no completado#vueltas no disponibles,modo difícil não concluído#loop não disponível no modo difícil,хардмод не пройден#цикл в хардмоде#недоступен,ハードモードを未クリア#ハードモードでループ選択不可
+18,,hardmode not cleared#cannot loop in hardmode,hartmodus nicht bezwungen#kann nicht schleifen,mode difficile non fini#boucles indisponibles,modo difícil no completado#vueltas no disponibles,modo difícil não concluído#loop não disponível no modo difícil,хардмод не пройден##цикл в хардмоде недоступен,ハードモードを未クリア#ハードモードでループ選択不可
