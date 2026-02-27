@@ -176,7 +176,7 @@ ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 41,,don't mind keeping it there.,ich behalte's an der wand.,ça ne me dérange pas de le garder là.,no me importaría que estuviese aquí.,eu não me importaria de deixá-lo ali.,не против оставить#тут.,このままでも悪くないね。
 ,,,,,,,,
 42,,got one more here.,noch eins hier.,j'en ai un de plus ici.,tengo otro más por aquí.,tenho mais um aqui.,есть ещё одна.,もう1枚あったよ。
-42,,/s1gah./s0,/s1aahh./s0,/s1gah./s0,/s1pfff./s0,/s1gah./s0,тьфу.,/s1うわっ。/s0
+42,,/s1gah./s0,/s1aahh./s0,/s1gah./s0,/s1pfff./s0,/s1gah./s0,/s1тьфу./s0,/s1うわっ。/s0
 42,,"/c2'with love, bloke'/c0.","/c2'mit liebe, bloke'/c0.","/c2« bien à toi, bloke »/c0.","/c2'con cariño, bloke'/c0.","/c2'com amor, bloke'/c0.","/c2«с любовью, Блоук»/c0.",/c2「愛をこめて。ブロークより」/c0。
 42,,"/f1*sigh*/f0 fine, it's already on the wall.","/f1*seufz*/f0 fein, wenn es schon an der wand ist.","/f1*soupir*/f0 d'accord, il est déjà accroché.","/f1*suspira*/f0 en fin, ya está en la pared.","/f1*suspiro*/f0 tudo bem, já está na parede.","/f1*вздох*/f0 ладно, она уже#на стене.",/f1*はぁ*/f0、わかったよ。もう壁にかけちゃったよ。
 42,,would be too much effort to take it down.,ist mir jetzt zu anstrengend es da runter zu nehmen.,ça demanderait trop d'efforts de le décrocher.,daría mucho trabajo descolgarlo.,seria muito esforço derrubá-lo.,снимать — слишком#много возни.,今さら外すのは面倒だ。
@@ -317,7 +317,7 @@ ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 ,Sentinel dialogue.,,,,,,,
 100,,/s1bzzzt.../s0/p2 nice place...,/s1bzzzt.../s0/p2 nettes ort...,/s1bzzzt.../s0/p2 bel endroit...,/s1bzzz.../s0/p2 bonito sitio...,/s1bzzzt.../s0/p2 lugar legal...,/s1жжж.../s0#/p2 неплохое#местечко...,/s1ジジジジ…/s0/p2良い場所だ…
 ,,,,,,,,
-101,,/s1bzzzt.../s0,/s1bzzzt.../s0,/s1bzzzt.../s0,/s1bzzz.../s0,/s1bzzzt.../s0,жжж...,/s1ジジジジ…/s0
+101,,/s1bzzzt.../s0,/s1bzzzt.../s0,/s1bzzzt.../s0,/s1bzzz.../s0,/s1bzzzt.../s0,/s1жжж.../s0,/s1ジジジジ…/s0
 ,,,,,,,,
 102,,/s1bzzzt.../s0/p2 your carpet...,/s1bzzzt.../s0/p2 dein teppich...,/s1bzzzt.../s0/p2 le tapis...,/s1bzzz.../s0/p2 la alfombra...,/s1bzzzt.../s0/p2 seu tapete...,/s1жжж.../s0#/p2 твой ковёр...,/s1ジジジジ…/s0/p2そのカーペットは…
 102,,it's haunted.,gruselig.,il est hanté.,está embrujada.,é assombrado.,он проклят.,呪われている。
@@ -469,7 +469,7 @@ ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 164,,do you like video games?,magst du videospiele?,est-ce que tu aimes les jeux vidéo ?,¿te molan los videojuegos?,você gosta de videogames?,тебе нравятся#видеоигры?,ゲーム好きか？
 ,,,,,,,,
 165,,really??,wirklich??,vraiment ??,¿qué me cuentas?,é sério??,правда??,マジ？？
-165,,/s1ha ha ha ha ha ha ha!/s0,/s1ha ha ha ha ha ha ha!/s0,/s1ha ha ha ha ha ha ha !/s0,"/s1¡ja, ja, ja, ja, ja, ja!/s0",/s1ha ha ha ha ha ha ha!/s0,ха ха ха ха ха ха ха!,/s1ハハハハハハハ！/s0
+165,,/s1ha ha ha ha ha ha ha!/s0,/s1ha ha ha ha ha ha ha!/s0,/s1ha ha ha ha ha ha ha !/s0,"/s1¡ja, ja, ja, ja, ja, ja!/s0",/s1ha ha ha ha ha ha ha!/s0,/s1ха ха ха ха ха ха ха!/s0,/s1ハハハハハハハ！/s0
 165,,what a chump!,was für ein loser!,quel nullard !,¡vaya tontaina!,que bobão!,ну и простак!,バカ正直なんだな！
 165,,i like you!!,ich mag dich!!,tu me plais !,¡me caes guay!,gostei de você!!,ты мне нравишься!!,気に入ったぜ！
 ,,,,,,,,
@@ -793,7 +793,7 @@ ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 ,Skully NPC.,,,,,,,
 419,,i wish we had a jukebox down there. that'd be rad.,ich wünsche mir wir hätten dort unten eine jukebox. wäre toll.,j'aimerais bien qu'on ait un juke-box en bas. ce serait cool.,ojalá tuviésemos una gramola ahí abajo. sería la repera.,eu ia adorar se tivesse uma jukebox lá embaixo. isso seria demais.,вот бы нам туда вниз#музыкальный автомат.#было бы отпадно.,地下にもジュークボックスがあったらサイコーなのにな。
 420,,/f1*hums along*/f0,/f1*summt zur musik*/f0,/f1*chantonne*/f0,/f1*tararea*/f0,/f1*cantarolando*/f0,/f1*мурлычет в такт*/f0,/f1*音楽に合わせて口ずさむ*/f0
-421,,/s1*jitters uncomfortably*/s0,/s1*nervöses vibrieren*/s0,/s1*s'agite avec gêne*/s0,/s1*se agita incómodamente*/s0,/s1*se agita de forma incômoda*/s0,*нервно дёргается*,/s1*神経質そうにガタガタ揺れる*/s0
+421,,/s1*jitters uncomfortably*/s0,/s1*nervöses vibrieren*/s0,/s1*s'agite avec gêne*/s0,/s1*se agita incómodamente*/s0,/s1*se agita de forma incômoda*/s0,/s1*нервно дёргается*/s0,/s1*神経質そうにガタガタ揺れる*/s0
 ,Pure s dialogue.,,,,,,,
 500,,"oh,/p2 a /c1visitor/c0?","oh,/p2 ein /c1besucher/c0?","oh,/p2 un /c1visiteur/c0 ?","anda,/p2 ¿una /c1visita/c0?","ah,/p2 um /c1visitante/c0?","о,/p2 /c1гость/c0?",おや、/p2/c1来訪者/c0か？
 ,,,,,,,,
@@ -1207,8 +1207,8 @@ ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 ,Reacting to Overlord.,,,,,,,
 767,,/r1y o u . .,/r1d u . .,/r1t o i . . .,/r1t ú . . .,/r1v o c ê . .,/r1т ы . .,/r1お ま え が . .
 767,,/r1d a m n  y o u . .,/r1s e i#v e r d a m m t . .,/r1v a a u d i a b l e . . .,/r1v e t e al#i n f i e r n o . . .,/r1d e s g r a ç a d o . .,/r1б у д ь т ы п р о к л#я т . .,/r1す べ て . .
-767,,/r1a l l  y o u r#f a u l t . .,/r1a l l e s  d e i n e#s c h u l d . .,/r1t o u t e s t t a#f a u t e . . .,/r1e s t o d o p o r#t u c u l p a . . .,/r1a c u l p a é t o d a#s u a . .,/r1э т о в с ё т в о я в#и н а . .,/r1お ま え の#せ い で . .
-767,,/r1/s1a l l  y o u r#f a u l t . .,/r1/s1a l l e s  d e i n e#s c h u l d . .,/r1/s1t o u t e s t t a#f a u t e . . .,/r1/s1p o r t u#c u l p a . . .,/r1é t u d o s u a#c u l p a . .,/r1э т о в с ё т в о я в#и н а . .,/r1/s1こ ん な#こ と に . .
+767,,/r1a l l  y o u r#f a u l t . .,/r1a l l e s  d e i n e#s c h u l d . .,/r1t o u t e s t t a#f a u t e . . .,/r1e s t o d o p o r#t u c u l p a . . .,/r1a c u l p a é t o d a#s u a . .,/r1э т о в с ё т в о я в и н а . .,/r1お ま え の#せ い で . .
+767,,/r1/s1a l l  y o u r#f a u l t . .,/r1/s1a l l e s  d e i n e#s c h u l d . .,/r1/s1t o u t e s t t a#f a u t e . . .,/r1/s1p o r t u#c u l p a . . .,/r1é t u d o s u a#c u l p a . .,/r1/s1э т о в с ё т в о я в и н а . .,/r1/s1こ ん な#こ と に . .
 ,Trial IV ghosts.,,,,,,,
 768,,/r2that symbol.,/r2dieser symbol.,/r2ce symbole.,/r2ese símbolo...,/r2esse símbolo.,/r2тот символ.,/r2あのシンボル…
 768,,"/r2it held some importance, once.",/r2es hatte mal bedeutung.,/r2il avait une certaine importance jadis.,"/r2en su día, fue muy importante.",/r2ele já foi importante no passado.,/r2когда-то он имел#значение.,/r2かつては重要なものだった。
