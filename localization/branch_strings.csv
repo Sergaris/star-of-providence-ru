@@ -1,7 +1,7 @@
-﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
-0,,you hear nothing unusual past this door,diese tür ist komplett gewöhnlich,tu n'entends rien d'inhabituel#derrière cette porte,"tras esta puerta, no escuchas nada inusual",você não ouve nada de estranho atrás desta porta,за этой дверью ничего необычного,この先から特に変わった音は聞こえない
+ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+0,,you hear nothing unusual past this door,diese tür ist komplett gewöhnlich,tu n'entends rien d'inhabituel#derrière cette porte,"tras esta puerta, no escuchas nada inusual",você não ouve nada de estranho atrás desta porta,за дверью ничего необычного,この先から特に変わった音は聞こえない
 1,,you hear clattering coins,du hörst klattern der münzen,tu entends des pièces#qui s'entrechoquent,escuchas el repicar de unas monedas,você ouve o barulho de moedas,слышен звон монет,ジャラジャラとコインの音が聞こえる
-2,,you sense a new weapon past this door,du spürst eine neue waffe,tu sens une nouvelle arme#derrière cette porte,percibes un arma nueva tras la puerta,você sente que há uma nova arma atrás desta porta,за дверью чувствуется новое оружие,ドアの向こうから新しい武器の気配を感じる
+2,,you sense a new weapon past this door,du spürst eine neue waffe,tu sens une nouvelle arme#derrière cette porte,percibes un arma nueva tras la puerta,você sente que há uma nova arma atrás desta porta,за дверью — новое оружие,ドアの向こうから新しい武器の気配を感じる
 3,,you hear rushing water,du hörst rauschendes wasser,tu entends des eaux tumultueuses,escuchas agua corriente,você ouve água corrente,слышен шум воды,水のせせらぎが聞こえる
 4,,you hear furious rattling,du hörst das rasseln der knochen,tu entends un bruit de ferraille,escuchas un ruido atronador,você ouve um barulho estrondoso,слышен яростный грохот,骨がカタカタ鳴る音が聞こえる
 5,,you see a bright light beyond this door,ein licht scheint durch diese tür,une lumière vive s'échappe#de cette porte,una luz brillante se escapa por la puerta,você vê que há uma luz brilhante atrás desta porta,за дверью виден яркий свет,眩い光が差し込んでいる
@@ -16,4 +16,4 @@
 14,,a sign is here: 'the path of pain',der pfad der schemrzen beginnt hier,il y a un signe : « la voie de la douleur »,el letrero reza: 'la senda del dolor',uma placa indica: "o caminho da dor",табличка: 'путь боли',「苦痛の道」と書かれている
 15,,you hear familiar sounds,etwas kommit dir bekannt vor,tu entends des sons familiers,escuchas sonidos conocidos,você ouve sons que parecem familiares,слышны знакомые звуки,聞き覚えのある音がする
 16,,the architecture here seems different,die architektur hier ist seltsam,l'architecture semble différente,este tipo de arquitectura parece distinto,há algo de diferente na arquitetura aqui,архитектура здесь другая,ここの建築物はどれも奇妙だ
-17,,err: stack overflow occurred in templegame,err: paketüberfluss ereignet im templegame,erreur : débordement de piles#dans le jeu du temple,error: desborde de pila en templojuego,erro: sobrecarga no pacote do jogo do templo,ошибка: переполнение стека в templegame,エラー：寺院ゲームでスタックオーバーフローが発生しました
+17,,err: stack overflow occurred in templegame,err: paketüberfluss ereignet im templegame,erreur : débordement de piles#dans le jeu du temple,error: desborde de pila en templojuego,erro: sobrecarga no pacote do jogo do templo,ошибка: переполнение стека,エラー：寺院ゲームでスタックオーバーフローが発生しました

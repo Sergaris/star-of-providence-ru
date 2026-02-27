@@ -1,4 +1,4 @@
-﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 0,,/p1./p1./p1.,/p1./p1./p1.,/p1./p1./p1.,/p1./p1./p1.,/p1./p1./p1.,/p1./p1./p1.,/p1./p1./p1.
 ,Advice and Gossip.,,,,,,,
 1,,found anything interesting down there?,was interessantes da unten gefunden?,tu as trouvé quelque chose d'intéressant en bas ?,¿has visto algo interesante ahí abajo?,encontrou algo interessante lá embaixo?,нашёл что-нибудь#интересное там внизу?,地下で何かおもしろいものは見つかったかい？
@@ -33,7 +33,7 @@
 7,,"lotta /c1keywords/c0 for those things, too. rarely two alike.",viele /c1schlüsselworte/c0 dafür auch. viel variation.,plein de /c1mots-clés/c0 pour eux. rarement deux identiques.,"y existen montones de /c1palabras clave/c0 para ese chisme, casi no hay dos iguales.",há muitas /c1palavras-chave/c0 para essas coisas. raramente há duas iguais. ,у них тоже куча#/c1ключевых слов/c0. редко#два одинаковых.,武器には多くの/c1キーワード/c0がある。#同じ組み合わせになることはめったにないよ。
 ,,,,,,,,
 8,,/c1fireball/c0 is a high impact weapon.,/c1feuerball/c0 ist eine waffe mit hoher schlagkraft.,la /c1boule de feu/c0 est une arme à impact élevé.,la /c1esfera ígnea/c0 es un arma de gran impacto.,a /c1bola de fogo/c0 é uma arma de alto impacto.,/c1огненный шар/c0 — оружие#с высоким уроном.,/c1ファイヤーボール/c0は広範囲を攻撃できる。
-8,,ideal for when your /f1enemy/f0 also has a lot of /f1friends/f0.,ideal für wenn ein feind freunde mitbringt.,idéal quand ton /f1ennemi/f0 a beaucoup /f1d'amis/f0.,es ideal cuando tu /f1enemigo/f0 tiene muchos /f1amigos/f0.,ideal para quando seu /f1inimigo/f0 tem muitos /f1amigos/f0.,"идеально, когда у#/f1врага/f0 много /f1друзей/f0.",/f1敵/f0が多くの/f1仲間/f0を連れている時に重宝する。
+8,,ideal for when your /f1enemy/f0 also has a lot of /f1friends/f0.,ideal für wenn ein feind freunde mitbringt.,idéal quand ton /f1ennemi/f0 a beaucoup /f1d'amis/f0.,es ideal cuando tu /f1enemigo/f0 tiene muchos /f1amigos/f0.,ideal para quando seu /f1inimigo/f0 tem muitos /f1amigos/f0.,У /f1врага/f0 много /f1друзей/f0 — в тему.,/f1敵/f0が多くの/f1仲間/f0を連れている時に重宝する。
 8,,"just don't get your fur singed, eh?","versuch nur dir das fell nicht anzubrennen, eh?","ne te fais pas griller le poil, hein ?",¡pero no te chamusques el pelaje!,"só não deixe seu pelo chamuscar, hein?","только шерсть себе не#подпали, ладно?",毛皮を焦がさないようにな。
 ,,,,,,,,
 9,,"/c1laser/c0 is powerful, precise and most importantly,/p2 strikes instantly.","/c1laser/c0 is mächtig, präzise und viel wichtiger,/p2 schlägt sofort ein.","le /c1laser/c0 est puissant, précis et surtout,/p2 il est instantané.","el /c1láser/c0 es potente y preciso, pero lo más importante es que/p2 es instantáneo.","o /c1laser/c0 é poderoso, preciso e, o mais importante,/p2 acerta instantaneamente.","/c1лазер/c0 мощный, точный#и, главное,/p2 бьёт#мгновенно.",/c1レーザー/c0は強力かつ正確で、そして何より、#/p2瞬時に敵を攻撃できる。
@@ -121,7 +121,7 @@
 28,,"so,/p3 whatever.",was auch immer.,"donc,/p3 bref.",así que/p3 me sirve.,"então,/p3 tanto faz.","ну,/p3 и ладно.",うん、/p3まぁとにかく…
 28,,i'll see if i can find more stuff like this later.,ich sehe nach ob es mehr von den teilen gibt.,je vais voir si je trouve plus de trucs de ce genre plus tard.,veré si más tarde puedo encontrar más cosas.,vou ver se consigo encontrar mais coisas assim mais tarde.,потом поищу ещё#что-нибудь похожее.,後で、もっとこういうのを探してみるよ。
 ,,,,,,,,
-29,,/s1hah./s0 i knew you were a true connoisseur when i first saw you.,"/s1hah./s0 ich wusste gleich, dass du ein kenner bist.",/s1hah./s0 je savais que tu étais un connaisseur dès que je t'ai vu.,"/s1ja./s0 nada más verte, supe que tenías un ojo experto.",/s1hah./s0 eu sabia que você era um verdadeiro conhecedor quando te vi pela primeira vez.,"/s1ха./s0 я понял, что ты#настоящий ценитель,#как только тебя#увидел.",/s1そうか。/s0最初にあったとき、君には審美眼があると思ってたんだよ。
+29,,/s1hah./s0 i knew you were a true connoisseur when i first saw you.,"/s1hah./s0 ich wusste gleich, dass du ein kenner bist.",/s1hah./s0 je savais que tu étais un connaisseur dès que je t'ai vu.,"/s1ja./s0 nada más verte, supe que tenías un ojo experto.",/s1hah./s0 eu sabia que você era um verdadeiro conhecedor quando te vi pela primeira vez.,"/s1ха./s0# я понял, что ты#настоящий ценитель,#как только тебя#увидел.",/s1そうか。/s0最初にあったとき、君には審美眼があると思ってたんだよ。
 29,,a certain sense of kinship between us purveyors of fine arts.,eine bestimmte verwandschaft zwischen leuten mit guten geschmack.,"une certaine affinité entre nous, pourvoyeurs de beaux-arts.",los amantes del arte sabemos reconocernos entre nosotros.,os apreciadores de artes plásticas sabem se reconhecer.,"есть некое родство#между нами, знатоками#изящных искусств.",私も目利きだから、センスある同士、君に親近感を感じたんだけどね。
 29,,oh don't you worry. /p2i saved the best for the last.,oh keine sorge. /p2ich habe das beste stück für das ende gespart.,"oh, ne t'en fais pas. /p2j'ai gardé le meilleur pour la fin.",pues espera y verás: /p2he reservado lo mejor para el final.,"ah, não se preocupe. /p2eu guardei o melhor para o final.",не беспокойся. /p2лучшее#я оставил напоследок.,まぁそう気を揉まないで。/p2とびきりのは最後に#とってあるから。
 29,,feast your eyes on this,erblicke dieses kunstwerk.,ça va t'en mettre plein la vue,deja que esto te alegre la vista.,veja que beleza.,полюбуйся на это,ご覧あれ。
@@ -176,7 +176,7 @@
 41,,don't mind keeping it there.,ich behalte's an der wand.,ça ne me dérange pas de le garder là.,no me importaría que estuviese aquí.,eu não me importaria de deixá-lo ali.,не против оставить#тут.,このままでも悪くないね。
 ,,,,,,,,
 42,,got one more here.,noch eins hier.,j'en ai un de plus ici.,tengo otro más por aquí.,tenho mais um aqui.,есть ещё одна.,もう1枚あったよ。
-42,,/s1gah./s0,/s1aahh./s0,/s1gah./s0,/s1pfff./s0,/s1gah./s0,/s1тьфу./s0,/s1うわっ。/s0
+42,,/s1gah./s0,/s1aahh./s0,/s1gah./s0,/s1pfff./s0,/s1gah./s0,тьфу.,/s1うわっ。/s0
 42,,"/c2'with love, bloke'/c0.","/c2'mit liebe, bloke'/c0.","/c2« bien à toi, bloke »/c0.","/c2'con cariño, bloke'/c0.","/c2'com amor, bloke'/c0.","/c2«с любовью, Блоук»/c0.",/c2「愛をこめて。ブロークより」/c0。
 42,,"/f1*sigh*/f0 fine, it's already on the wall.","/f1*seufz*/f0 fein, wenn es schon an der wand ist.","/f1*soupir*/f0 d'accord, il est déjà accroché.","/f1*suspira*/f0 en fin, ya está en la pared.","/f1*suspiro*/f0 tudo bem, já está na parede.","/f1*вздох*/f0 ладно, она уже#на стене.",/f1*はぁ*/f0、わかったよ。もう壁にかけちゃったよ。
 42,,would be too much effort to take it down.,ist mir jetzt zu anstrengend es da runter zu nehmen.,ça demanderait trop d'efforts de le décrocher.,daría mucho trabajo descolgarlo.,seria muito esforço derrubá-lo.,снимать — слишком#много возни.,今さら外すのは面倒だ。
@@ -315,59 +315,59 @@
 85,,bomb in the map screen to scrap it.,drücke die bombentaste im kartenmenu um sie zu brechen.,utilise la touche bombe sur la carte pour la détruire.,usa una bomba en la pantalla del mapa para convertirla en chatarra.,use uma bomba na tela do mapa para transformá-la em sucata.,"используй бомбу на#экране карты, чтобы#пустить его на лом.",マップメニューで爆破し、デブリにしてごらん。
 85,,just make sure there are no enemies around first.,"sei dir erstmal nur sicher, dass keine feinde in der nähe sind.",assure-toi d'abord qu'il n'y a pas d'ennemis aux alentours.,"pero, primero, asegúrate de que no haya enemigos cerca.","mas primeiro, certifique-se de que não haja inimigos por perto.","только убедись, что#рядом нет врагов.",その前に、周囲に敵がいないことを確認しろよ。
 ,Sentinel dialogue.,,,,,,,
-100,,/s1bzzzt.../s0/p2 nice place...,/s1bzzzt.../s0/p2 nettes ort...,/s1bzzzt.../s0/p2 bel endroit...,/s1bzzz.../s0/p2 bonito sitio...,/s1bzzzt.../s0/p2 lugar legal...,/s1жжж.../s0/p2 неплохое#местечко...,/s1ジジジジ…/s0/p2良い場所だ…
+100,,/s1bzzzt.../s0/p2 nice place...,/s1bzzzt.../s0/p2 nettes ort...,/s1bzzzt.../s0/p2 bel endroit...,/s1bzzz.../s0/p2 bonito sitio...,/s1bzzzt.../s0/p2 lugar legal...,/s1жжж.../s0#/p2 неплохое#местечко...,/s1ジジジジ…/s0/p2良い場所だ…
 ,,,,,,,,
-101,,/s1bzzzt.../s0,/s1bzzzt.../s0,/s1bzzzt.../s0,/s1bzzz.../s0,/s1bzzzt.../s0,/s1жжж.../s0,/s1ジジジジ…/s0
+101,,/s1bzzzt.../s0,/s1bzzzt.../s0,/s1bzzzt.../s0,/s1bzzz.../s0,/s1bzzzt.../s0,жжж...,/s1ジジジジ…/s0
 ,,,,,,,,
-102,,/s1bzzzt.../s0/p2 your carpet...,/s1bzzzt.../s0/p2 dein teppich...,/s1bzzzt.../s0/p2 le tapis...,/s1bzzz.../s0/p2 la alfombra...,/s1bzzzt.../s0/p2 seu tapete...,/s1жжж.../s0/p2 твой ковёр...,/s1ジジジジ…/s0/p2そのカーペットは…
+102,,/s1bzzzt.../s0/p2 your carpet...,/s1bzzzt.../s0/p2 dein teppich...,/s1bzzzt.../s0/p2 le tapis...,/s1bzzz.../s0/p2 la alfombra...,/s1bzzzt.../s0/p2 seu tapete...,/s1жжж.../s0#/p2 твой ковёр...,/s1ジジジジ…/s0/p2そのカーペットは…
 102,,it's haunted.,gruselig.,il est hanté.,está embrujada.,é assombrado.,он проклят.,呪われている。
 ,,,,,,,,
-103,,/s1bzzzt.../s0/p2 your carpet...,/s1bzzzt.../s0/p2 dein teppich...,/s1bzzzt.../s0/p2 le tapis...,/s1bzzz.../s0/p2 la alfombra...,/s1bzzzt.../s0/p2 seu tapete...,/s1жжж.../s0/p2 твой ковёр...,/s1ジジジジ…/s0/p2そのカーペットは…
+103,,/s1bzzzt.../s0/p2 your carpet...,/s1bzzzt.../s0/p2 dein teppich...,/s1bzzzt.../s0/p2 le tapis...,/s1bzzz.../s0/p2 la alfombra...,/s1bzzzt.../s0/p2 seu tapete...,/s1жжж.../s0#/p2 твой ковёр...,/s1ジジジジ…/s0/p2そのカーペットは…
 103,,very gruesome.,sehr grausam.,très morbide.,es espantosa.,é horrível.,весьма жуткий.,とてもゾッとする。
 ,,,,,,,,
-104,,/s1bzzzt.../s0/p2 your carpet...,/s1bzzzt.../s0/p2 dein teppich...,/s1bzzzt.../s0/p2 le tapis...,/s1bzzz.../s0/p2 la alfombra...,/s1bzzzt.../s0/p2 seu tapete...,/s1жжж.../s0/p2 твой ковёр...,/s1ジジジジ…/s0/p2そのカーペットは…
+104,,/s1bzzzt.../s0/p2 your carpet...,/s1bzzzt.../s0/p2 dein teppich...,/s1bzzzt.../s0/p2 le tapis...,/s1bzzz.../s0/p2 la alfombra...,/s1bzzzt.../s0/p2 seu tapete...,/s1жжж.../s0#/p2 твой ковёр...,/s1ジジジジ…/s0/p2そのカーペットは…
 104,,so.../p2 deep...,so.../p2 tiefsinning...,très.../p2 profond...,es muy.../p2 profunda...,é tão.../p2 profundo...,такой.../p2 глубокий...,とても…/p2ディープだ…。
 ,,,,,,,,
-105,,/s1bzzzt.../s0/p2 your carpet...,/s1bzzzt.../s0/p2 dein teppich...,/s1bzzzt.../s0/p2 le tapis...,/s1bzzz.../s0/p2 la alfombra...,/s1bzzzt.../s0/p2 seu tapete...,/s1жжж.../s0/p2 твой ковёр...,/s1ジジジジ…/s0/p2そのカーペットは…
+105,,/s1bzzzt.../s0/p2 your carpet...,/s1bzzzt.../s0/p2 dein teppich...,/s1bzzzt.../s0/p2 le tapis...,/s1bzzz.../s0/p2 la alfombra...,/s1bzzzt.../s0/p2 seu tapete...,/s1жжж.../s0#/p2 твой ковёр...,/s1ジジジジ…/s0/p2そのカーペットは…
 105,,i feel. encouragement.,i fühle. ermutigung.,je sens. encouragement.,me da... ánimos.,ele me dá... encorajamento.,я чувствую.#воодушевление.,勇気づけられるような気がする。
 ,,,,,,,,
-106,,/s1bzzzt.../s0/p2 your banners...,/s1bzzzt.../s0/p2 deine banner...,/s1bzzzt.../s0/p2 les bannières...,/s1bzzz.../s0/p2 los estandartes...,/s1bzzzt.../s0/p2 seus banners...,/s1жжж.../s0/p2 твои баннеры...,/s1ジジジジ…/s0/p2そのバナーは…
+106,,/s1bzzzt.../s0/p2 your banners...,/s1bzzzt.../s0/p2 deine banner...,/s1bzzzt.../s0/p2 les bannières...,/s1bzzz.../s0/p2 los estandartes...,/s1bzzzt.../s0/p2 seus banners...,/s1жжж.../s0#/p2 твои баннеры...,/s1ジジジジ…/s0/p2そのバナーは…
 106,,practical.,praktisch.,pratiques.,son muy funcionales.,são práticos.,практично.,実用的だ。
 ,,,,,,,,
-107,,/s1bzzzt.../s0/p2 your banners...,/s1bzzzt.../s0/p2 deine banner...,/s1bzzzt.../s0/p2 les bannières...,/s1bzzz.../s0/p2 los estandartes...,/s1bzzzt.../s0/p2 seus banners...,/s1жжж.../s0/p2 твои баннеры...,/s1ジジジジ…/s0/p2そのバナーは…
+107,,/s1bzzzt.../s0/p2 your banners...,/s1bzzzt.../s0/p2 deine banner...,/s1bzzzt.../s0/p2 les bannières...,/s1bzzz.../s0/p2 los estandartes...,/s1bzzzt.../s0/p2 seus banners...,/s1жжж.../s0#/p2 твои баннеры...,/s1ジジジジ…/s0/p2そのバナーは…
 107,,sentinel is not programmed for love.,sentinel is nicht für liebe programmiert.,la sentinelle n'est pas programmée pour aimer.,el centinela no está programado para el amor.,um sentinela não está programado para o amor.,сентинел не#запрограммирован на#любовь.,センティネルに愛という概念はプログラムされて#いない。
 ,,,,,,,,
-108,,/s1bzzzt.../s0/p2 your banners...,/s1bzzzt.../s0/p2 deine banner...,/s1bzzzt.../s0/p2 les bannières...,/s1bzzz.../s0/p2 los estandartes...,/s1bzzzt.../s0/p2 seus banners...,/s1жжж.../s0/p2 твои баннеры...,/s1ジジジジ…/s0/p2そのバナーは…
+108,,/s1bzzzt.../s0/p2 your banners...,/s1bzzzt.../s0/p2 deine banner...,/s1bzzzt.../s0/p2 les bannières...,/s1bzzz.../s0/p2 los estandartes...,/s1bzzzt.../s0/p2 seus banners...,/s1жжж.../s0#/p2 твои баннеры...,/s1ジジジジ…/s0/p2そのバナーは…
 108,,...are pointing down.,...zeigen nach unten.,... indiquent le bas.,señalan hacia abajo...,...estão apontando para baixo.,...указывают вниз.,…下を向いている。
 ,,,,,,,,
-109,,/s1bzzzt.../s0/p2 your banners...,/s1bzzzt.../s0/p2 deine banner...,/s1bzzzt.../s0/p2 les bannières...,/s1bzzz.../s0/p2 los estandartes...,/s1bzzzt.../s0/p2 seus banners...,/s1жжж.../s0/p2 твои баннеры...,/s1ジジジジ…/s0/p2そのバナーは…
+109,,/s1bzzzt.../s0/p2 your banners...,/s1bzzzt.../s0/p2 deine banner...,/s1bzzzt.../s0/p2 les bannières...,/s1bzzz.../s0/p2 los estandartes...,/s1bzzzt.../s0/p2 seus banners...,/s1жжж.../s0#/p2 твои баннеры...,/s1ジジジジ…/s0/p2そのバナーは…
 109,,have no effect on sentinel.,haben auf sentinel kein effekt.,n'ont aucun effet sur la sentinelle.,no afectan al centinela.,não tem efeito no sentinela.,не действуют на#сентинела.,センティネルに何の影響も与えない。
 ,,,,,,,,
-110,,/s1bzzzt.../s0/p2 that painting...,/s1bzzzt.../s0/p2 dieses porträt...,/s1bzzzt.../s0/p2 ce tableau...,/s1bzzz.../s0/p2 ese cuadro...,/s1bzzzt.../s0/p2 aquela pintura...,/s1жжж.../s0/p2 та картина...,/s1ジジジジ…/s0/p2その絵画…
+110,,/s1bzzzt.../s0/p2 that painting...,/s1bzzzt.../s0/p2 dieses porträt...,/s1bzzzt.../s0/p2 ce tableau...,/s1bzzz.../s0/p2 ese cuadro...,/s1bzzzt.../s0/p2 aquela pintura...,/s1жжж.../s0#/p2 та картина...,/s1ジジジジ…/s0/p2その絵画…
 110,,sentinel does not remember what sun is.,sentinel erinnert sich nicht an die sonne.,la sentinelle ne se souvient pas du soleil.,el centinela no recuerda qué es el sol.,sentinela não lembra o que é o sol.,"сентинел не помнит,#что такое солнце.",センティネルは太陽が何かを記憶していない。
 ,,,,,,,,
-111,,/s1bzzzt.../s0/p2 that portrait...,/s1bzzzt.../s0/p2 dieses porträt...,/s1bzzzt.../s0/p2 ce tableau...,/s1bzzz.../s0/p2 ese retrato...,/s1bzzzt.../s0/p2 aquele retrato...,/s1жжж.../s0/p2 тот портрет...,/s1ジジジジ…/s0/p2その絵画…
+111,,/s1bzzzt.../s0/p2 that portrait...,/s1bzzzt.../s0/p2 dieses porträt...,/s1bzzzt.../s0/p2 ce tableau...,/s1bzzz.../s0/p2 ese retrato...,/s1bzzzt.../s0/p2 aquele retrato...,/s1жжж.../s0#/p2 тот портрет...,/s1ジジジジ…/s0/p2その絵画…
 111,,very imposing./p2 must be someone important.,sehr imposant./p2 muss jemand wichtiges sein.,très imposant./p2 doit être quelqu'un d'important.,es muy imponente./p2 debe de ser alguien importante.,muito imponente./p2 deve ser alguém importante.,"очень внушительный./p2#наверное, важная#персона.",とても印象的だ。/p2重要な人物に違いない。
 ,,,,,,,,
-112,,/s1bzzzt.../s0/p2 that portrait...,/s1bzzzt.../s0/p2 dieses porträt...,/s1bzzzt.../s0/p2 ce tableau...,/s1bzzz.../s0/p2 ese retrato...,/s1bzzzt.../s0/p2 aquele retrato...,/s1жжж.../s0/p2 тот портрет...,/s1ジジジジ…/s0/p2その絵画…
+112,,/s1bzzzt.../s0/p2 that portrait...,/s1bzzzt.../s0/p2 dieses porträt...,/s1bzzzt.../s0/p2 ce tableau...,/s1bzzz.../s0/p2 ese retrato...,/s1bzzzt.../s0/p2 aquele retrato...,/s1жжж.../s0#/p2 тот портрет...,/s1ジジジジ…/s0/p2その絵画…
 112,,very embellished. bloke in actuality not very strong.,nicht wahrheitsgemäß. bloke nicht wirklich so stark.,très embelli. bloke en vérité pas très fort.,está muy retocado. el bloke real no es demasiado fuerte.,"está retocado demais. o bloke, na realidade, não é forte assim.",сильно приукрашен.#Блоук на деле не очень#сильный.,脚色されている。実際のブロークはそこまで強力#ではない。
 ,,,,,,,,
-113,,/s1bzzzt.../s0/p2 that jukebox...,/s1bzzzt.../s0/p2 diese jukebox...,/s1bzzzt.../s0/p2 ce juke-box...,/s1bzzz.../s0/p2 esa gramola...,/s1bzzzt.../s0/p2 aquela jukebox...,/s1жжж.../s0/p2 тот автомат...,/s1ジジジジ…/s0/p2そのジュークボックス…
+113,,/s1bzzzt.../s0/p2 that jukebox...,/s1bzzzt.../s0/p2 diese jukebox...,/s1bzzzt.../s0/p2 ce juke-box...,/s1bzzz.../s0/p2 esa gramola...,/s1bzzzt.../s0/p2 aquela jukebox...,/s1жжж.../s0#/p2 тот автомат...,/s1ジジジジ…/s0/p2そのジュークボックス…
 113,,sentinel does not care for music.,dem sentinel ist musik egal.,sentinelle n'aime pas la musique.,la música no significa nada para el centinela.,sentinela não liga para música.,сентинелу всё равно на#музыку.,センティネルは音楽に興味がない。
 ,,,,,,,,
-114,,/s1bzzzt.../s0/p2 that jar...,/s1bzzzt.../s0/p2 dieses glas...,/s1bzzzt.../s0/p2 ce bocal...,/s1bzzz.../s0/p2 ese tarro...,/s1bzzzt.../s0/p2 aquele jarro...,/s1жжж.../s0/p2 та банка...,/s1ジジジジ…/s0/p2その瓶…
+114,,/s1bzzzt.../s0/p2 that jar...,/s1bzzzt.../s0/p2 dieses glas...,/s1bzzzt.../s0/p2 ce bocal...,/s1bzzz.../s0/p2 ese tarro...,/s1bzzzt.../s0/p2 aquele jarro...,/s1жжж.../s0#/p2 та банка...,/s1ジジジジ…/s0/p2その瓶…
 114,,poor guy.,armer kerl.,le pauvre.,pobre tipo.,coitadinho.,бедняга.,あわれな奴。
 ,,,,,,,,
-115,,/s1bzzzt.../s0/p2 that jar...,/s1bzzzt.../s0/p2 dieses glas...,/s1bzzzt.../s0/p2 ce bocal...,/s1bzzz.../s0/p2 ese tarro...,/s1bzzzt.../s0/p2 aquele jarro...,/s1жжж.../s0/p2 та банка...,/s1ジジジジ…/s0/p2その瓶…
+115,,/s1bzzzt.../s0/p2 that jar...,/s1bzzzt.../s0/p2 dieses glas...,/s1bzzzt.../s0/p2 ce bocal...,/s1bzzz.../s0/p2 ese tarro...,/s1bzzzt.../s0/p2 aquele jarro...,/s1жжж.../s0#/p2 та банка...,/s1ジジジジ…/s0/p2その瓶…
 115,,little guy on standby.,kleiner kerl auf standby.,le petit se tient prêt.,el pobrecito está en pausa.,garotinho em espera.,малыш в режиме#ожидания.,小さい奴が待機中。
 ,,,,,,,,
-116,,/s1bzzzt.../s0/p2 that table...,/s1bzzzt.../s0/p2 dieses tisch...,/s1bzzzt.../s0/p2 cette table...,/s1bzzz.../s0/p2 esa mesa...,/s1bzzzt.../s0/p2 aquela mesa...,/s1жжж.../s0/p2 тот стол...,/s1ジジジジ…/s0/p2そのテーブルは…
+116,,/s1bzzzt.../s0/p2 that table...,/s1bzzzt.../s0/p2 dieses tisch...,/s1bzzzt.../s0/p2 cette table...,/s1bzzz.../s0/p2 esa mesa...,/s1bzzzt.../s0/p2 aquela mesa...,/s1жжж.../s0#/p2 тот стол...,/s1ジジジジ…/s0/p2そのテーブルは…
 116,,disappointing.,enttäuschend.,décevante.,qué decepción.,decepcionante.,разочаровывает.,期待はずれだ。
 ,,,,,,,,
-117,,/s1bzzzt.../s0/p2 that table...,/s1bzzzt.../s0/p2 dieses tisch...,/s1bzzzt.../s0/p2 cette table...,/s1bzzz.../s0/p2 esa mesa...,/s1bzzzt.../s0/p2 aquela mesa...,/s1жжж.../s0/p2 тот стол...,/s1ジジジジ…/s0/p2そのテーブルは…
+117,,/s1bzzzt.../s0/p2 that table...,/s1bzzzt.../s0/p2 dieses tisch...,/s1bzzzt.../s0/p2 cette table...,/s1bzzz.../s0/p2 esa mesa...,/s1bzzzt.../s0/p2 aquela mesa...,/s1жжж.../s0#/p2 тот стол...,/s1ジジジジ…/s0/p2そのテーブルは…
 117,,adequate.,adequat.,adéquate.,no está mal.,adequada.,сойдёт.,適切だ。
 ,,,,,,,,
-118,,/s1bzzzt.../s0/p2 that table...,/s1bzzzt.../s0/p2 dieses tisch...,/s1bzzzt.../s0/p2 cette table...,/s1bzzz.../s0/p2 esa mesa...,/s1bzzzt.../s0/p2 aquela mesa...,/s1жжж.../s0/p2 тот стол...,/s1ジジジジ…/s0/p2そのテーブルは…
+118,,/s1bzzzt.../s0/p2 that table...,/s1bzzzt.../s0/p2 dieses tisch...,/s1bzzzt.../s0/p2 cette table...,/s1bzzz.../s0/p2 esa mesa...,/s1bzzzt.../s0/p2 aquela mesa...,/s1жжж.../s0#/p2 тот стол...,/s1ジジジジ…/s0/p2そのテーブルは…
 118,,impressive.,beeindrückend.,impressionnante.,es impresionante.,impressionante.,впечатляет.,素晴らしい。
 ,Trader,,,,,,,
 119,,no?/p1 i truly hope you don't expect me to haggle.,nein?/p1 ich hoffe wirklich du erwartest kein feilschen.,non ?/p1 j'espère que tu ne t'attends pas à marchander.,¿no?/p1 espero que no estés pensando en regatear conmigo.,não acha?/p1 eu só espero que você não esteja pensando em pechinchar comigo.,"нет?/p1 очень надеюсь, ты#не ждёшь торга.",だめか？/p1値切ろうなどと思ってないだろうね。
@@ -469,7 +469,7 @@
 164,,do you like video games?,magst du videospiele?,est-ce que tu aimes les jeux vidéo ?,¿te molan los videojuegos?,você gosta de videogames?,тебе нравятся#видеоигры?,ゲーム好きか？
 ,,,,,,,,
 165,,really??,wirklich??,vraiment ??,¿qué me cuentas?,é sério??,правда??,マジ？？
-165,,/s1ha ha ha ha ha ha ha!/s0,/s1ha ha ha ha ha ha ha!/s0,/s1ha ha ha ha ha ha ha !/s0,"/s1¡ja, ja, ja, ja, ja, ja!/s0",/s1ha ha ha ha ha ha ha!/s0,/s1ха ха ха ха ха ха ха!/s0,/s1ハハハハハハハ！/s0
+165,,/s1ha ha ha ha ha ha ha!/s0,/s1ha ha ha ha ha ha ha!/s0,/s1ha ha ha ha ha ha ha !/s0,"/s1¡ja, ja, ja, ja, ja, ja!/s0",/s1ha ha ha ha ha ha ha!/s0,ха ха ха ха ха ха ха!,/s1ハハハハハハハ！/s0
 165,,what a chump!,was für ein loser!,quel nullard !,¡vaya tontaina!,que bobão!,ну и простак!,バカ正直なんだな！
 165,,i like you!!,ich mag dich!!,tu me plais !,¡me caes guay!,gostei de você!!,ты мне нравишься!!,気に入ったぜ！
 ,,,,,,,,
@@ -518,7 +518,7 @@
 177,,what are you fighting for?,wofür schlägst du dich hier?,pour quoi te bats-tu ?,¿por qué motivo luchas?,pelo que você está lutando?,за что ты сражаешься?,君は何のために戦っているんだ？
 ,Special seal.,,,,,,,
 255,,you got all the way through??,du hast den ganzen weg durch geschafft??,tu es allé tout au bout ?,¿has llegado hasta el final?,você chegou até o fim??,ты добрался до самого#конца??,ここまで自力で戦い抜いてきたのか？
-255,,that's/p4 /s1fantastic!!/s0,das ist/p4 /s1fantastisch!!/s0,c'est/p4 /s1fantastique !!/s0,¡eso es/p4 /s1fantástico/s0!,isso é /p4 /s1fantástico!!/s0,это/p4 /s1просто отпад!!/s0,それは/p4/s1すごいじゃないか！/s0
+255,,that's/p4 /s1fantastic!!/s0,das ist/p4 /s1fantastisch!!/s0,c'est/p4 /s1fantastique !!/s0,¡eso es/p4 /s1fantástico/s0!,isso é /p4 /s1fantástico!!/s0,это/p4 просто отпад!!,それは/p4/s1すごいじゃないか！/s0
 255,,"ordinarily i'd have a /c2special thing/c0 to give you now, but uh...","normalerweiser würde ich dir jetzt /c2was besonderes/c0 geben aber, uh...","normalement, j'aurais un /c2objet spécial/c0 pour toi, mais, euh...","lo normal es que ahora tuviese /c2algo especial/c0 para darte, pero...","normalmente eu tinha uma coisa /c2especial/c0 para te dar agora, mas, hum...","вообще-то сейчас я#должен был дать тебе#/c2кое-что особенное/c0, но,#эм...",いつもなら/c2とっておきの贈り物/c0を渡すけど…
 255,,i kinda lost it.,ich hab's verloren.,je l'ai perdu.,digamos que lo he perdido.,eu meio que perdi.,"я его, кажись, посеял.",失くしてしまったみたいだ。
 255,,oh don't look at me like that. i'll find it eventually./p2 gimme like.,oh schau mich nicht so an. ich finde's schon./p2 gib mir etwa...,ne me regarde pas comme ça. je le retrouverai./p2donne-moi juste...,"venga, no me mires así, acabaré encontrándolo./p2 dame...","ah, não me olhe assim. alguma hora eu encontro o seu presente./p2 é só me dar...","ой, не смотри на меня#так. найду в конце#концов./p2 дай мне#где-то...",そんな顔するなよ、そのうち見つけるから。/p2#そうだな…
@@ -742,7 +742,7 @@
 397,,victory has never been closer.,der sieg war noch nie näher.,la victoire n'a jamais été aussi proche.,la victoria nunca había estado tan cerca.,a vitória nunca esteve tão próxima.,победа никогда не была#так близко.,我が勝利は目前である。
 ,Autodoc.,,,,,,,
 398,,we don't get many visitors down here.,wir kriegen hier unten selten besucher.,les visiteurs sont rares ici.,no solemos tener demasiadas visitas.,não recebemos muitos visitantes aqui.,у нас здесь мало#посетителей.,来訪者にお目にかかれることなんて滅多にない。
-398,,"/s1heh heh,/s0/p2 i wonder why?","/s1heh heh,/s0/p2 ich wundere mich wieso.","/s1hé, hé,/s0/p2 je me demande pourquoi ?","/s1je, je, je,/s0/p2 ¿por qué será?","/s1heh heh,/s0/p2 por que será?","/s1хех хех,/s0/p2 интересно#почему?",/s1へへ、/s0/p2なぜだろうね？
+398,,"/s1heh heh,/s0/p2 i wonder why?","/s1heh heh,/s0/p2 ich wundere mich wieso.","/s1hé, hé,/s0/p2 je me demande pourquoi ?","/s1je, je, je,/s0/p2 ¿por qué será?","/s1heh heh,/s0/p2 por que será?","/s1хех хех,/s0#/p2 интересно#почему?",/s1へへ、/s0/p2なぜだろうね？
 ,,,,,,,,
 399,,you look /p4...interesting./p8# mind if i run a few experiments?,du siehst /p4...interessant aus./p8 kann ich mal an dir experimentieren?,tu as l'air /p4...intéressant./p8# je peux faire quelques tests ?,pareces.../p4 interesante./p8#¿me dejas experimentar contigo?,você parece /p4...interessante./p8# se importa se eu fizer alguns experimentos?,ты выглядишь#/p4...занятно./p8 не против#парочки экспериментов?,君は実に/p4…興味深い。/p8#少し実験させてもらえないか？
 ,,,,,,,,
@@ -773,14 +773,14 @@
 ,,,,,,,,
 410,,/f1siiigh./f0/p1 i guess there's nothing i can do now.,/f1seufz./f0/p1 da kann man nichts tun.,/f1soupir./f0/p1 je ne peux rien y faire maintenant.,/f1miaaau./f0/p1 supongo que ya no tiene remedio.,/f1afff./f0/p1 acho que não há nada mais que eu possa fazer agora.,"/f1вздо-о-ох./f0/p1 видимо,#теперь ничего не#поделаешь.",/f1はぁ。/f0/p1でも今はなす術もないよ。
 ,,,,,,,,
-411,,"/s1finally!/s0/p2 it wasn't me, but still.","/s1endlich!/s0/p2 ich war's nicht, aber trotzedem.","/s1enfin !/s0/p2 ce n'était pas moi, mais bon.","/s1¡al fin!/s0/p2 no he sido yo, pero da igual.","/s1finalmente!/s0/p2 não fui eu, mas não importa.","/s1наконец-то!/s0/p2 сделал это#не я, но всё же.",/s1ついに！/s0/p2自分で開けられなかったが。#だがそれでも…
+411,,"/s1finally!/s0/p2 it wasn't me, but still.","/s1endlich!/s0/p2 ich war's nicht, aber trotzedem.","/s1enfin !/s0/p2 ce n'était pas moi, mais bon.","/s1¡al fin!/s0/p2 no he sido yo, pero da igual.","/s1finalmente!/s0/p2 não fui eu, mas não importa.","/s1наконец-то!/s0#/p2 сделал это#не я, но всё же.",/s1ついに！/s0/p2自分で開けられなかったが。#だがそれでも…
 411,,you can't imagine how long that door's been taunting me.,kannst dir nicht vorstellen wie lange diese tür mich spottete.,cette porte me nargue depuis assez longtemps.,no te imaginas cuánto tiempo llevaba provocándome esa puerta.,você nem imagina há quanto tempo aquela porta está me provocando.,"ты не представляешь,#как долго эта дверь#меня дразнила.",あのドアにどれだけの間、苛まれてきたことか…。
 ,,,,,,,,
 412,,"and i guess i still have the debris, too./p1 nice.",und der schrott ist auch noch da./p1 nett.,et il me reste toujours les débris./p1 génial.,y supongo que sigo teniendo los restos./p1 genial.,e acho que ainda tenho os destroços também./p1 ótimo.,и обломки тоже#остались у меня./p1#неплохо.,それに、デブリもまだ手元にある。/p1いいこった。
 ,,,,,,,,
 413,,it was you!!!,du warst es!!!,c'était toi !,¡has sido tú!,foi você!!!,это был ты!!!,お前だったのか！！！
 413,,i can't believe you took that key i was saving for!,"i-ich kann nicht glauben, dass du den schlüssen weg nahmst!",je n'arrive pas à croire que tu aies pris la clé !,¡no me creo que te llevases la llave que yo quería!,não acredito que você pegou a chave que eu tanto economizei para comprar!,"не верю, что ты забрал#ключ, на который я#копил!",私が貯金を崩して買ったカギを盗んだのは！
-413,,i-/p1i-/p2./p1./p1. aaaaaargh!/c2/s2 i'll kill you!!!/s0/c0,d-/p1du-/p2./p1./p1. aaaaaah!/c2/s2 du wirst dafür zahlen!!!/s0/c0,je-/p1je-/p2./p1./p1. aaaaaargh !/c2/s2 je vais te tuer !!!/s0/c0,t-/p1te/p2./p1./p1. ¡aaaj! /c2/s2¡te mato!/s0/c0,i-/p1i-/p2./p1./p1. aaaaaargh!/c2/s2 eu te mato!!!/s0/c0,я-/p1я-/p2./p1./p1. аааааарг!/c2/s2 я#тебя убью!!!/s0/c0,こ、/p1こ…/p2./p1./p1.うおぉぉぉ！/c2/s2殺してやるぅ！！/s0/c0
+413,,i-/p1i-/p2./p1./p1. aaaaaargh!/c2/s2 i'll kill you!!!/s0/c0,d-/p1du-/p2./p1./p1. aaaaaah!/c2/s2 du wirst dafür zahlen!!!/s0/c0,je-/p1je-/p2./p1./p1. aaaaaargh !/c2/s2 je vais te tuer !!!/s0/c0,t-/p1te/p2./p1./p1. ¡aaaj! /c2/s2¡te mato!/s0/c0,i-/p1i-/p2./p1./p1. aaaaaargh!/c2/s2 eu te mato!!!/s0/c0,я-/p1я-/p2./p1./p1. аааааарг!/c2/s2 я#тебя убью!!!/c0,こ、/p1こ…/p2./p1./p1.うおぉぉぉ！/c2/s2殺してやるぅ！！/s0/c0
 ,Portrait.,,,,,,,
 415,,this appears to be a group shot of some regally dressed figures.,ein gruppenabbild von edel gekleideten figuren.,cela semble être un groupe de personnages en habits royaux.,parece un retrato grupal de unas figuras con ropas majestuosas.,esta parece ser uma foto de grupo de alguns indivíduos vestidos com elegância.,"похоже, это групповое#фото роскошно одетых#людей.",この絵には、きらびやかに着飾った人々が描かれている。
 415,,"it's difficult to make out,/p1 but/p4 they seem happy.","es ist schwer zu erkennen,/p1 aber/p4 sie sehen glücklich aus.","c'est difficile à voir, /p1 mais/p4 ils semblent heureux.","es difícil saberlo,/p1 pero/p4 parecen felices.","é difícil entender o porquê,/p1 mas/p4 eles parecem felizes.","трудно разобрать,/p1 но/p4#они выглядят#счастливыми.",なぜかは分からない。/p1でも、/p4彼らは幸せそうだ。
@@ -793,7 +793,7 @@
 ,Skully NPC.,,,,,,,
 419,,i wish we had a jukebox down there. that'd be rad.,ich wünsche mir wir hätten dort unten eine jukebox. wäre toll.,j'aimerais bien qu'on ait un juke-box en bas. ce serait cool.,ojalá tuviésemos una gramola ahí abajo. sería la repera.,eu ia adorar se tivesse uma jukebox lá embaixo. isso seria demais.,вот бы нам туда вниз#музыкальный автомат.#было бы отпадно.,地下にもジュークボックスがあったらサイコーなのにな。
 420,,/f1*hums along*/f0,/f1*summt zur musik*/f0,/f1*chantonne*/f0,/f1*tararea*/f0,/f1*cantarolando*/f0,/f1*мурлычет в такт*/f0,/f1*音楽に合わせて口ずさむ*/f0
-421,,/s1*jitters uncomfortably*/s0,/s1*nervöses vibrieren*/s0,/s1*s'agite avec gêne*/s0,/s1*se agita incómodamente*/s0,/s1*se agita de forma incômoda*/s0,/s1*нервно дёргается*/s0,/s1*神経質そうにガタガタ揺れる*/s0
+421,,/s1*jitters uncomfortably*/s0,/s1*nervöses vibrieren*/s0,/s1*s'agite avec gêne*/s0,/s1*se agita incómodamente*/s0,/s1*se agita de forma incômoda*/s0,*нервно дёргается*,/s1*神経質そうにガタガタ揺れる*/s0
 ,Pure s dialogue.,,,,,,,
 500,,"oh,/p2 a /c1visitor/c0?","oh,/p2 ein /c1besucher/c0?","oh,/p2 un /c1visiteur/c0 ?","anda,/p2 ¿una /c1visita/c0?","ah,/p2 um /c1visitante/c0?","о,/p2 /c1гость/c0?",おや、/p2/c1来訪者/c0か？
 ,,,,,,,,
@@ -1071,7 +1071,7 @@
 604,,this is a neat tune./p2 must be a hit on the surface.,nette melodie./p2 muss ein hit auf der oberfläche sein.,c'est un morceau sympa./p2 ça doit faire un carton à la surface.,"menudo temazo,/p2 seguro que pega fuerte en la superficie.",esta é uma ótima música./p2 deve ser um sucesso na superfície.,"это приятная мелодия./p2#наверное, хит на#поверхности.",いいメロディーだ。/p2#地上ではかなり売れたんじゃないか？
 605,,"you know, i come here just for this song specifically.","weisst du, ich komme hier spezifisch für diesen song.","tu sais, je viens spécialement pour cette chanson.","¿sabes?, esta canción es por lo que vengo aquí.","sabe, eu venho aqui apenas por causa dessa música.","знаешь, я прихожу сюда#именно ради этой#песни.",この曲を聴くためなら、何度でも戻ってくるよ。
 605,,i can listen to it for hours.,kann es studenlang zuhören.,je pourrais l'écouter des heures.,puedo pasarme horas escuchándola.,posso ouvi-la por horas.,могу слушать её#часами.,何時間でも聴いていられるな。
-606,,/s1eeugh./s0 how am i supposed to spook people to this tune?,/s1uuuggghh./s0 wie soll ich bei der musik gruselig wirken?,/s1pff./s0 comment faire peur aux gens sur ce morceau ?,/s1ufff./s0 ¿cómo voy a asustar a alguien con esta melodía?,/s1affff./s0 como vou assustar as pessoas com essa música?,/s1бе-е-е./s0 как мне пугать#народ под эту мелодию?,/s1うえぇ、/s0この曲を流しながらみんなを#怖がらせるなんて無理だよ。
+606,,/s1eeugh./s0 how am i supposed to spook people to this tune?,/s1uuuggghh./s0 wie soll ich bei der musik gruselig wirken?,/s1pff./s0 comment faire peur aux gens sur ce morceau ?,/s1ufff./s0 ¿cómo voy a asustar a alguien con esta melodía?,/s1affff./s0 como vou assustar as pessoas com essa música?,/s1бе-е-е./s0# как мне пугать#народ под эту мелодию?,/s1うえぇ、/s0この曲を流しながらみんなを#怖がらせるなんて無理だよ。
 607,,"found this tune on a cd, in the archives./p2 truly a treasure.",habe diese musik auf einer cd in den archiven gefuden./p2 ein wahrer schatz.,j'ai trouvé ce morceau sur un cd des archives./p2 un vrai bijou.,esta canción es de un cd que estaba en los archivos./p2 es una joya.,achei essa música num cd que estava nos arquivos./p2 uma preciosidade. ,нашёл эту мелодию на#диске в архивах./p2#настоящее сокровище.,これは資料庫のCDにあったんだ。/p2名曲だね。
 608,,i prefer to listen to this song underwater./p2 and reversed.,klingt ganz anders unterwasser./p2 und rückwärts.,je préfère écouter cette chanson sous l'eau./p2 et à l'envers.,esta canción prefiero escucharla bajo el agua/p2 y al revés.,prefiro ouvir essa música debaixo d’água./p2 e invertida.,я предпочитаю слушать#эту песню под водой./p2 и#задом наперёд.,私はこの曲を水中で聴くのが好きだ。/p2#逆再生しながらね。
 609,,"oh man, this song hits me so hard, it's like my head's on fire.","der song trifft mich so hart, es ist so als ob mir der kopf in flammen steht.","oh, cette chanson me touche trop, comme si j'avais la tête en feu.","vaya, esta canción me transmite tanto que me va a arder la cabeza.","ah, cara, essa música me toca tanto que sinto minha cabeça em chamas. ","о боже, эта песня так#бьёт по мозгам, будто#голова в огне.",この曲はすごいな。聴いていると熱くなってくる。
@@ -1114,7 +1114,7 @@
 637,,got this track on loan from a giant red skull.,"hab diesen track von einen riesigen, roten schädel geborgt.",j'ai emprunté ce morceau à un crâne rouge géant.,esta canción la conocí gracias a un cráneo rojo gigante.,peguei essa canção emprestada de uma caveira vermelha gigante.,одолжил этот трек у#огромного красного#черепа.,これは赤い巨大スカルから借りたんだ。
 637,,no really.,"nein, wirklich.","non, c'est vrai.",lo digo en serio.,é sério.,серьёзно.,本当だって。
 638,,i wonder where this track is going.,ich wundere mich wo dieser song hingeht.,je ne sais pas ce que veut nous dire cette chanson.,no sé qué nos quiere decir esta canción.,aonde será que essa música quer chegar?,"интересно, куда ведёт#этот трек.",この曲の展開が気になるな。
-639,,/s1whoa!/s0 jammin'!,/s1whoa!/s0 krass'!,/s1ouah !/s0 une improvisation !,/s1¡toma ya!/s0 ¡alucinante!,/s1yuhul!/s0 som na caixa!,/s1вау!/s0 зажигает!,/s1イェイ！/s0ノリノリだ！
+639,,/s1whoa!/s0 jammin'!,/s1whoa!/s0 krass'!,/s1ouah !/s0 une improvisation !,/s1¡toma ya!/s0 ¡alucinante!,/s1yuhul!/s0 som na caixa!,/s1вау!/s0# зажигает!,/s1イェイ！/s0ノリノリだ！
 640,,*skully has zoned out*,*skully tagträumt*,*skully regarde dans le vide*,*skully se queda ensimismado.*,*skully perdido em seus pensamentos*,*скалли отключился*,*スカルは音楽に浸っている*
 641,,so the database is real...,also ist die datenbank echt...,donc la base de données existe vraiment...,así que la base de datos es real...,então o banco de dados é real...,"значит, база данных#реальна...",データベースは実在するのか…
 641,,i wonder what kind of music it has stored on it.,ich wundere mich welche songs es gespeichert hat.,je me demande quel genre de musique il y a dedans.,me pregunto qué tipo de música tendrá almacenada.,que tipo de música será que está armazenada nele?,"интересно, какая#музыка на ней#хранится.",そこにはどんな曲が保存されているんだろうね。
@@ -1208,7 +1208,7 @@
 767,,/r1y o u . .,/r1d u . .,/r1t o i . . .,/r1t ú . . .,/r1v o c ê . .,/r1т ы . .,/r1お ま え が . .
 767,,/r1d a m n  y o u . .,/r1s e i#v e r d a m m t . .,/r1v a a u d i a b l e . . .,/r1v e t e al#i n f i e r n o . . .,/r1d e s g r a ç a d o . .,/r1б у д ь т ы п р о к л#я т . .,/r1す べ て . .
 767,,/r1a l l  y o u r#f a u l t . .,/r1a l l e s  d e i n e#s c h u l d . .,/r1t o u t e s t t a#f a u t e . . .,/r1e s t o d o p o r#t u c u l p a . . .,/r1a c u l p a é t o d a#s u a . .,/r1э т о в с ё т в о я в#и н а . .,/r1お ま え の#せ い で . .
-767,,/r1/s1a l l  y o u r#f a u l t . .,/r1/s1a l l e s  d e i n e#s c h u l d . .,/r1/s1t o u t e s t t a#f a u t e . . .,/r1/s1p o r t u#c u l p a . . .,/r1é t u d o s u a#c u l p a . .,/r1/s1э т о в с ё т в о я в#и н а . .,/r1/s1こ ん な#こ と に . .
+767,,/r1/s1a l l  y o u r#f a u l t . .,/r1/s1a l l e s  d e i n e#s c h u l d . .,/r1/s1t o u t e s t t a#f a u t e . . .,/r1/s1p o r t u#c u l p a . . .,/r1é t u d o s u a#c u l p a . .,/r1э т о в с ё т в о я в#и н а . .,/r1/s1こ ん な#こ と に . .
 ,Trial IV ghosts.,,,,,,,
 768,,/r2that symbol.,/r2dieser symbol.,/r2ce symbole.,/r2ese símbolo...,/r2esse símbolo.,/r2тот символ.,/r2あのシンボル…
 768,,"/r2it held some importance, once.",/r2es hatte mal bedeutung.,/r2il avait une certaine importance jadis.,"/r2en su día, fue muy importante.",/r2ele já foi importante no passado.,/r2когда-то он имел#значение.,/r2かつては重要なものだった。
