@@ -1,4 +1,4 @@
-﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
 0,,hack,hacken,pirater,hackear,hackear,взлом,ハッキング
 1,,difficulty >>,schwergrad >>,difficulté >>,dificultad >>,dificuldade >>,сложность >>,難易度>>
 2,,layers     >>,schichten  >>,niveaux >>,capas >>,camadas >>,слои >>,レイヤー数>>
@@ -24,7 +24,7 @@
 22,,careful!,vorsicht!,attention !,¡cuidado!,cuidado!,осторожно!,慎重に！
 23,,collect!,sammle!,récolte !,¡obtén eso!,colete!,собери!,集めろ！
 24,,loop!,durch!,boucle !,¡bucle!,loop!,цикл!,ループ！
-25,,navigate!,navigiere!,fraye-toi un chemin !,¡ábrete paso!,navegue!,навигируй!,導け！
+25,,navigate!,navigiere!,fraye-toi un chemin !,¡ábrete paso!,navegue!,ищи путь!,導け！
 26,,block!,blocke!,bloque !,¡bloquea!,bloqueie!,блокируй!,ブロック！
 27,,firewall!,firewall!,mur de feu !,¡cortafuegos!,firewall!,файрвол!,ファイアウォール！
 28,,survive!,überlebe!,survis !,¡sobrevive!,sobreviva!,выживи!,生き残れ！
