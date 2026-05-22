@@ -2,4 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 .env
-_backup_ru/
+tools/
+
+# Черновики для публикации в Steam (не в репозитории)
+docs/steam-guide/

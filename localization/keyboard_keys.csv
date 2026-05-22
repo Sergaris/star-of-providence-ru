@@ -1,0 +1,122 @@
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
+8,,backspace,rücktaste,retour arrière,retroceso,backspace,Backspace,ＢａｃｋＳｐａｃｅ
+9,,tab,tab,tab,tab,tab,Tab,Ｔａｂ
+12,,num,num,num,núm,num,Num,Ｎｕｍ
+13,,enter,enter,entrée,intro,enter,Enter,Ｅｎｔｅｒ
+16,,shift,shift,maj,mayús,shift,shift,Ｓｈｉｆｔ
+17,,ctrl,strg,ctrl,ctrl,ctrl,ctrl,Ｃｔｒｌ
+18,,alt,alt,alt,alt,alt,alt,Ａｌｔ
+19,,pause,pause,pause,pausa,pause,Пауза,Ｐａｕｓｅ
+20,,capslock,capslock,Verr. maj,bloq mayús,capslock,Caps Lock,Ｃａｐｓ　Ｌｏｃｋ
+32,,space,leertaste,espace,espacio,espaço,Пробел,Ｓｐａｃｅ
+33,,page up,bild auf,page précédente,av pág,page up,PgUp,ＰａｇｅＵｐ
+34,,page down,bild runter,page suivante,re pág,page down,PgDn,ＰａｇｅＤｏｗｎ
+35,,end,ende,fin,fin,end,End,Ｅｎｄ
+36,,home...,pos 1,début,inicio,home,home...,Ｈｏｍｅ
+37,,left,links,gauche,izquierda,esquerda,Влево,左キー
+38,,up,oben,haut,arriba,para acima,Вверх,上キー
+39,,right,rechts,droite,derecha,direita,Вправо,右キー
+40,,down,unten,bas,abajo,para baixo,Вниз,下キー
+45,,insert,einfg,insérer,ins,insert,Insert,Ｉｎｓｅｒｔ
+46,,delete,entf,supprimer,supr,delete,Delete,Ｄｅｌｅｔｅ
+48,,0,0,0,0,0,0,０
+49,,1,1,1,1,1,1,１
+50,,2,2,2,2,2,2,２
+51,,3,3,3,3,3,3,３
+52,,4,4,4,4,4,4,４
+53,,5,5,5,5,5,5,５
+54,,6,6,6,6,6,6,６
+55,,7,7,7,7,7,7,７
+56,,8,8,8,8,8,8,８
+57,,9,9,9,9,9,9,９
+65,,a,a,a,a,a,a,Ａ
+66,,b,b,b,b,b,b,Ｂ
+67,,c,c,c,c,c,c,Ｃ
+68,,d,d,d,d,d,d,Ｄ
+69,,e,e,e,e,e,e,Ｅ
+70,,f,f,f,f,f,f,Ｆ
+71,,g,g,g,g,g,g,Ｇ
+72,,h,h,h,h,h,h,Ｈ
+73,,i,i,i,i,i,i,Ｉ
+74,,j,j,j,j,j,j,Ｊ
+75,,k,k,k,k,k,k,Ｋ
+76,,l,l,l,l,l,l,Ｌ
+77,,m,m,m,m,m,m,Ｍ
+78,,n,n,n,n,n,n,Ｎ
+79,,o,o,o,o,o,o,Ｏ
+80,,p,p,p,p,p,p,Ｐ
+81,,q,q,q,q,q,q,Ｑ
+82,,r,r,r,r,r,r,Ｒ
+83,,s,s,s,s,s,s,Ｓ
+84,,t,t,t,t,t,t,Ｔ
+85,,u,u,u,u,u,u,Ｕ
+86,,v,v,v,v,v,v,Ｖ
+87,,w,w,w,w,w,w,Ｗ
+88,,x,x,x,x,x,x,Ｘ
+89,,y,z,y,y,y,y,Ｙ
+90,,z,y,z,z,z,z,Ｚ
+91,,fn. key,fn. taste,touche fn,tecla fn,tecla fn,Fn,Ｗｉｎｄｏｗｓキー
+93,,context menu,kontextmenu,menu contextuel,menú,menu,Меню,メニューキー
+96,,num 0,num 0,num 0,núm 0,num 0,num 0,Ｎｕｍ　０
+97,,num 1,num 1,num 1,núm 1,num 1,num 1,Ｎｕｍ　１
+98,,num 2,num 2,num 2,núm 2,num 2,num 2,Ｎｕｍ　２
+99,,num 3,num 3,num 3,núm 3,num 3,num 3,Ｎｕｍ　３
+100,,num 4,num 4,num 4,núm 4,num 4,num 4,Ｎｕｍ　４
+101,,num 5,num 5,num 5,núm 5,num 5,num 5,Ｎｕｍ　５
+102,,num 6,num 6,num 6,núm 6,num 6,num 6,Ｎｕｍ　６
+103,,num 7,num 7,num 7,núm 7,num 7,num 7,Ｎｕｍ　７
+104,,num 8,num 8,num 8,núm 8,num 8,num 8,Ｎｕｍ　８
+105,,num 9,num 9,num 9,núm 9,num 9,num 9,Ｎｕｍ　９
+106,,num *,num *,num *,núm *,num *,num *,Ｎｕｍ　＊
+107,,num +,num +,num +,núm +,num +,num +,Ｎｕｍ　＋
+109,,num -,num -,num -,núm -,num -,num -,Ｎｕｍ　－
+110,,num .,num .,num .,núm .,num .,num .,Ｎｕｍ　．
+111,,num /,num /,num /,núm /,num /,num /,Ｎｕｍ　／
+112,,f1,f1,f1,f1,f1,f1,Ｆ１
+113,,f2,f2,f2,f2,f2,f2,Ｆ２
+114,,f3,f3,f3,f3,f3,f3,Ｆ３
+115,,f4,f4,f4,f4,f4,f4,Ｆ４
+116,,f5,f5,f5,f5,f5,f5,Ｆ５
+117,,f6,f6,f6,f6,f6,f6,Ｆ６
+118,,f7,f7,f7,f7,f7,f7,Ｆ７
+119,,f8,f8,f8,f8,f8,f8,Ｆ８
+120,,f9,f9,f9,f9,f9,f9,Ｆ９
+121,,f10,f10,f10,f10,f10,f10,Ｆ１０
+122,,f11,f11,f11,f11,f11,f11,Ｆ１１
+123,,f12,f12,f12,f12,f12,f12,Ｆ１２
+144,,num lock,num-taste,verr. num,bloq núm,num lock,num lock,Ｎｕｍ　Ｌｏｃｋ
+145,,scroll lock,rollen-taste,arrêt défil.,bloq despl,scroll lock,scroll lock,Ｓｃｒｏｌｌ　Ｌｏｃｋ
+160,,l. shift,l. shift,maj g,mayús izq,shift esq.,Л. Shift,左Ｓｈｉｆｔ
+161,,r. shift,r. shift,maj d,mayús der,shift dir.,Прав. Shift,右Ｓｈｉｆｔ
+162,,l. ctrl,l. strg,ctrl g,ctrl izq,ctrl esq.,Л. Ctrl,左Ｃｔｒｌ
+163,,r. ctrl,r. strg,ctrl d,ctrl der,ctrl dir.,Прав. Ctrl,右Ｃｔｒｌ
+164,,l. alt,l. alt,alt g,alt izq,alt esq.,Л. Alt,左Ａｌｔ
+165,,r. alt,r.alt,alt d,alt der,alt dir.,Прав. Alt,右Ａｌｔ
+186,,,,,,,,
+187,,=,=,=,¡,=,=,＝
+188,,",",",",",",",",",",",",，
+189,,-,-,-,',-,-,ｰ
+190,,.,.,.,.,.,.,．
+191,,/,/,/,-,/,/,／
+192,,`,`,`,º,`,`,｀
+219,,[,[,[,`,[,[,［
+220,,\,\,\,ç,\,\,＼
+221,,],],],+,],],］
+222,,#,#,#,#,#,#,＃
+223,,` ,` ,`,º,`,`,｀
+9000,,l. mouse,l. maus,souris g,ratón izq,mouse esq.,ЛКМ,左クリック
+9001,,r. mouse,r. maus,souris d,ratón der,mouse dir.,ПКМ,右クリック
+9002,,m. mouse,m. maus,souris m,ratón cent,mouse cent.,СКМ,中央クリック
+9003,,m4,m4,m4,m4,m4,m4,マウスボタン４
+9004,,m5,m5,m5,m5,m5,m5,マウスボタン５
+32772,,x,x,x,x,x,x,Ｘ
+32769,,a,a,a,a,a,a,Ａ
+32770,,b,b,b,b,b,b,Ｂ
+32771,,x,x,x,x,x,x,Ｘ
+32772,,y,y,y,y,y,y,Ｙ
+32773,,l. shoulder,l. schulter,lb,lb,lb,Л. бампер,左ショルダー
+32774,,r. shoulder,r. schulter,rb,rb,rb,Прав. бампер,右ショルダー
+32775,,l. trigger,l. trigger,lt,lt,lt,Л. курок,左トリガー
+32776,,r. trigger,r. trigger,rt,rt,rt,Прав. курок,右トリガー
+32777,,l. stick,l. stick,ls,ls,ls,Л. стик,左スティック
+32778,,r. stick,r. stick,rs,rs,rs,Прав. стик,右スティック

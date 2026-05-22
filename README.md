@@ -2,19 +2,34 @@
 
 > Это AI-перевод с помощью модели Sonnet 4.6 (Anthropic) + ручная вычитка и адаптация игровых терминов.
 
-Неофициальный русский перевод для [Star of Providence](https://store.steampowered.com/app/603960/Star_of_Providence/) · 98.5% переведено.
-
+Неофициальный русский перевод для [Star of Providence](https://store.steampowered.com/app/603960/Star_of_Providence/) · переведено 100%.
 
 ---
 
 ## Установка
 
 1. Скачай [последний релиз](../../releases/latest) и распакуй
-2. Запусти `install_patch.bat`
-3. Укажи путь к папке игры (скрипт попробует найти автоматически)
-4. В игре выбери язык **«русский»**
+2. Запусти `install_patch.bat` (подтверди путь к игре или укажи вручную)
+3. **Обязательно** в игре: **Опции → Язык → «русский»**, затем в том же меню **«8px»** (не 16px)
 
-Чтобы восстановить файлы, в случае проблем - запусти `restore_backup.bat`.
+![Режим 8px — обязательная настройка](docs/images/8px-russian-setting.png)
+
+**Требование:** режим **8px** обязателен при русском языке. Без него возможны обрезка текста, пропадание цен в магазине и другие сбои отображения.
+
+Тексты для руководства Steam: [docs/steam-guide/](docs/steam-guide/).
+
+---
+
+## Восстановление оригинала
+
+Отдельный скрипт не нужен. В Steam:
+
+1. ПКМ по игре → **Свойства**
+2. **Установленные файлы** → **Проверить целостность файлов игры**
+
+![Проверка целостности файлов в Steam](docs/images/steam-verify-integrity.png)
+
+Steam вернёт оригинальные `localization/` и шрифт.
 
 ---
 
@@ -39,7 +54,7 @@
 - что не так
 - свой вариант (если есть)
 
-Или сразу Pull Request: найди нужный CSV в `localization/`, исправь 8-ю колонку (ZHS) и отправь.
+Перед правками: **[docs/LOCALIZATION.md](docs/LOCALIZATION.md)**.
 
 ---
 
@@ -48,59 +63,21 @@
 
 ### Ручная установка
 
-1. Скопируй все файлы из `localization/` в `<папка игры>/localization/` с заменой
-2. Скопируй `fonts/NotoSans-ExtraBold.ttf` в `<папка игры>/fonts/Chusung-220206.ttf` (переименуй!)
-3. В игре выбери язык **«русский»**
-
-### Шрифт
-
-Для отображения кириллицы нужен `NotoSans-ExtraBold.ttf` в папке `fonts/`:
-
-1. Скачай [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) (вариант ExtraBold)
-2. Переименуй в `NotoSans-ExtraBold.ttf`
-3. Положи в `fonts/` в корне репозитория
+1. Скопируй `localization/` в папку игры с заменой
+2. `fonts/NotoSans-ExtraBold.ttf` → `fonts/Chusung-220206.ttf`
+3. **Обязательно:** язык **«русский»** + **8px** (не 16px)
 
 ### Утилита patch.py
 
 ```bash
-# Инициализация localization/ из файлов игры (первый запуск)
-python scripts/patch.py init --game-path "E:\\SteamLibrary\\steamapps\\common\\Star of Providence"
-
-# Повторная инициализация (перезапись)
-python scripts/patch.py init --game-path "..." --force
-
-# Статистика перевода
-python scripts/patch.py stats
-
-# Проверка переводов на ошибки
+python scripts/patch.py init --game-path "E:\SteamLibrary\steamapps\common\Star of Providence"
 python scripts/patch.py validate
 ```
 
-### Прогресс по категориям
-
-| Категория | Статус |
-|-----------|--------|
-| Меню и настройки | ✓ Готово |
-| Оружие, боссы, зоны | ✓ Готово |
-| Ключевые слова оружия | ✓ Готово |
-| Описания предметов | ✓ Готово |
-| UI и информация | ✓ Готово |
-| Бестиарий и смерти | ✓ Готово |
-| Диалоги NPC | ✓ Готово |
-
-> Оставшиеся ~1.5% - плейсхолдеры разработчиков (`???`, `lorem ipsum`), латинские фразы и имена в титрах.
-
-### Технические детали
-
-- Переводы хранятся в колонке `ZHS` (заменяет китайский язык)
-- Формат: CSV, UTF-8 BOM (`utf-8-sig`)
-- Шрифт `Chusung-220206.ttf` (корейский) заменяется на `NotoSans-ExtraBold.ttf` (кириллица)
-- Спецсимволы: `#` (перенос), `/c0-5` (цвета), `/f0-1` (формат), `/p1-2` (пауза), `%var%` (переменные)
-
 ### При обновлении игры
 
-1. `python scripts/patch.py init --game-path "..." --force` - обновит localization/
-2. `git diff` - новые строки будут иметь ZHS == EN
-3. Переведи новые строки
+1. `patch.py init --force`
+2. Переведи новые строки
+3. `install_patch.bat`
 
 </details>

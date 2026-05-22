@@ -26,16 +26,67 @@ LOCALIZATION_DIR = ROOT_DIR / "localization"
 ENCODING = "utf-8-sig"
 BACKUP_SUFFIX = ".backup_ru"
 
-SKIP_FILES: frozenset[str] = frozenset({
+_KEYBOARD_FILES: frozenset[str] = frozenset({
     "keyboard_keys.csv",
     "keyboard_keys_switch.csv",
 })
 
+# Подписи клавиш в обучении и UI (слот ZHS). Латинские буквы/цифры — как в EN.
+_KEYBOARD_RU: dict[str, str] = {
+    "backspace": "Backspace",
+    "tab": "Tab",
+    "num": "Num",
+    "enter": "Enter",
+    "pause": "Пауза",
+    "capslock": "Caps Lock",
+    "space": "Пробел",
+    "page up": "PgUp",
+    "page down": "PgDn",
+    "end": "End",
+    "left": "Влево",
+    "up": "Вверх",
+    "right": "Вправо",
+    "down": "Вниз",
+    "insert": "Insert",
+    "delete": "Delete",
+    "fn. key": "Fn",
+    "context menu": "Меню",
+    "l. shift": "Л. Shift",
+    "r. shift": "Прав. Shift",
+    "l. ctrl": "Л. Ctrl",
+    "r. ctrl": "Прав. Ctrl",
+    "l. alt": "Л. Alt",
+    "r. alt": "Прав. Alt",
+    "l. mouse": "ЛКМ",
+    "r. mouse": "ПКМ",
+    "m. mouse": "СКМ",
+    "l. shoulder": "Л. бампер",
+    "r. shoulder": "Прав. бампер",
+    "l. trigger": "Л. курок",
+    "r. trigger": "Прав. курок",
+    "l. stick": "Л. стик",
+    "r. stick": "Прав. стик",
+}
+
 TAG_RE = re.compile(r"/[cfp]\d")
+KLEINES_PRICE_TAG_RE = re.compile(r"/[cfpsnrmq]\d|/c\d|/f\d|/s\d|/r\d|/m\d")
 VAR_RE = re.compile(r"%\w+%")
+
+KLEINES_PRICE_ROW_ID = "9"
+KLEINES_PRICE_MAX_VISIBLE_UTF8 = 10
 
 MIN_LENGTH_FOR_CHECK: int = 10
 MAX_LENGTH_RATIO: float = 1.5
+
+
+def _kleines_price_visible(text: str) -> str:
+    """Visible kleines price prefix without formatting tags."""
+    return KLEINES_PRICE_TAG_RE.sub("", text).replace("#", "")
+
+
+def _kleines_price_visible_utf8(text: str) -> int:
+    """UTF-8 byte length of visible kleines price prefix (tags stripped)."""
+    return len(_kleines_price_visible(text).encode("utf-8"))
 
 
 # ── Existing translations for migration during init ─────────────────────
@@ -261,6 +312,10 @@ _TRANSLATIONS: dict[str, dict[str, str]] = {
         ),
         "displays art#in the sidebars": "картинки на боковых панелях",
         "Hi. I'm Tabby.": "Привет. Я Табби.",
+    },
+    "kleines_caption.csv": {
+        # id 9: префикс ≤10 байт UTF-8 (см. docs/LOCALIZATION.md)
+        "#/p2/c1that'll be": "#/p2/c1цена",
     },
     "mirror_strings.csv": {
         "report": "отчёт",
@@ -509,6 +564,30 @@ def _col_indices(header: list[str]) -> tuple[int, int] | None:
     return header.index("EN"), header.index("ZHS")
 
 
+def _has_cyrillic(text: str) -> bool:
+    """True if *text* contains Cyrillic letters."""
+    return any("\u0400" <= c <= "\u04FF" for c in text)
+
+
+def _existing_zhs_by_id(dest_path: Path) -> dict[str, str]:
+    """Load Cyrillic ZHS values from an existing repo CSV (for ``init --force``)."""
+    rows = read_csv(dest_path)
+    if not rows:
+        return {}
+    indices = _col_indices(rows[0])
+    if indices is None:
+        return {}
+    _, zhs_idx = indices
+    out: dict[str, str] = {}
+    for row in rows[1:]:
+        if not _is_data_row(row) or len(row) <= zhs_idx:
+            continue
+        zhs = row[zhs_idx].strip()
+        if zhs and _has_cyrillic(zhs):
+            out[row[0].strip()] = zhs
+    return out
+
+
 # ── init ────────────────────────────────────────────────────────────────
 
 
@@ -538,10 +617,6 @@ def cmd_init(game_path: Path, *, force: bool = False) -> None:
     logger.info("")
 
     for src in csv_files:
-        if src.name in SKIP_FILES:
-            logger.info("  [skip] %s (клавиши — без перевода)", src.name)
-            continue
-
         dest = LOCALIZATION_DIR / src.name
         if dest.exists() and not force:
             logger.info("  [exists] %s", src.name)
@@ -561,16 +636,25 @@ def cmd_init(game_path: Path, *, force: bool = False) -> None:
 
         en_idx, zhs_idx = indices
 
+        preserve: dict[str, str] = {}
+        if dest.exists() and force and src.name not in _KEYBOARD_FILES:
+            preserve = _existing_zhs_by_id(dest)
+
         if src.name == "language_name.csv":
             _init_language_name(rows, en_idx, zhs_idx)
+            label = "RU"
+        elif src.name in _KEYBOARD_FILES:
+            _init_keyboard_rows(rows, en_idx, zhs_idx)
+            label = "keyboard RU"
         else:
             trans = _TRANSLATIONS.get(src.name, {})
-            _init_data_rows(rows, en_idx, zhs_idx, trans)
+            _init_data_rows(rows, en_idx, zhs_idx, trans, preserve)
+            label = "RU" if src.name in _TRANSLATIONS else "EN fallback"
+            if preserve:
+                label = f"{label}, kept {len(preserve)} RU rows"
 
         write_csv(dest, rows)
         created += 1
-
-        label = "RU" if src.name in _TRANSLATIONS else "EN fallback"
         logger.info("  [%s] %s", label, src.name)
 
     logger.info("")
@@ -584,20 +668,43 @@ def cmd_init(game_path: Path, *, force: bool = False) -> None:
         logger.info("Используйте --force для перезаписи существующих файлов.")
 
 
-def _init_data_rows(
+def _init_keyboard_rows(
     rows: list[list[str]],
     en_idx: int,
     zhs_idx: int,
-    translations: dict[str, str],
 ) -> None:
-    """Set ZHS = Russian translation or EN fallback for each data row."""
+    """Set ZHS from EN for keyboard labels (tutorial uses these CSVs)."""
     for row in rows[1:]:
         if not _is_data_row(row) or len(row) <= max(en_idx, zhs_idx):
             continue
         en_val = row[en_idx].strip()
         if not en_val:
             continue
-        row[zhs_idx] = translations.get(en_val, en_val)
+        row[zhs_idx] = _KEYBOARD_RU.get(en_val, en_val)
+
+
+def _init_data_rows(
+    rows: list[list[str]],
+    en_idx: int,
+    zhs_idx: int,
+    translations: dict[str, str],
+    preserve: dict[str, str] | None = None,
+) -> None:
+    """Set ZHS from translations, preserved Cyrillic rows, or EN fallback."""
+    kept = preserve or {}
+    for row in rows[1:]:
+        if not _is_data_row(row) or len(row) <= max(en_idx, zhs_idx):
+            continue
+        en_val = row[en_idx].strip()
+        if not en_val:
+            continue
+        row_id = row[0].strip()
+        if en_val in translations:
+            row[zhs_idx] = translations[en_val]
+        elif row_id in kept:
+            row[zhs_idx] = kept[row_id]
+        else:
+            row[zhs_idx] = en_val
 
 
 def _init_language_name(
@@ -706,9 +813,17 @@ def cmd_validate() -> None:
             continue
 
         en_idx, zhs_idx = indices
+        header_len = len(rows[0])
 
         for line_num, row in enumerate(rows[1:], start=2):
-            if not _is_data_row(row) or len(row) <= max(en_idx, zhs_idx):
+            if not _is_data_row(row):
+                continue
+            if len(row) != header_len:
+                issues.append(
+                    f"{path.name}:{line_num} колонок {len(row)} ≠ "
+                    f"{header_len} (запятая в Comments без кавычек?)"
+                )
+            if len(row) <= max(en_idx, zhs_idx):
                 continue
 
             en_val = row[en_idx]
@@ -758,6 +873,20 @@ def cmd_validate() -> None:
                     f"{path.name}:{line_num} длина: "
                     f"{zhs_len} символов (EN: {en_len})"
                 )
+
+            if (
+                path.name == "kleines_caption.csv"
+                and row[0].strip() == KLEINES_PRICE_ROW_ID
+            ):
+                visible = _kleines_price_visible(zhs_val)
+                vis_bytes = len(visible.encode("utf-8"))
+                if vis_bytes > KLEINES_PRICE_MAX_VISIBLE_UTF8:
+                    issues.append(
+                        f"{path.name}:{line_num} префикс цены: "
+                        f"{vis_bytes} байт UTF-8 (макс. "
+                        f"{KLEINES_PRICE_MAX_VISIBLE_UTF8}); "
+                        "буфер игры переполнен"
+                    )
 
     if issues:
         print(f"\nНайдено проблем: {len(issues)}\n")

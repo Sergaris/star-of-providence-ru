@@ -2,17 +2,11 @@
 chcp 65001 >nul 2>&1
 setlocal enabledelayedexpansion
 
-echo.
-echo  ====================================================
-echo   Star of Providence — Установка русского перевода
-echo  ====================================================
-echo.
-
 set "SCRIPT_DIR=%~dp0"
 set "GF=steamapps\common\Star of Providence"
 set "GAME_PATH="
 
-REM --- Auto-detect: Steam path from Windows registry ---
+REM --- Auto-detect game path (silent) ---
 set "STEAM_DIR="
 for /f "tokens=2*" %%A in ('reg query "HKCU\Software\Valve\Steam" /v "SteamPath" 2^>nul') do set "STEAM_DIR=%%B"
 
@@ -21,7 +15,6 @@ if defined STEAM_DIR (
     if exist "!STEAM_DIR!\!GF!\localization" set "GAME_PATH=!STEAM_DIR!\!GF!"
 )
 
-REM --- Auto-detect: parse Steam library folders from libraryfolders.vdf ---
 if not defined GAME_PATH if defined STEAM_DIR (
     set "VDF=!STEAM_DIR!\steamapps\libraryfolders.vdf"
     if exist "!VDF!" (
@@ -37,9 +30,8 @@ if not defined GAME_PATH if defined STEAM_DIR (
     )
 )
 
-REM --- Auto-detect: scan all drives for SteamLibrary ---
 if not defined GAME_PATH (
-    for %%D in (A B C D E F G H I J K L M N O P Q R S T U V W X Y Z) do (
+    for %%D in (C D E F G H) do (
         if not defined GAME_PATH (
             if exist "%%D:\SteamLibrary\!GF!\localization" set "GAME_PATH=%%D:\SteamLibrary\!GF!"
         )
@@ -47,25 +39,25 @@ if not defined GAME_PATH (
 )
 
 if defined GAME_PATH (
-    echo  Игра найдена автоматически:
+    echo.
+    echo  Найдена папка игры:
     echo  !GAME_PATH!
     echo.
-    set /p "USE_AUTO=  Использовать этот путь? (y/n): "
+    set /p "USE_AUTO=  Установить сюда? (Y/n): "
     if /i "!USE_AUTO!"=="n" set "GAME_PATH="
 )
 
 if not defined GAME_PATH (
-    echo  Укажите путь к папке игры Star of Providence.
-    echo  Подсказка: ПКМ по игре в Steam ^> Управление ^> Обзор локальных файлов
+    echo.
+    echo  Укажите путь к папке Star of Providence.
+    echo  ПКМ в Steam - Управление - Обзор локальных файлов
     echo.
     set /p "GAME_PATH=  Путь: "
 )
 
-REM --- Validate input ---
 if "!GAME_PATH!"=="" (
     echo.
     echo  [ОШИБКА] Путь не указан.
-    echo.
     pause
     exit /b 1
 )
@@ -75,83 +67,41 @@ if "!GAME_PATH:~-1!"=="\" set "GAME_PATH=!GAME_PATH:~0,-1!"
 
 if not exist "!GAME_PATH!\localization" (
     echo.
-    echo  [ОШИБКА] Папка localization не найдена в:
+    echo  [ОШИБКА] В папке нет localization. Проверьте путь:
     echo  !GAME_PATH!
-    echo.
-    echo  Убедитесь, что путь ведет к корневой папке игры.
-    echo.
     pause
     exit /b 1
 )
 
-REM --- Check patch files ---
 if not exist "%SCRIPT_DIR%localization\*.csv" (
     echo.
-    echo  [ОШИБКА] Файлы локализации не найдены в:
-    echo  %SCRIPT_DIR%localization\
-    echo.
+    echo  [ОШИБКА] Нет файлов перевода в %SCRIPT_DIR%localization\
     pause
     exit /b 1
 )
 
-REM --- Create backup ---
-set "BACKUP_DIR=!GAME_PATH!\_backup_ru"
-
-if not exist "!BACKUP_DIR!\localization\" (
-    echo.
-    echo  Создание резервной копии...
-    mkdir "!BACKUP_DIR!\localization" 2>nul
-
-    for %%F in ("!GAME_PATH!\localization\*.csv") do (
-        copy /Y "%%F" "!BACKUP_DIR!\localization\" >nul
-    )
-
-    if exist "!GAME_PATH!\fonts\Chusung-220206.ttf" (
-        mkdir "!BACKUP_DIR!\fonts" 2>nul
-        copy /Y "!GAME_PATH!\fonts\Chusung-220206.ttf" "!BACKUP_DIR!\fonts\" >nul
-    )
-
-    echo  Бэкап создан: !BACKUP_DIR!
-) else (
-    echo.
-    echo  Бэкап уже существует, пропускаем.
-)
-
-REM --- Install localization ---
-echo.
-echo  Установка файлов локализации...
-
-set "COUNT=0"
+REM --- Install (silent) ---
 for %%F in ("%SCRIPT_DIR%localization\*.csv") do (
-    copy /Y "%%F" "!GAME_PATH!\localization\" >nul
-    set /a COUNT+=1
+    copy /Y "%%F" "!GAME_PATH!\localization\" >nul 2>&1
 )
 
-echo  Скопировано CSV-файлов: !COUNT!
-
-REM --- Install font ---
 if exist "%SCRIPT_DIR%fonts\NotoSans-ExtraBold.ttf" (
     if exist "!GAME_PATH!\fonts\Chusung-220206.ttf" (
-        copy /Y "%SCRIPT_DIR%fonts\NotoSans-ExtraBold.ttf" "!GAME_PATH!\fonts\Chusung-220206.ttf" >nul
-        echo  Шрифт установлен.
-    ) else (
-        echo  [!] Файл Chusung-220206.ttf не найден в папке fonts игры.
+        copy /Y "%SCRIPT_DIR%fonts\NotoSans-ExtraBold.ttf" "!GAME_PATH!\fonts\Chusung-220206.ttf" >nul 2>&1
     )
-) else (
-    echo  [!] Шрифт NotoSans-ExtraBold.ttf не найден в fonts/
-    echo      Кириллический шрифт не установлен.
 )
 
-REM --- Done ---
-echo.
-echo  ====================================================
-echo   Установка завершена!
-echo.
-echo   Запустите игру и выберите язык "русский"
-echo   (заменяет слот китайского языка)
-echo.
-echo   Для восстановления оригинала: restore_backup.bat
-echo  ====================================================
-echo.
+if exist "%SCRIPT_DIR%scripts\configure_russian_defaults.py" (
+    python "%SCRIPT_DIR%scripts\configure_russian_defaults.py" -q "!GAME_PATH!" >nul 2>&1
+)
 
+echo.
+echo  Готово. Перевод установлен.
+echo.
+echo  Обязательно в игре:
+echo    Опции - Язык - «русский»
+echo    в том же меню - «8px» (не 16px)
+echo.
+echo  Без 8px возможны обрезка текста и ошибки в магазине.
+echo.
 pause
