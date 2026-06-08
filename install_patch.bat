@@ -87,8 +87,9 @@ for /f "delims=" %%R in ('powershell -NoProfile -ExecutionPolicy Bypass -Command
 if defined RELEASE_CHECK (
     echo !RELEASE_CHECK! | findstr /b /c:"UPDATE:" >nul 2>&1
     if not errorlevel 1 (
+        set "NEW_RELEASE=!RELEASE_CHECK:UPDATE:=!"
         echo.
-        echo  [!] Доступен более новый релиз русификатора: !RELEASE_CHECK:UPDATE:=!
+        echo  [ОБНОВЛЕНИЕ] Доступен более новый релиз русификатора: v!NEW_RELEASE!
         echo      У вас: v!RUSSIFIER_VERSION!
         echo      https://github.com/Sergaris/star-of-providence-ru/releases/latest
         echo      Установка продолжится с текущей версией.
