@@ -86,7 +86,8 @@
 |--------|------------|
 | `scripts/patch.py` | init, stats, validate, check-release |
 | `scripts/fix_linebreaks.py` | переносы `#` в длинных строках |
-| `scripts/configure_russian_defaults.py` | после установки: цена в kleines, 8px в save (если найден) |
+| `scripts/configure_russian_defaults.py` | опционально для разработки: kleines, 8px в save |
+| `scripts/build_release.ps1` | сборка zip для GitHub Release (bat + localization + fonts) |
 
 ## Типичные симптомы
 

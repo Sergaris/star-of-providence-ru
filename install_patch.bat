@@ -3,6 +3,7 @@ chcp 65001 >nul 2>&1
 setlocal enabledelayedexpansion
 
 set "SCRIPT_DIR=%~dp0"
+set "RUSSIFIER_VERSION=1.5"
 set "GF=steamapps\common\Star of Providence"
 set "GAME_PATH="
 
@@ -80,16 +81,15 @@ if not exist "%SCRIPT_DIR%localization\*.csv" (
     exit /b 1
 )
 
-REM --- Check for newer russifier release (non-blocking) ---
+REM --- Check for newer russifier release via GitHub API (non-blocking) ---
 set "RELEASE_CHECK="
-if exist "%SCRIPT_DIR%scripts\patch.py" (
-    for /f "delims=" %%R in ('python "%SCRIPT_DIR%scripts\patch.py" check-release --quiet 2^>nul') do set "RELEASE_CHECK=%%R"
-)
+for /f "delims=" %%R in ('powershell -NoProfile -ExecutionPolicy Bypass -Command "$local='!RUSSIFIER_VERSION!'; try { $r=Invoke-RestMethod -Uri 'https://api.github.com/repos/Sergaris/star-of-providence-ru/releases/latest' -Headers @{ 'User-Agent'='star-of-providence-ru-installer' } -TimeoutSec 10; $remote=($r.tag_name -replace '^[vV]','').Trim(); function ToVer([string]$s) { $s=$s.Trim().TrimStart('v','V'); $p=$s.Split('.'); $maj=[int]$p[0]; $min=0; $pat=0; if ($p.Length -gt 1) { [void][int]::TryParse($p[1],[ref]$min) }; if ($p.Length -gt 2) { [void][int]::TryParse($p[2],[ref]$pat) }; [version]::new($maj,$min,$pat) }; if ((ToVer $remote) -gt (ToVer $local)) { Write-Output ('UPDATE:'+$remote) } } catch { }" 2^>nul') do set "RELEASE_CHECK=%%R"
 if defined RELEASE_CHECK (
     echo !RELEASE_CHECK! | findstr /b /c:"UPDATE:" >nul 2>&1
     if not errorlevel 1 (
         echo.
         echo  [!] Доступен более новый релиз русификатора: !RELEASE_CHECK:UPDATE:=!
+        echo      У вас: v!RUSSIFIER_VERSION!
         echo      https://github.com/Sergaris/star-of-providence-ru/releases/latest
         echo      Установка продолжится с текущей версией.
         echo.
@@ -107,12 +107,8 @@ if exist "%SCRIPT_DIR%fonts\NotoSans-ExtraBold.ttf" (
     )
 )
 
-if exist "%SCRIPT_DIR%scripts\configure_russian_defaults.py" (
-    python "%SCRIPT_DIR%scripts\configure_russian_defaults.py" -q "!GAME_PATH!" >nul 2>&1
-)
-
 echo.
-echo  Готово. Перевод установлен.
+echo  Готово. Перевод v!RUSSIFIER_VERSION! установлен.
 echo.
 echo  Обязательно в игре:
 echo    Опции - Язык - «русский»

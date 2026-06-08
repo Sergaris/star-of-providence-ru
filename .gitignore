@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 .env
 tools/
+star-of-providence-ru-v*.zip
 
 # Черновики для публикации в Steam (не в репозитории)
 docs/steam-guide/

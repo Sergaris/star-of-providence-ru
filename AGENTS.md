@@ -18,10 +18,14 @@ python scripts/patch.py check-release
 python scripts/fix_linebreaks.py
 ```
 
-При релизе: обновить `VERSION` в корне и создать тег `vX.Y` на GitHub.
+При релизе: обновить `RUSSIFIER_VERSION` в `install_patch.bat`, синхронизировать `VERSION`, тег `vX.Y`, собрать zip (`scripts/build_release.ps1`), опубликовать на GitHub Releases.
 
 Не запускать удалённый `fix_ui_overflow.py`.
 
+## Релизный архив
+
+Только три элемента в корне: `install_patch.bat`, `localization/`, `fonts/`. Проверка версии — в bat (PowerShell + GitHub API), без Python и без `scripts/`.
+
 ## Установка
 
-`install_patch.bat` вызывает `configure_russian_defaults.py` (цена в магазине, 8px в save при наличии).
+`install_patch.bat` копирует CSV и шрифт; 8px пользователь выбирает в игре вручную.
