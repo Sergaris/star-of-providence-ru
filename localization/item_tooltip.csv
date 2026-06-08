@@ -53,9 +53,9 @@
 51,,/c5required charges:,/c5benötigte ladungen:,/c5charges requises :,/c5cargas requeridas:,/c5cargas necessárias:,/c5требуются заряды:,/c5必要なチャージ：
 52,,/c5-requires ammo-/c0,/c5-braucht ammo-/c0,/c5-requiert munitions-/c0,/c5-requiere munición-/c0,/c5-requer munição-/c0,/c5-нужен боезапас-/c0,/c5- 弾薬が必要 -/c0
 53,,/c5-requires charges-/c0,/c5-braucht ladung-/c0,/c5-requiert charges-/c0,/c5-requiere cargas-/c0,/c5-requer cargas-/c0,/c5-нужны заряды-/c0,/c5- チャージが必要 -/c0
-54,,a game ticket!#/c5recovers 1 hp#and 20% ammo/c0,,,,,a game ticket!#/c5recovers 1 hp#and 20% ammo/c0,試合のチケットだ！#/c5HP1と#弾薬20%回復/c0
-55,,a game ticket!#/c5recovers 2 hp#D% damage increase/c0,,,,,a game ticket!#/c5recovers 2 hp D%#damage increase/c0,試合のチケットだ！#/c5HPが2回復#ダメージD%増加/c0
-56,,/c4extra ticket!/c0#/c5awarded for a#flawless performance/c0,,,,,/c4extra ticket!/c0#/c5awarded for a#flawless performance/c0,試合のチケットだ！#/c5優秀賞として#表彰される/c0
+54,,a game ticket!#/c5recovers 1 hp#and 20% ammo/c0,,,,,игровой билет!#/c5восстанавливает 1 ОЗ#и 20% боезапаса/c0,試合のチケットだ！#/c5HP1と#弾薬20%回復/c0
+55,,a game ticket!#/c5recovers 2 hp#D% damage increase/c0,,,,,игровой билет!#/c5восстанавливает 2 ОЗ#D% усиление урона/c0,試合のチケットだ！#/c5HPが2回復#ダメージD%増加/c0
+56,,/c4extra ticket!/c0#/c5awarded for a#flawless performance/c0,,,,,/c4дополнительный билет!/c0#/c5за безупречное#выступление/c0,試合のチケットだ！#/c5優秀賞として#表彰される/c0
 57,,a piece of a whole,ein teil des ganzen,un fragment du tout,una parte de un todo,um pedaço do todo,часть целого,何かのピース
 58,,a redundant thing,ein überflüssiges ding,une chose superflue,una cosa redundante,uma coisa redundante,лишняя вещь,余計なもの
 1000,,+2 hp parts##/c5collect %P to gain a shield,+2 lebensteile##/c5sammle %P um ein#schild zu erlangen,+2 fragments de pv##/c5obtiens-en %P pour#obtenir un bouclier,+2 porciones de ps##/c5obtén %P para conseguir#un escudo,+2 pedaços de pv##/c5colete %P para ganhar um escudo,+2 части ОЗ##/c5собери %P — получи щит,HPパーツ+2##/c5%Pつ集めてシールドを入手

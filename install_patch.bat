@@ -80,6 +80,22 @@ if not exist "%SCRIPT_DIR%localization\*.csv" (
     exit /b 1
 )
 
+REM --- Check for newer russifier release (non-blocking) ---
+set "RELEASE_CHECK="
+if exist "%SCRIPT_DIR%scripts\patch.py" (
+    for /f "delims=" %%R in ('python "%SCRIPT_DIR%scripts\patch.py" check-release --quiet 2^>nul') do set "RELEASE_CHECK=%%R"
+)
+if defined RELEASE_CHECK (
+    echo !RELEASE_CHECK! | findstr /b /c:"UPDATE:" >nul 2>&1
+    if not errorlevel 1 (
+        echo.
+        echo  [!] Доступен более новый релиз русификатора: !RELEASE_CHECK:UPDATE:=!
+        echo      https://github.com/Sergaris/star-of-providence-ru/releases/latest
+        echo      Установка продолжится с текущей версией.
+        echo.
+    )
+)
+
 REM --- Install (silent) ---
 for %%F in ("%SCRIPT_DIR%localization\*.csv") do (
     copy /Y "%%F" "!GAME_PATH!\localization\" >nul 2>&1

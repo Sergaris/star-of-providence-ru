@@ -9,13 +9,18 @@ Usage::
     python scripts/patch.py init --game-path "E:\\SteamLibrary\\...\\Star of Providence"
     python scripts/patch.py stats
     python scripts/patch.py validate
+    python scripts/patch.py check-release
 """
 
 import argparse
 import csv
+import json
 import logging
 import re
+import subprocess
 import sys
+import urllib.error
+import urllib.request
 from pathlib import Path
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
@@ -23,8 +28,15 @@ logger = logging.getLogger(__name__)
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 LOCALIZATION_DIR = ROOT_DIR / "localization"
+VERSION_FILE = ROOT_DIR / "VERSION"
+GITHUB_REPO = "Sergaris/star-of-providence-ru"
+GITHUB_RELEASES_URL = (
+    f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
+)
+RELEASE_FETCH_TIMEOUT_S = 10
 ENCODING = "utf-8-sig"
 BACKUP_SUFFIX = ".backup_ru"
+VERSION_RE = re.compile(r"(\d+)(?:\.(\d+))?(?:\.(\d+))?")
 
 _KEYBOARD_FILES: frozenset[str] = frozenset({
     "keyboard_keys.csv",
@@ -897,6 +909,152 @@ def cmd_validate() -> None:
     print()
 
 
+# ── check-release ───────────────────────────────────────────────────────
+
+
+def parse_version(text: str) -> tuple[int, int, int]:
+    """Parse a semver-like string into ``(major, minor, patch)``.
+
+    Args:
+        text: Version text, e.g. ``v1.5`` or ``1.5.0``.
+
+    Returns:
+        Numeric tuple for comparison. Missing parts default to 0.
+    """
+    cleaned = text.strip().lstrip("vV")
+    match = VERSION_RE.search(cleaned)
+    if not match:
+        return (0, 0, 0)
+    major = int(match.group(1))
+    minor = int(match.group(2) or 0)
+    patch = int(match.group(3) or 0)
+    return (major, minor, patch)
+
+
+def get_local_version() -> str:
+    """Return the local russifier version from ``VERSION`` or git tags.
+
+    Returns:
+        Version string such as ``1.5``.
+    """
+    if VERSION_FILE.is_file():
+        text = VERSION_FILE.read_text(encoding="utf-8").strip()
+        if text:
+            return text.lstrip("vV")
+
+    try:
+        result = subprocess.run(
+            ["git", "describe", "--tags", "--always"],
+            cwd=ROOT_DIR,
+            capture_output=True,
+            text=True,
+            check=True,
+            timeout=5,
+        )
+    except (OSError, subprocess.SubprocessError):
+        return "0.0.0"
+
+    describe = result.stdout.strip()
+    if describe.startswith("v"):
+        tag_part = describe.split("-", maxsplit=1)[0]
+        return tag_part.lstrip("vV")
+    return describe
+
+
+def fetch_latest_release() -> dict[str, str] | None:
+    """Fetch metadata for the latest GitHub release.
+
+    Returns:
+        Dict with ``version``, ``url``, and ``published_at``, or ``None`` on error.
+    """
+    request = urllib.request.Request(
+        GITHUB_RELEASES_URL,
+        headers={
+            "Accept": "application/vnd.github+json",
+            "User-Agent": "star-of-providence-ru-patch",
+        },
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=RELEASE_FETCH_TIMEOUT_S) as resp:
+            payload = json.load(resp)
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, OSError) as exc:
+        logger.warning("Не удалось получить релиз с GitHub: %s", exc)
+        return None
+
+    tag_name = str(payload.get("tag_name", "")).strip()
+    html_url = str(payload.get("html_url", "")).strip()
+    published_at = str(payload.get("published_at", "")).strip()
+    if not tag_name:
+        return None
+
+    return {
+        "version": tag_name.lstrip("vV"),
+        "url": html_url,
+        "published_at": published_at[:10] if published_at else "",
+    }
+
+
+def cmd_check_release(*, quiet: bool = False) -> None:
+    """Compare local version with the latest GitHub release."""
+    local_raw = get_local_version()
+    local = parse_version(local_raw)
+    release = fetch_latest_release()
+
+    if release is None:
+        if quiet:
+            print("ERROR:network")
+        else:
+            print("\nНе удалось проверить обновления (нет сети или GitHub недоступен).")
+            print(f"Локальная версия: {local_raw}")
+            print()
+        return
+
+    remote_raw = release["version"]
+    remote = parse_version(remote_raw)
+
+    if remote > local:
+        if quiet:
+            print(f"UPDATE:{remote_raw}")
+        else:
+            print(f"\nЛокальная версия:  {local_raw}")
+            print(f"Последний релиз:   {remote_raw}", end="")
+            if release["published_at"]:
+                print(f" ({release['published_at']})", end="")
+            print()
+            print("Статус:            доступно обновление")
+            if release["url"]:
+                print(f"Скачать:           {release['url']}")
+            print(
+                "\nСкачайте новый zip с GitHub и запустите install_patch.bat."
+            )
+            print()
+        sys.exit(1)
+
+    if remote < local:
+        if quiet:
+            print(f"OK:{local_raw}")
+        else:
+            print(f"\nЛокальная версия:  {local_raw}")
+            print(f"Последний релиз:   {remote_raw}", end="")
+            if release["published_at"]:
+                print(f" ({release['published_at']})", end="")
+            print()
+            print("Статус:            локальная сборка новее опубликованного релиза")
+            print()
+        return
+
+    if quiet:
+        print(f"OK:{local_raw}")
+    else:
+        print(f"\nЛокальная версия:  {local_raw}")
+        print(f"Последний релиз:   {remote_raw}", end="")
+        if release["published_at"]:
+            print(f" ({release['published_at']})", end="")
+        print()
+        print("Статус:            актуален")
+        print()
+
+
 # ── main ────────────────────────────────────────────────────────────────
 
 
@@ -925,6 +1083,15 @@ def main() -> None:
 
     sub.add_parser("stats", help="Показать прогресс перевода")
     sub.add_parser("validate", help="Проверить переводы на ошибки")
+    p_check = sub.add_parser(
+        "check-release",
+        help="Проверить, есть ли на GitHub релиз новее локального",
+    )
+    p_check.add_argument(
+        "--quiet",
+        action="store_true",
+        help="Краткий вывод: OK:1.5 / UPDATE:1.6 / ERROR:network",
+    )
 
     args = parser.parse_args()
 
@@ -935,6 +1102,8 @@ def main() -> None:
             cmd_stats()
         case "validate":
             cmd_validate()
+        case "check-release":
+            cmd_check_release(quiet=args.quiet)
 
 
 if __name__ == "__main__":

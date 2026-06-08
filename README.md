@@ -70,7 +70,10 @@ Steam вернёт оригинальные `localization/` и шрифт.
 ```bash
 python scripts/patch.py init --game-path "E:\SteamLibrary\steamapps\common\Star of Providence"
 python scripts/patch.py validate
+python scripts/patch.py check-release
 ```
+
+`check-release` сравнивает локальную версию (файл `VERSION`) с последним релизом на GitHub.
 
 ### При обновлении игры
 

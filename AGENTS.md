@@ -14,8 +14,11 @@
 
 ```bash
 python scripts/patch.py validate
+python scripts/patch.py check-release
 python scripts/fix_linebreaks.py
 ```
+
+При релизе: обновить `VERSION` в корне и создать тег `vX.Y` на GitHub.
 
 Не запускать удалённый `fix_ui_overflow.py`.
 

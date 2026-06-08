@@ -84,7 +84,7 @@
 
 | Скрипт | Назначение |
 |--------|------------|
-| `scripts/patch.py` | init, stats, validate |
+| `scripts/patch.py` | init, stats, validate, check-release |
 | `scripts/fix_linebreaks.py` | переносы `#` в длинных строках |
 | `scripts/configure_russian_defaults.py` | после установки: цена в kleines, 8px в save (если найден) |
 
