@@ -18,13 +18,13 @@ python scripts/patch.py check-release
 python scripts/fix_linebreaks.py
 ```
 
-При релизе: обновить `RUSSIFIER_VERSION` в `install_patch.bat`, синхронизировать `VERSION`, тег `vX.Y`, собрать zip (`scripts/build_release.ps1`), опубликовать на GitHub Releases.
+При релизе: обновить файл `VERSION`, тег `vX.Y`, собрать zip (`scripts/build_release.ps1`), опубликовать на GitHub Releases. Версия только в `VERSION` — единый источник правды для bat, `patch.py` и сборки zip.
 
 Не запускать удалённый `fix_ui_overflow.py`.
 
 ## Релизный архив
 
-Только три элемента в корне: `install_patch.bat`, `localization/`, `fonts/`. Проверка версии — в bat (PowerShell + GitHub API), без Python и без `scripts/`.
+В корне: `install_patch.bat`, `VERSION`, `localization/`, `fonts/`. Проверка версии — в bat (читает `VERSION`, PowerShell + GitHub API), без Python и без `scripts/`.
 
 ## Установка
 

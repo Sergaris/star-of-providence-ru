@@ -1,36 +1,36 @@
-﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA
-0,,report,report,rapport,informe,relatório,отчёт,レポート
-1,,practice,übung,entraîn. ,práctica,treino,практика,練習
-2,,trials,prüfungen,épreuves,pruebas,provações,испытания,試練
-3,,extras,extras,bonus,extras,extras,дополнения,エクストラ
-10,,took & hits,nahm & treffer,& coups subis,& impactos recibidos,atingido & vezes,& ударов,被弾数：&
-11,,& rooms,& räume,& salles,& salas,& salas,& комнат,部屋数：&
-12,,& secret rooms,& geheimräume,& salles secrètes,& salas secretas,& salas secretas,& тайных комнат,隠し部屋：&
-13,,empty,leer,vide,vacío,vazio,пусто,空
-14,,hold left to#delete a report,zum löschen#links halten,maintenir gauche :#supprimer rapport,mantén izquierda:#borrar informe,mantenha à esquerda para#excluir um relatório,удерживай влево#чтобы удалить отчёт,左を長押しして#レポートを削除
-15,,hold right to#save report,zum speichern#rechts halten,maintenir droite :#sauvegarder rapport,mantén derecha:#guardar informe,mantenha à direita para#salvar o relatório,удерживай вправо#для сохранения,右を長押しして#レポートを保存
-16,,hold right to#overwrite report,zum überschreiben#rechts halten,maintenir droite :#remplacer rapport,mantén derecha:#sobrescribir informe,mantenha à direita para#substituir o relatório,удерживай вправо#чтобы перезаписать отчёт,右を長押しして#レポートを上書き
-17,,reflect on your past,denke über #deine vergangenheit nach,réfléchis à ton passé,reflexiona sobre#tu pasado,reflita sobre seu passado,взгляни на своё прошлое,過去を振り返る
-18,,begin,start,démarrer,iniciar,iniciar,начать,開始
-19,,recall past battles,wecke alte kampferinnerungen,se souvenir de combats,rememora batallas,relembrar batalhas passadas,вспомни прошлые бои,過去の戦いを思い返す
-20,,tier,rang,rang,rango,nível,уровень,ティア
-21,,default,präsent,par défaut,inicial,padrão,базовый,通常
-22,,damaged,verletzt,abîmée,dañada,com danos,повреждённый,損傷状態
-23,,original,original,originale,original,original,оригинальный,オリジナル
-24,,trial i,prüfung i,épreuve i,prueba i,provação i,испытание i,試練I
-25,,trial ii,prüfung ii,épreuve ii,prueba ii,provação ii,испытание ii,試練II
-26,,trial iii,prüfung iii,épreuve iii,prueba iii,provação iii,испытание iii,試練III
-27,,trial iv,prüfung iv,épreuve iv,prueba iv,provação iv,испытание iv,試練IV
-28,,trial v,prüfung v,épreuve v,prueba v,provação v,испытание v,試練V
-29,,looking for something..?,suchst du nach etwas..?,que cherches-tu... ?,¿buscas algo...?,procurando alguma coisa...?,что-то ищешь..?,何かお探しかい…？
-30,,loop,schleife,boucle,vuelta,loop,цикл,ループ
-31,,default,präsent,par défaut,inicial,padrão,базовый,通常
-32,,iron magus,eisenmagier,mage de fer,mago férreo,mago férreo,железный маг,アイアンメイガス
-33,,omniscient,allweiser,omniscient,omnisciente,onisciente,всеведущий,すべてを知るもの
-34,,gunship,schiff,croiseur,nave caza,nave de caça,боевой корабль,ガンシップ
-35,,late knight,spätritter,chevalier...,yelmo negro,cavaleiro...,покойный рыцарь,亡騎士
-36,,abyssal,der abgrund,l'abîme,el abisal,abissal,бездонный,深淵
-37,,thaumaturge,thamuaturg,thaumaturge,taumaturgo,taumaturgo,тауматург,サーマタージ
-38,,leviathan,leviathan,léviathan,leviatán,leviatã,левиафан,リヴァイアサン
-39,,the radiant,strahlender,le radiant,el radiante,o radiante,сияющий,レイディアント
-40,,playback();,playback();,playback();,playback();,playback();,playback();,ＰＬＡＹＢＡＣＫ();
+﻿ID,Comments,EN,DE,FR,ES,PTBR,ZHS,JA,,,,,,
+0,,report,report,rapport,informe,relatório,отчёт,レポート,,,,,,
+1,,practice,übung,entraîn. ,práctica,treino,практика,練習,,,,,,
+2,,trials,prüfungen,épreuves,pruebas,provações,испытания,試練,,,,,,
+3,,extras,extras,bonus,extras,extras,дополнения,エクストラ,,,,,,
+10,,took & hits,nahm & treffer,& coups subis,& impactos recibidos,atingido & vezes,& ударов,被弾数：&,,,,,,
+11,,& rooms,& räume,& salles,& salas,& salas,& комнат,部屋数：&,,,,,,
+12,,& secret rooms,& geheimräume,& salles secrètes,& salas secretas,& salas secretas,& тайных комнат,隠し部屋：&,,,,,,
+13,,empty,leer,vide,vacío,vazio,пусто,空,,,,,,
+14,,hold left to#delete a report,zum löschen#links halten,maintenir gauche :#supprimer rapport,mantén izquierda:#borrar informe,mantenha à esquerda para#excluir um relatório,удерживай влево#чтобы удалить отчёт,左を長押しして#レポートを削除,,,,,,
+15,,hold right to#save report,zum speichern#rechts halten,maintenir droite :#sauvegarder rapport,mantén derecha:#guardar informe,mantenha à direita para#salvar o relatório,удерживай вправо#для сохранения,右を長押しして#レポートを保存,,,,,,
+16,,hold right to#overwrite report,zum überschreiben#rechts halten,maintenir droite :#remplacer rapport,mantén derecha:#sobrescribir informe,mantenha à direita para#substituir o relatório,удерживай вправо#чтобы перезаписать отчёт,右を長押しして#レポートを上書き,,,,,,
+17,,reflect on your past,denke über #deine vergangenheit nach,réfléchis à ton passé,reflexiona sobre#tu pasado,reflita sobre seu passado,взгляни на своё прошлое,過去を振り返る,,,,,,
+18,,begin,start,démarrer,iniciar,iniciar,начать,始める,,,,,,
+19,,recall past battles,wecke alte kampferinnerungen,se souvenir de combats,rememora batallas,relembrar batalhas passadas,вспомни прошлые бои,過去の戦いを思い返す,,,,,,
+20,,tier,rang,rang,rango,nível,уровень,ティア,,,,,,
+21,,default,präsent,par défaut,inicial,padrão,базовый,通常,,,,,,
+22,,damaged,verletzt,abîmée,dañada,com danos,повреждённый,損傷状態,,,,,,
+23,,original,original,originale,original,original,оригинальный,初期状態,,,,,,
+24,,trial i,prüfung i,épreuve i,prueba i,provação i,испытание i,試練Ｉ,,,,,,
+25,,trial ii,prüfung ii,épreuve ii,prueba ii,provação ii,испытание ii,試練ＩＩ,,,,,,
+26,,trial iii,prüfung iii,épreuve iii,prueba iii,provação iii,испытание iii,試練ＩＩＩ,,,,,,
+27,,trial iv,prüfung iv,épreuve iv,prueba iv,provação iv,испытание iv,試練ＩＶ,,,,,,
+28,,trial v,prüfung v,épreuve v,prueba v,provação v,испытание v,試練Ｖ,,,,,,
+29,,looking for something..?,suchst du nach etwas..?,que cherches-tu... ?,¿buscas algo...?,procurando alguma coisa...?,что-то ищешь..?,何かお探しかい…？,,,,,,
+30,,loop,schleife,boucle,vuelta,loop,цикл,ループ,,,,,,
+31,,default,präsent,par défaut,inicial,padrão,базовый,通常,,,,,,
+32,,iron magus,eisenmagier,mage de fer,mago férreo,mago férreo,железный маг,アイアンメイガス,,,,,,
+33,,omniscient,allweiser,omniscient,omnisciente,onisciente,всезнающий,すべてを知るもの,,,,,,
+34,,gunship,schiff,croiseur,nave caza,nave de caça,канонерка,ガンシップ,,,,,,
+35,,late knight,spätritter,chevalier...,yelmo negro,cavaleiro...,ночной рыцарь,亡騎士,,,,,,
+36,,abyssal,der abgrund,l'abîme,el abisal,abissal,бездна,深淵,,,,,,
+37,,thaumaturge,thamuaturg,thaumaturge,taumaturgo,taumaturgo,тауматург,サーマタージ,,,,,,
+38,,leviathan,leviathan,léviathan,leviatán,leviatã,левиафан,リヴァイアサン,,,,,,
+39,,the radiant,strahlender,le radiant,el radiante,o radiante,лучезарный,レイディアント,,,,,,
+40,,playback(),,playback(),,playback(),playback(),playback(),ＰＬＡＹＢＡＣＫ(),ＰＬＡＹＢＡＣＫ(),ＰＬＡＹＢＡＣＫ(),ＰＬＡＹＢＡＣＫ(),ＰＬＡＹＢＡＣＫ(),ＰＬＡＹＢＡＣＫ()

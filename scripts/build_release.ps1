@@ -1,12 +1,13 @@
-# Собирает zip для GitHub Release: fonts/, localization/, install_patch.bat
+# Собирает zip для GitHub Release: fonts/, localization/, install_patch.bat, VERSION
 $ErrorActionPreference = "Stop"
 $root = Split-Path $PSScriptRoot -Parent
-$version = (Get-Content (Join-Path $root "install_patch.bat") -Encoding UTF8 |
-    Where-Object { $_ -match 'set "RUSSIFIER_VERSION=(.+)"' } |
-    ForEach-Object { if ($_ -match 'set "RUSSIFIER_VERSION=(.+)"') { $Matches[1] } } |
-    Select-Object -First 1)
+$versionFile = Join-Path $root "VERSION"
+if (-not (Test-Path $versionFile)) {
+    throw "Не найден файл VERSION"
+}
+$version = (Get-Content $versionFile -Encoding UTF8 -TotalCount 1).Trim().TrimStart('v', 'V')
 if (-not $version) {
-    throw "Не найдена RUSSIFIER_VERSION в install_patch.bat"
+    throw "Файл VERSION пуст"
 }
 
 $outDir = Join-Path $env:TEMP "star-of-providence-ru-v$version"
@@ -16,6 +17,7 @@ if (Test-Path $outDir) { Remove-Item $outDir -Recurse -Force }
 New-Item -ItemType Directory -Path $outDir | Out-Null
 
 Copy-Item (Join-Path $root "install_patch.bat") $outDir
+Copy-Item $versionFile $outDir
 Copy-Item (Join-Path $root "fonts") (Join-Path $outDir "fonts") -Recurse
 Copy-Item (Join-Path $root "localization") (Join-Path $outDir "localization") -Recurse
 

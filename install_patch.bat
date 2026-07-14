@@ -3,7 +3,16 @@ chcp 65001 >nul 2>&1
 setlocal enabledelayedexpansion
 
 set "SCRIPT_DIR=%~dp0"
-set "RUSSIFIER_VERSION=1.5"
+set "RUSSIFIER_VERSION="
+if exist "%SCRIPT_DIR%VERSION" (
+    set /p RUSSIFIER_VERSION=<"%SCRIPT_DIR%VERSION"
+)
+if not defined RUSSIFIER_VERSION (
+    echo.
+    echo  [ОШИБКА] Нет файла VERSION рядом с install_patch.bat
+    pause
+    exit /b 1
+)
 set "GF=steamapps\common\Star of Providence"
 set "GAME_PATH="
 

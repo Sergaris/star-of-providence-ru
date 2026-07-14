@@ -54,7 +54,7 @@
 67,,fish,fisch,poisson,pez,peixe,рыба,フィッシュ
 68,,crazy fish,irrer fisch,poisson fou,pez enajenado,peixe maluco,безумная рыба,クレイジーフィッシュ
 69,,ice ghost,eisgeist,fantôme gelé,fantasma gélido,fantasma de gelo,ледяной призрак,アイスゴースト
-70,,giant ice ghost,eisgeistriese,gros fantôme gelé,fantasmón gélido,fantasma de gelo gigante,огромный ледяной призрак,巨大アイスゴースト
+70,,giant ice ghost,eisgeistriese,gros fantôme gelé,fantasmón gélido,fantasma de gelo gigante,гигантский ледяной призрак,巨大アイスゴースト
 71,,frosthead,frosthaupt,chambre givrée,escarchatesta,caragelada,ледяная голова,フロストヘッド
 72,,crystal seeker,kristallsucher,chercheur cristallin,buscador cristalino,buscador de cristais,кристальный искатель,クリスタル・シーカー
 73,,shade,schatten,ombre,sombra,sombra,тень,シェイド
@@ -64,7 +64,7 @@
 81,,reaver,todesantliz,pilleur,saqueador,saqueador,ривер,リーバー
 82,,furnace maw,feuermaul,clapet de forge,horno dentado,boca de fornalha,жерло горна,溶鉱炉の口
 83,,fire ghost,feuergeist,spectre du feu,fantasma ígneo,fantasma de fogo,огненный призрак,ファイヤーゴースト
-84,,giant fire ghost,großer feuergeist,spectre du feu géant,fantasmón ígneo,fantasma de fogo gigante,огромный огненный призрак,巨大ファイヤーゴースト
+84,,giant fire ghost,großer feuergeist,spectre du feu géant,fantasmón ígneo,fantasma de fogo gigante,гигантский огненный призрак,巨大ファイヤーゴースト
 85,,pipeipede,rohrfuß,scolotube,tubugusano,canocomcara,трубоножка,パイプピード
 86,,shard,fragment,fragment,esquirla,fragmento,осколок,シャード
 93,,crusher,zermalmer,broyeur,triturador,esmagador,дробилка,クラッシャー
@@ -113,7 +113,7 @@
 144,,candle,kerze,bougie,vela,vela,свеча,キャンドル
 145,,bat,fledermaus,roussette,murciélago,morcego,летучая мышь,コウモリ
 146,,firebat,feuerrmaus,roussette de feu,murciélago ígneo,morcego de fogo,огненная мышь,ファイヤーコウモリ
-147,,giant skully,riesenskully,skully géant,skully gigante,skully gigante,огромный скалли,巨大スカル
+147,,giant skully,riesenskully,skully géant,skully gigante,skully gigante,гигантский скалли,巨大スカル
 148,,grinder,grinder,grinder,grinder,triturador,гриндер,グラインダー
 149,,fish,fisch,poisson,pez,peixe,рыба,フィッシュ
 150,,genesis,genesis,genesis,génesis,gênesis,генезис,ジェネシス
@@ -125,7 +125,7 @@
 156,,displacer,ersetzer,clignoteur,desplazador,deslocador,смещатель,ディスプレイサー
 157,,eternal displacer,ewiger ersetzer,clignoteur éternel,desplazador eterno,deslocador eterno,вечный смещатель,エターナル・ディスプレイサー
 158,,aegis,aegis,égide,égida,égide,эгида,アイギス
-159,,unbreakable aegis,unzerbrechliche aegis,égide indestructible,égida irrompible,égide inquebrável,несокрушимая эгида,不壊のアイギス
+159,,unbreakable aegis,unzerbrechliche aegis,égide indestructible,égida irrompible,égide inquebrável,несокрушимая эгида,至高のアイギス
 160,,angel,engel,ange,ángel,anjo,ангел,エンジェル
 161,,imp,imp,lutin,diablillo,diabrete,бес,インプ
 162,,geomancer,geomancer,géomancien,geomante,geomante,геомант,ジオマンサー
@@ -190,7 +190,7 @@
 232,,big dart trap,große pfeilfalle,gros piège à flèches,gran trampa de flechas,armadilha de dardo grande,большая дротиковая ловушка,大型ダーツトラップ
 233,,chaosgod,chaosgott,dieu du chaos,dios del caos,deus do caos,бог хаоса,カオスゴッド
 234,,rockhead,steinkopf,tête-de-roc,cabeza de roca,pedregoso,каменная голова,ロックヘッド
-235,,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr
+235,,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr,ＳＰＲ＿ＥＡＴＲ
 236,,drdlich,drdlich,drdlich,drdlich,drdlich,дрд-лич,ドルドリッチ
 237,,drdknight,drdknight,drdknight,drdknight,drdknight,дрд-рыцарь,ドルドナイト
 238,,drdskull,drdskull,drdskull,drdskull,drdskull,дрд-череп,ドルドスカル
