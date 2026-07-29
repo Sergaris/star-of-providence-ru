@@ -13,10 +13,10 @@
 14,,crazy ghost,irrgeist,fantôme fou,fantasma enajenado,fantasma maluco,безумный призрак,クレイジーゴースト
 15,,seeker,sucher,chercheur,buscador,buscador,искатель,シーカー
 16,,swarmer,schwarmer,bourdrone,zángano,enxamer,роевик,スウォーマー
-17,,blastcore,kraftkern,explocœur,núcleo explosivo,núcleo explosivo,взрывное ядро,ブラストコア
-18,,chamberhead,kammerhaupt,chambrier,armatesta,cararmada,камерная голова,チェンバーヘッド
+17,,blastcore,kraftkern,explocœur,núcleo explosivo,núcleo explosivo,бластядро,ブラストコア
+18,,chamberhead,kammerhaupt,chambrier,armatesta,cararmada,дулоглав,チェンバーヘッド
 19,,malice engine,teufelsmaschine,engin de malice,motor de malicia,máquina maliciosa,машина злобы,マリス・エンジン
-20,,swarm host,schwarmhost,hôte d'essaim,huésped de enjambre,hospedeiro de enxame,владыка роя,スウォームホスト
+20,,swarm host,schwarmhost,hôte d'essaim,huésped de enjambre,hospedeiro de enxame,носитель роя,スウォームホスト
 21,,electromancer,elektromancer,électromancien,electromante,eletromante,электромант,エレクトロマンサー
 23,,fire,feuer,feu,fuego,fogo,огонь,炎
 24,,quadcore,quadcore,quadcore,quadcore,quadcore,квадроядро,クアドコア
@@ -27,7 +27,7 @@
 29,,jelly,gelee,gelée,gelatina,geleia,желе,ゼリー
 30,,pollyp,pollip,polype,pólipo,pólipo,полип,ポリープ
 31,,chomper,zermalmer,croqueur,mordedor,mastigador,кусака,チョンパー
-33,,chamberlord,kammerherr,chambellord,señor armatesta,senhorarmado,повелитель камер,チェンバーロード
+33,,chamberlord,kammerherr,chambellord,señor armatesta,senhorarmado,дулолорд,チェンバーロード
 34,,ringleader,anführer,chef de cercle,líder anular,líder do círculo,главарь,リングリーダー
 35,,guardian,wächter,gardien,guardián,guardião,страж,ガーディアン
 36,,presence,präsenz,présence,presencia,presença,присутствие,気配
@@ -87,7 +87,7 @@
 112,,demiskull,demischädel,demi-crâne,semicráneo,demicrânio,получереп,デミスカル
 113,,eternal seeker,ewiger sucher,chercheur éternel,buscador eterno,buscador eterno,вечный искатель,エターナル・シーカー
 114,,eternal core,ewiger kern,cœur éternel,núcleo eterno,núcleo eterno,вечное ядро,エターナル・コア
-115,,eternal chamberhead,ewiger haupt,chambrier éternel,armatesta eterno,cararmada eterno,вечная камерная голова,エターナル・チェンバーヘッド
+115,,eternal chamberhead,ewiger haupt,chambrier éternel,armatesta eterno,cararmada eterno,вечный дулоглав,エターナル・チェンバーヘッド
 119,,relic,relikt,relique,vestigio,relíquia,реликвия,レリック
 120,,honor guard,ehrenwache,garde d'honneur,guardia de honor,guarda de honra,почётный страж,オーナーガード
 121,,haunted block,besessener block,bloc hanté,bloque embrujado,bloco assombrado,одержимый блок,呪われたブロック

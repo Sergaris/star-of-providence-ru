@@ -5,7 +5,7 @@
 2,,reward,belohnung,récompense,premio,recompensa,награда,ボーナス
 3,,reward lv.,belohnung lv.,niv. récompense,nv. de premio,nv. da recompensa,уровень награды,ボーナスレベル
 ,Midgame save screen.,,,,,,,
-4,,game in progress#continue?,spiel im gang#fortsetzen?,partie en cours##continuer ?,partida en curso#¿continuar?,jogo em andamento#continuar?,игра в процессе продолжить?,ゲームが進行中です#つづけますか？
+4,,game in progress#continue?,spiel im gang#fortsetzen?,partie en cours##continuer ?,partida en curso#¿continuar?,jogo em andamento#continuar?,игра в процессе#продолжить?,ゲームが進行中です#つづけますか？
 5,,yeah,ja,oui,sí,claro,да,あぁ
 6,,nah,nein,non,no,nem,нет,いや
 ,Save discrepancy.,,,,,,,

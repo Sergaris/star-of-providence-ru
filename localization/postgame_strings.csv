@@ -2,7 +2,7 @@
 ,Ranks.,,,,,,,
 0,,exalted soul,makellose seele,âme exaltée,alma exaltada,alma exaltada,возвышенная душа,高潔なる魂
 1,,fearless delver,furchtloser taucher,creuseur intrépide,guía sin miedo,explorador destemido,бесстрашный ныряльщик,勇猛な求道者
-2,,master scavenger,meistersucher,pro de la récup',as de la chatarra,mestre das sucatas,мастер-мародёр,採集の達人
+2,,master scavenger,meistersucher,pro de la récup',as de la chatarra,mestre das sucatas,мастер-сборщик,採集の達人
 3,,champion of the past,streiter der vergangenheit,champion du passé,adalid del pasado,campeão do passado,чемпион прошлого,過去の王者
 4,,challenger,herausforderer,challenger,contendiente,desafiador,претендент,挑戦者
 5,,grim arbitor,grimmer arbiter,arbitre sinistre,agente fatal,árbitro sombrio,мрачный арбитр,悪の裁定者
@@ -10,7 +10,7 @@
 7,,aspirant,aspirant,aspirant,aspirante,aspirante,аспирант,志を持つ者
 8,,toiling craft,protzschiff,travailleur,currante,nave esforçada,трудяга,苦節の職人
 9,,acolyte,lehrling,acolyte,acólito,assistente,послушник,見習い
-10,,bootleg ghost,heldenimitat,pseudo-fantôme,pseudofantasma,fantasma pirateado,пиратский призрак,脱法ゴースト
+10,,bootleg ghost,heldenimitat,pseudo-fantôme,pseudofantasma,fantasma pirateado,поддельный призрак,脱法ゴースト
 11,,just visiting,nur zu besuch,juste en visite,visitante,só de visita,просто мимо,とおりすがり
 12,,orange farmer,orangenfarmer,cultivateur d'oranges,cosechanaranjas,produtor de laranja,фермер апельсинов,オレンジ農家
 13,,intentional sabotage?,absichtliche sabotage?,sabotage intentionnel ?,¿sabotaje intencional?,sabotagem intencional?,намеренный саботаж?,わざとやってない？
@@ -29,7 +29,7 @@
 25,,dashing does not make you invulnerable.,tauchen macht dich nicht unverwundbar.,la propulsion ne te rend pas invulnérable.,los impulsos no te vuelven invulnerable.,acelerar não torna você invulnerável.,рывок не даёт неуязвимость.,ダッシュしても無敵にはならない。
 26,,"multiplier caps at 3, but is hard to raise past 2.5.","multiplier maximum ist 3, ist aber schwer nach 2.5 zu erhöhen.","le multiplicateur est limité à 3, mais c'est dur de passer 2,5.","el límite del multiplicador es 3, pero es difícil aumentarlo más allá de 2,5.","o limite do multiplicador é 3, mas é difícil aumentá-lo além de 2,5.","множитель не выше 3, но поднять его за 2.5#сложно.",倍率の上限は３だが、２．５を超えるのは#むずかしい。
 27,,can you catch the hermit?,kannst du den einsiedler fangen?,pourras-tu attraper l'ermite ?,¿eres capaz de atrapar al ermitaño?,você é capaz de capturar o eremita?,сможешь поймать отшельника?,ハーミットをつかまえられるかな？
-28,,larger debris chunks means higher denomination.,größere schrottbrocken geben mehr geld ab.,les gros débris ont une valeur supérieure.,los restos más grandes valen más.,pedaços maiores de destroços têm valor mais alto.,крупные обломки стоят дороже.,デブリのカタマリは大きいほど価値が高い。
+28,,larger debris chunks means higher denomination.,größere schrottbrocken geben mehr geld ab.,les gros débris ont une valeur supérieure.,los restos más grandes valen más.,pedaços maiores de destroços têm valor mais alto.,крупные куски лома стоят дороже.,デブリのカタマリは大きいほど価値が高い。
 29,,health beyond maximum contributes to more maximum health.,hp über den maximum trägt zu dem maximum bei.,obtenir de la santé avec des pv au max augmente les pv max.,obtener ps con la salud al máximo contribuye a aumentar la salud máxima.,obter vida quando estiver com o pv no máximo ajuda a aumentar a vida máxima.,ОЗ сверх максимума увеличивает#максимальный запас.,ＨＰが最大値を超えると、最大ＨＰが増える。
 30,,some keywords never appear in combination with others.,einige schlüsselworte können nicht mit anderen kombiniert werden.,certains mots-clés n'apparaissent jamais combinés.,algunas palabras clave nunca aparecen en combinación con otras.,algumas palavras-chave nunca aparecem combinadas com outras.,некоторые ключевые слова несовместимы.,あるキーワードに対して、出現しないキーワードがある。
 31,,being crushed against a wall does not mean instant death.,von wänden zerquetscht bedeuted nicht gleich den tod.,se faire écraser contre un mur ne garantit pas une mort instantanée.,que un muro te aplaste no tiene por qué significar que mueras al instante.,ser esmagado contra uma parede não significa morte instantânea.,прижатие к стене — не мгновенная смерть.,カベに押しつぶされても即死にはならない。
@@ -78,6 +78,6 @@
 73,,"down, down he goes. where he stops? nobody knows.","runter, runter er geht. wenn bleibt er stehen? keine idee.","tout en bas, il va. où s'arrête-t-il ? personne ne le sait.",baja que te baja y ¿dónde se detiene? nadie lo sabe.,"lá vai ele, mais e mais fundo. onde ele vai parar? ninguém sabe.","вниз, всё вниз. где остановится? никто не#знает.",彼はどんどん降りていく。一体どこまで#降りるのか？それは誰にもわからない。
 74,,291291,291291,291291,291291,291291,291291,２９１２９１
 75,,just shoot and dash.,schiesse und tauche einfach.,"tire et propulse-toi, c'est tout.",solo tienes que disparar y usa impulsos.,é só atirar e acelerar.,просто стреляй и делай рывки.,とにかく撃ってダッシュ！
-76,,armor tac is late on the money. break his legs.,rüstungstac ist spät mit dem geld. brich seine beine.,armor tac n'a pas payé à l'heure. casse-lui les jambes.,armor tac no ha pagado lo que debe. pártele las piernas.,o blindado tac não pagou o que deve. quebre as pernas dele.,armor tac задолжал. сломай ему ноги.,アーマー・タックは出おくれた。#足でかせごう。
+76,,armor tac is late on the money. break his legs.,rüstungstac ist spät mit dem geld. brich seine beine.,armor tac n'a pas payé à l'heure. casse-lui les jambes.,armor tac no ha pagado lo que debe. pártele las piernas.,o blindado tac não pagou o que deve. quebre as pernas dele.,бронетак задолжал. сломай ему ноги.,アーマー・タックは出おくれた。#足でかせごう。
 77,,"if a swarmer is off-sight, does it really exist?","wenn du einen schwärmer nicht sehen kannst, existiert es wirklich?","si un bourdrone est hors de vue, existe-t-il vraiment ?",¿realmente existen los zánganos cuando no los ves?,um enxamer continua existindo quando não é possível vê-lo?,"если роевик вне поля зрения, он вообще#существует?",観測されていないスウォーマーは、#果たして存在しているのか？
 78,,fish can't roll.,fisch kann nicht rollen.,les poissons ne roulent pas.,los peces no dan volteretas.,peixes não rolam.,рыба не катится.,魚の向きが逆さかな？
