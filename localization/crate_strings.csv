@@ -7,7 +7,7 @@
 4,,museum shipment##/c5contains: antique weaponry,reliktsarg##/c5enthält: eine einzigartige waffe,caisse de musée##/c5contient : armes antiques,envío de museo##/c5contiene: armamento antiguo,remessa para museu##/c5contém: armamento antigo,музейный груз##/c5содержит: антикварное оружие,歴史的収蔵品##/c5内容：アンティーク兵器
 5,,mystery box##/c5contains: could be anything,unbekannte kiste##/c5enthält: könnte alles sein,boîte mystère##/c5contient : qui sait ?,caja misteriosa##/c5contiene: cualquier cosa,caixa misteriosa##/c5contém: pode ser qualquer coisa,загадочный ящик##/c5содержит: что угодно,ミステリーボックス##/c5内容：なんでもあり
 ,AB replacement.,,,,,,,
-7,,toolbox##/c5contains: usable items,werkzeugkasten##/c5enthält: benutzbare sachen,boîte à outils##/c5contient : objets à utiliser,caja de herramientas##/c5contiene: consumibles,caixa de ferramentas##/c5contém: itens utilizáveis,ящик с инструментами##/c5содержит: полезные предметы,ツールボックス##/c5内容：お役立ちアイテム
+7,,toolbox##/c5contains: usable items,werkzeugkasten##/c5enthält: benutzbare sachen,boîte à outils##/c5contient : objets à utiliser,caja de herramientas##/c5contiene: consumibles,caixa de ferramentas##/c5contém: itens utilizáveis,ящик с инструментами##/c5содержит: полезные вещи,ツールボックス##/c5内容：お役立ちアイテム
 ,Prompts.,,,,,,,
 8,,unlock,öffnen,ouvrir,abrir,abrir,открыть,開ける
 9,,ammo,ammo,munitions,munición,munição,боезапас,弾薬

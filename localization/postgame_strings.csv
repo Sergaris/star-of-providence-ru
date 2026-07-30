@@ -11,8 +11,8 @@
 8,,toiling craft,protzschiff,travailleur,currante,nave esforçada,труженик,苦節の職人
 9,,acolyte,lehrling,acolyte,acólito,assistente,послушник,見習い
 10,,bootleg ghost,heldenimitat,pseudo-fantôme,pseudofantasma,fantasma pirateado,поддельный призрак,脱法ゴースト
-11,,just visiting,nur zu besuch,juste en visite,visitante,só de visita,просто мимо,とおりすがり
-12,,orange farmer,orangenfarmer,cultivateur d'oranges,cosechanaranjas,produtor de laranja,фермер апельсинов,オレンジ農家
+11,,just visiting,nur zu besuch,juste en visite,visitante,só de visita,просто мимоходом,とおりすがり
+12,,orange farmer,orangenfarmer,cultivateur d'oranges,cosechanaranjas,produtor de laranja,апельсиновый фермер,オレンジ農家
 13,,intentional sabotage?,absichtliche sabotage?,sabotage intentionnel ?,¿sabotaje intencional?,sabotagem intencional?,намеренный саботаж?,わざとやってない？
 ,Tipps.,,,,,,,
 14,,your bullets turn green when they bounce off of things.,"deine schüsse sind grün, wenn sie von wänden abprallen.",tes balles verdissent en rebondissant sur les éléments.,"al rebotar contra algo, tus balas se vuelven verdes.",suas balas ficam verdes quando ricocheteiam em alguma coisa.,пули зеленеют при рикошете.,撃った弾は跳ね返ると緑色になる。
@@ -54,7 +54,7 @@
 50,,"all debris carries over to the hub, even if you spend it.","all gesammelter schrott bleibt über, auch wenn ausgegeben.","même si tu les utilises, tous les débris sont envoyés au hub.","aunque los gastes, todos los restos se envían a la central.","todos os destroços são levados para a central, mesmo que você os gaste.","весь лом уходит в хаб, даже потраченный.",集めたデブリは、消費してもすべて#ハブに送られる。
 51,,keys are very valuable and are salvaged between floors.,schlüssel sind sehr wertvoll und werden zwischen stöcken verwertet.,les clés sont très précieuses et sont récupérées entre les étages.,las llaves son muy valiosas y se desguazan al cambiar de piso.,"as chaves são muito valiosas e são recicladas quando você muda de andar, concedendo a você um valor.",ключи очень ценны и утилизируются между#этажами.,カギは非常に高価で、次のフロアに進むと#サルベージされる。
 52,,discolored bullets are destructible.,farbenlose schüße können zerstört werden.,les balles décolorées sont destructibles.,las balas ensombrecidas se pueden destruir.,balas sem cor podem ser destruídas.,обесцвеченные пули можно уничтожить.,くすんだ色の敵弾は破壊できる。
-53,,opening up breaches is very dangerous.,es ist gefährlich breschen zu öffnen.,c'est très dangereux d'ouvrir des brèches.,abrir fisuras es muy peligroso.,abrir rupturas é muito perigoso.,открывать проломы очень опасно.,裂け目を開けるのは非常に危険だ。
+53,,opening up breaches is very dangerous.,es ist gefährlich breschen zu öffnen.,c'est très dangereux d'ouvrir des brèches.,abrir fisuras es muy peligroso.,abrir rupturas é muito perigoso.,открывать бреши очень опасно.,裂け目を開けるのは非常に危険だ。
 54,,"map item reveals all the rooms, even secret ones.","karten offenbaren alle räume, auch die geheimen.","la carte révèle toutes les salles, même les secrètes.","el objeto 'mapa' revela todas las salas, incluidas las secretas.","o item do mapa revela todas as salas, até mesmo as secretas.","карта раскрывает все комнаты, включая#тайные.",マップアイテムは隠し部屋を含む#すべての部屋の場所を明らかにする。
 55,,drops marked by a lock do not disappear if you leave the room.,mit schloss versehene gegenstände verschwinden nicht wenn du den raum verlässt.,les butins marqué d'une serrure ne disparaissent pas quand tu quittes la salle.,los objetos con candado no desaparecen si abandonas la sala.,os itens marcados com um cadeado não desaparecem se você sair da sala.,предметы с замком не исчезают при выходе#из комнаты.,かぎマークが付いたアイテムは#部屋を出ても消えない。
 56,,cursed weapons break on their own eventually.,verfluchte waffen brechen eventuell.,les armes maudites finissent par se détruire toutes seules.,las armas malditas se rompen solas en algún momento.,armas amaldiçoadas sempre quebram em algum momento.,проклятое оружие рано или поздно ломается#само.,呪われた武器はいずれ勝手に壊れる。

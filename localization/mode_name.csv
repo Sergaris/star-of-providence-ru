@@ -3,8 +3,8 @@
 1,,lethality,tödlichkeit,létalité,letalidad,letalidade,летальность,危険度
 2,,exit,aus,quitter,salir,sair,выход,戻る
 12,,null#normal mode,null#normaler modus,null#mode normal,null#modo normal,null#modo normal,null#обычный режим,ＮＵＬＬ#ノーマルモード
-13,,d-13#hard mode,d-13#schwerer modus,d-13#mode difficile,d-13#modo difícil,d-13#modo difícil,d-13#сложный режим,Ｄ—１３#ハードモード
-14,,overlord#sword mode,overlord#schwertmodus,chef suprême#mode épée,señor supremo#modo espada,senhor supremo#modo espada,overlord#режим меча,オーバーロード#ソードモード
+13,,d-13#hard mode,d-13#schwerer modus,d-13#mode difficile,d-13#modo difícil,d-13#modo difícil,d-13#хардмод,Ｄ—１３#ハードモード
+14,,overlord#sword mode,overlord#schwertmodus,chef suprême#mode épée,señor supremo#modo espada,senhor supremo#modo espada,оверлорд#режим меча,オーバーロード#ソードモード
 15,,???#chaos mode,???#chaosmodus,???#mode chaos,???#modo caos,???#modo caos,???#режим хаоса,？？？#カオスモード
 16,,null,null,null,null,null,null,ＮＵＬＬ
 17,,d-13,d-13,d-13,d-13,d-13,Д-13,Ｄ—１３
@@ -27,12 +27,12 @@
 50,,random seed,zufälliger seed,seed aléatoire,semilla al azar,seed aleatória,случайный сид,ランダムシード
 51,,custom seed#press to set,eigener seed#drücke zum bestimmen,seed perso.#appuyer pour définir,semilla pers.#pulsa para añadir,seed personalizada#pressione para definir,свой сид#нажмите для ввода,カスタムシード#選択で設定
 64,,normal mode#default difficulty,normalmodus#standardschwierigkeit,mode normal#difficulté par défaut,modo normal#dificultad inicial,modo normal#dificuldade padrão,обычный режим#стандартная сложность,ノーマルモード#通常のむずかしさ
-65,,hard mode#expert difficulty,hartmodus#expertenschwierigkeit,mode difficile#difficulté pour experts,modo difícil#dificultad para expertos,modo difícil#dificuldade para experientes,сложный режим#для экспертов,ハードモード#上級者向け
+65,,hard mode#expert difficulty,hartmodus#expertenschwierigkeit,mode difficile#difficulté pour experts,modo difícil#dificultad para expertos,modo difícil#dificuldade para experientes,хардмод#для экспертов,ハードモード#上級者向け
 66,,normal,normal,normal,normal,normal,обычный,ノーマル
 67,,hard,hart,difficile,difícil,difícil,сложный,ハード
 68,,difficulty,schwierigkeit,difficulté,dificultad,dificuldade,сложность,モード
 69,,loops,schleifen,boucles,vueltas,loops,циклы,ループ
 70,,enabled,an,oui,sí,ativado,вкл,オン
 71,,disabled,aus,non,no,desativado,выкл,オフ
-72,,null#twelfth visitor,null#zwölfter besucher,null#douzième visiteur,null#duodécimo visitante,null#décimo segundo visitante,null#двенадцатый посетитель,ＮＵＬＬ#第１２の来訪者
-73,,d-13#thirteenth visitor,d-13#dreizehnter besucher,d-13#treizième visiteur,d-13#decimotercer visitante,d-13#décimo terceiro visitante,d-13#тринадцатый посетитель,Ｄ—１３#第１３の来訪者
+72,,null#twelfth visitor,null#zwölfter besucher,null#douzième visiteur,null#duodécimo visitante,null#décimo segundo visitante,null#двенадцатый гость,ＮＵＬＬ#第１２の来訪者
+73,,d-13#thirteenth visitor,d-13#dreizehnter besucher,d-13#treizième visiteur,d-13#decimotercer visitante,d-13#décimo terceiro visitante,d-13#тринадцатый гость,Ｄ—１３#第１３の来訪者

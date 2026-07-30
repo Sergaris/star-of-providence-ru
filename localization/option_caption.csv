@@ -43,8 +43,8 @@
 41,,scanlines,abtastlinien,lignes de scan,líneas de exp. ,linhas de varr. ,развёртка,スキャンライン
 42,,interpolation,interpolation,interpolation,interpolación,interpolação,интерполяция,補間
 43,,reset controls,steuerung zurücksetzen,rétablir commandes,restablecer contr.,redefinir controles,сбросить управление,操作をリセット
-44,,aim opacity,zieltransparenz,opacité d'objectif,opacidad objetivo,opacidade da mira,прозрачность прицела,照準の不透明度
-45,,v-sync,v-sync,v-sync,sinc. vertical,v-sync,верт. синхр.,垂直同期
+44,,aim opacity,zieltransparenz,opacité d'objectif,opacidad objetivo,opacidade da mira,прозр. прицела,照準の不透明度
+45,,v-sync,v-sync,v-sync,sinc. vertical,v-sync,вертикальная синхронизация,垂直同期
 46,,the nimbus#has been broken,der ring#wurde gebrochen,le halo#s'est brisé,el aura#se ha roto,o círculo#se quebrou,нимб разрушен,ルーンのリングが#破壊された
 47,,crosshair 2,fadenkreuz 2,collimateur 2,retícula 2,mira 2,прицел 2,照準２
 48,,reset progress,fortschritt zurücksetzen,réinitialiser,reiniciar progreso,zerar o progresso,сбросить прогресс,進行状況をリセット
@@ -75,7 +75,7 @@
 73,,playstation,playstation,playstation,playstation,playstation,PLAYSTATION,ＰＬＡＹＳＴＡＴＩＯＮ
 74,,xbox,xbox,xbox,xbox,xbox,XBOX,ＸＢＯＸ
 75,,switch pro,switch pro,switch pro,switch pro,switch pro,SWITCH PRO,ＳＷＩＴＣＨプロコン
-76,,generic,jeglich,générique,genérico,genérico,общий,一般
+76,,generic,jeglich,générique,genérico,genérico,стандартный,一般
 77,,+ to cancel,+ zum abbrechen,+ pour annuler,+ para cancelar,+ para cancelar,+ — отмена,＋でキャンセル
 78,,aim assist,zielassistänz,aide à la visée,puntería asist.,assist. de mira,помощь прицеливания,エイムアシスト
 79,,assist range,wirkung,portée d'aide,rango de asist.,alcance da assist.,радиус помощи,アシスト範囲
