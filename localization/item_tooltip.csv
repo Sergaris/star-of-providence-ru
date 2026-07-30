@@ -46,9 +46,9 @@
 44,,+D% damage when salvaged,+D% schaden wenn verwertet,+D% dégâts à la récup',+D% de daño al desguazar,+D% de dano ao reciclar,урон +D% при сдаче в лом,サルベージするとダメージ＋D%
 45,,recovers 2 hp##/c5don't give up/c0,stellt 2 hp#wieder her##/c5gib nicht auf/c0,restaure 2 pv##/c5tiens bon/c0,restaura 2 ps##/c5no te rindas/c0,recupera 2 de pv##/c5não desista/c0,восстанавливает 2 ОЗ##/c5не сдавайся/c0,ＨＰ２回復##/c5あきらめないで/c0
 46,,20% damage increase...?,20% mehr schaden...?,20 % de dégâts en plus ?,¿aumento de daño del 20%?,20% de aumento de dano...?,урон +20%...?,ダメージ２０％アップ…？
-47,,#/c5less effective as you gain more/c0,"#/c5weniger effektiv, je mehr du hast/c0","#/c5plus tu en as, moins c'est efficace/c0",#/c5pierde efectividad según ganas más/c0,#/c5fica menos eficaz à medida que você ganha mais/c0,/c5чем больше — тем слабее/c0,#/c5多く取るほど効果が低くなる/c0
+47,,#/c5less effective as you gain more/c0,"#/c5weniger effektiv, je mehr du hast/c0","#/c5plus tu en as, moins c'est efficace/c0",#/c5pierde efectividad según ganas más/c0,#/c5fica menos eficaz à medida que você ganha mais/c0,#/c5чем больше — тем слабее/c0,#/c5多く取るほど効果が低くなる/c0
 48,,a handheld game,eine handheld-konsole,un jeu portable,videojuego de portátil,um jogo portátil,портативная игра,ポータブルゲーム機
-49,,attempt to break open##,versuche es offen zu brechen##,essaie de l'ouvrir de force##,intentar abrir##,tentativa de abrir à força##,попытаться взломать,カベを破壊する##
+49,,attempt to break open##,versuche es offen zu brechen##,essaie de l'ouvrir de force##,intentar abrir##,tentativa de abrir à força##,попытаться взломать##,カベを破壊する##
 50,,/c5required ammo:,/c5benötigtes ammo:,/c5munitions requises :,/c5munición requerida:,/c5munição necessária:,/c5требуется боезапас:,/c5必要な弾薬：
 51,,/c5required charges:,/c5benötigte ladungen:,/c5charges requises :,/c5cargas requeridas:,/c5cargas necessárias:,/c5требуются заряды:,/c5必要なチャージ：
 52,,/c5-requires ammo-/c0,/c5-braucht ammo-/c0,/c5-requiert munitions-/c0,/c5-requiere munición-/c0,/c5-requer munição-/c0,/c5-нужен боезапас-/c0,/c5—弾薬が足りない—/c0

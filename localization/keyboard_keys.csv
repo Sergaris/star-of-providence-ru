@@ -3,16 +3,16 @@
 9,,tab,tab,tab,tab,tab,Tab,Ｔａｂ
 12,,num,num,num,núm,num,Num,Ｎｕｍ
 13,,enter,enter,entrée,intro,enter,Enter,Ｅｎｔｅｒ
-16,,shift,shift,maj,mayús,shift,shift,Ｓｈｉｆｔ
-17,,ctrl,strg,ctrl,ctrl,ctrl,ctrl,Ｃｔｒｌ
-18,,alt,alt,alt,alt,alt,alt,Ａｌｔ
+16,,shift,shift,maj,mayús,shift,Shift,Ｓｈｉｆｔ
+17,,ctrl,strg,ctrl,ctrl,ctrl,Ctrl,Ｃｔｒｌ
+18,,alt,alt,alt,alt,alt,Alt,Ａｌｔ
 19,,pause,pause,pause,pausa,pause,Пауза,Ｐａｕｓｅ
 20,,capslock,capslock,Verr. maj,bloq mayús,capslock,Caps Lock,Ｃａｐｓ　Ｌｏｃｋ
 32,,space,leertaste,espace,espacio,espaço,Пробел,Ｓｐａｃｅ
-33,,page up,bild auf,page précédente,av pág,page up,PgUp,ＰａｇｅＵｐ
-34,,page down,bild runter,page suivante,re pág,page down,PgDn,ＰａｇｅＤｏｗｎ
+33,,page up,bild auf,page précédente,av pág,page up,Page Up,ＰａｇｅＵｐ
+34,,page down,bild runter,page suivante,re pág,page down,Page Down,ＰａｇｅＤｏｗｎ
 35,,end,ende,fin,fin,end,End,Ｅｎｄ
-36,,home...,pos 1,début,inicio,home,home...,Ｈｏｍｅ
+36,,home...,pos 1,début,inicio,home,Home,Ｈｏｍｅ
 37,,left,links,gauche,izquierda,esquerda,Влево,左キー
 38,,up,oben,haut,arriba,para acima,Вверх,上キー
 39,,right,rechts,droite,derecha,direita,Вправо,右キー
@@ -84,8 +84,8 @@
 121,,f10,f10,f10,f10,f10,f10,Ｆ１０
 122,,f11,f11,f11,f11,f11,f11,Ｆ１１
 123,,f12,f12,f12,f12,f12,f12,Ｆ１２
-144,,num lock,num-taste,verr. num,bloq núm,num lock,num lock,Ｎｕｍ　Ｌｏｃｋ
-145,,scroll lock,rollen-taste,arrêt défil.,bloq despl,scroll lock,scroll lock,Ｓｃｒｏｌｌ　Ｌｏｃｋ
+144,,num lock,num-taste,verr. num,bloq núm,num lock,Num Lock,Ｎｕｍ　Ｌｏｃｋ
+145,,scroll lock,rollen-taste,arrêt défil.,bloq despl,scroll lock,Scroll Lock,Ｓｃｒｏｌｌ　Ｌｏｃｋ
 160,,l. shift,l. shift,maj g,mayús izq,shift esq.,Л. Shift,左Ｓｈｉｆｔ
 161,,r. shift,r. shift,maj d,mayús der,shift dir.,Прав. Shift,右Ｓｈｉｆｔ
 162,,l. ctrl,l. strg,ctrl g,ctrl izq,ctrl esq.,Л. Ctrl,左Ｃｔｒｌ

@@ -18,7 +18,7 @@
 16,,smoothes the pixel graphics,glättet die pixelgrafik,adoucit les graphismes#pixelisés,suaviza los gráficos#pixelados,suaviza os gráficos pixelados,сглаживание пиксельной графики,ピクセルグラフィックを滑らかにする
 17,,resets controls#to default,stellt die ursprüngliche#steuerung wieder da,rétablit les commandes#par défaut,restablece los controles#por defecto,redefine os controles#para o padrão,сброс управления по умолчанию,操作設定を#元の状態にリセット
 18,,sets the visibility#of the aim reticle,stellt die sichtbarkeit#der zielrichtung ein,définit la visibilité#du réticule de visée,ajusta la visibilidad#de la retícula,define a visibilidade#do retículo de mira,видимость прицела,照準方向の#見え方を調整 
-19,,prevents tearing#may cause slowdown,beugt display-risse vor#kann spiel verlangsamen,évite le tearing#peut ralentir le jeu,evita artefactos#puede bajar rendimiento,evita rasgos de tela#pode causar lentidão,устраняет разрывы может снизить FPS,画像の乱れを防止#ゲームスピードが落ちる場合あり
+19,,prevents tearing#may cause slowdown,beugt display-risse vor#kann spiel verlangsamen,évite le tearing#peut ralentir le jeu,evita artefactos#puede bajar rendimiento,evita rasgos de tela#pode causar lentidão,устраняет разрывы#может снизить FPS,画像の乱れを防止#ゲームスピードが落ちる場合あり
 20,,hold confirm#to erase everything,halten um den#fortschritt zurückzuseten,maintenir pour confirmer#l'effacement complet,mantén confirmar#para borrar todo,mantenha pressionado confirmar#para apagar tudo,удерживайте для полного сброса,長押しで#進行状況をリセット
 21,,sets crt filter,stellt den#crt filter ein,définit le filtre ctr,ajusta el filtro crt,ajuste do filtro crt,фильтр ЭЛТ,ＣＲＴフィルター調整
 22,,toggles the ui flickering,stellt das#ui-flackern ein,définit les#clignotements de l'iu,activa o desactiva el#parpadeo de la iu,ajuste da intermitência#da interface do usuário,мерцание интерфейса,ＵＩの点滅を切り替え
@@ -42,4 +42,4 @@
 40,,controller option#alters aim assist range,kontrolleroption#ändert die zielassistänz,option de manette#change la portée d'aide à la visée,opción para mando#ajusta el rango de asist.,opção do controle#altera o alcance da assistência de mira,радиус помощи (геймпад),コントローラー設定#エイムアシストの範囲を変更
 41,,displays art#in the sidebars,zeigt ein hintergrund#auf den seiten,affiche un dessin#dans les barres latérales,muestra un diseño#en las barras laterales,exibe a arte#nas barras laterais,картинки на боковых панелях,画面のサイド部分にアートを表示
 42,,Hi. I'm Tabby.,Tabby the placeholder text tab.,I only have two more tabs to live.,If only I used that space more sensibly...,Oh well.,Привет. Я Табби.,フォントの解像度を設定
-43,,,,,,,PLACEHOLDER,プレースホルダー
+43,,,,,,,,プレースホルダー
