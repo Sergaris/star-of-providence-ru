@@ -2,7 +2,7 @@
 0,,unfortunate accident,trauriger unglücksfall,accident malheureux,desgraciado accidente,acidente infeliz,несчастный случай,不運な事故
 1,,crushed by scenery,zerquetscht,écrasé par le décor,aplastamiento,esmagado por blocos,раздавило декорацией,ブロックとの衝突 
 3,,ghost,geist,fantôme,fantasma,fantasma,призрак,ゴースト
-4,,microcore,mikrokern,microcœur,micronúcleo,micronúcleo,микроядро,マイクロコア
+4,,microcore,mikrokern,microcœur,micronúcleo,micronúcleo,микро-ядро,マイクロコア
 5,,sentinel,sentinel,sentinelle,centinela,sentinela,страж,センティネル
 6,,giant ghost,riesengeist,fantôme géant,fantasma gigante,fantasma gigante,огромный призрак,巨大ゴースト
 7,,turret,turret,tourelle,torreta,torre,турель,タレット
@@ -13,15 +13,15 @@
 14,,crazy ghost,irrgeist,fantôme fou,fantasma enajenado,fantasma maluco,безумный призрак,クレイジーゴースト
 15,,seeker,sucher,chercheur,buscador,buscador,искатель,シーカー
 16,,swarmer,schwarmer,bourdrone,zángano,enxamer,роевик,スウォーマー
-17,,blastcore,kraftkern,explocœur,núcleo explosivo,núcleo explosivo,бластядро,ブラストコア
+17,,blastcore,kraftkern,explocœur,núcleo explosivo,núcleo explosivo,бласт-ядро,ブラストコア
 18,,chamberhead,kammerhaupt,chambrier,armatesta,cararmada,дулоглав,チェンバーヘッド
 19,,malice engine,teufelsmaschine,engin de malice,motor de malicia,máquina maliciosa,машина злобы,マリス・エンジン
 20,,swarm host,schwarmhost,hôte d'essaim,huésped de enjambre,hospedeiro de enxame,носитель роя,スウォームホスト
 21,,electromancer,elektromancer,électromancien,electromante,eletromante,электромант,エレクトロマンサー
 23,,fire,feuer,feu,fuego,fogo,огонь,炎
-24,,quadcore,quadcore,quadcore,quadcore,quadcore,квадроядро,クアドコア
+24,,quadcore,quadcore,quadcore,quadcore,quadcore,квадро-ядро,クアドコア
 25,,peaspitter,bohnenspucker,sarbacane,cerbatana,cuspidor de grãos,горохострел,ピースピッター
-26,,voltcore,voltkern,voltcœur,núcleo voltaico,núcleo voltaico,вольтядро,ボルトコア
+26,,voltcore,voltkern,voltcœur,núcleo voltaico,núcleo voltaico,вольт-ядро,ボルトコア
 27,,stormlash,sturmpeitscher,tourmenteur,azote de tormenta,flagelo de tempestade,штормовой хлыст,ストームラッシュ
 28,,reaper,todesmaske,faucheur,segador,ceifador,жнец,リーパー
 29,,jelly,gelee,gelée,gelatina,geleia,желе,ゼリー
@@ -186,10 +186,10 @@
 227,,enigmancer,enigmancer,énigmancien,criptomante,enigmático,энигмант,エニグマンサー
 228,,holy rod,heilige rute,sceptre saint,vara sagrada,cetro sagrado,святой жезл,ホーリーロッド
 229,,noxious dead,giftkopf,mort toxique,muerto venenoso,morto tóxico,ядовитый мертвец,ノキシアス・デッド
-230,,dart trap,pfeilfalle,piège à flèches,trampa de flechas,armadilha de dardo,дротиковая ловушка,ダーツトラップ
+230,,dart trap,pfeilfalle,piège à flèches,trampa de flechas,armadilha de dardo,дротикомёт,ダーツトラップ
 232,,big dart trap,große pfeilfalle,gros piège à flèches,gran trampa de flechas,armadilha de dardo grande,большой дротикомёт,大型ダーツトラップ
 233,,chaosgod,chaosgott,dieu du chaos,dios del caos,deus do caos,бог хаоса,カオスゴッド
-234,,rockhead,steinkopf,tête-de-roc,cabeza de roca,pedregoso,каменная голова,ロックヘッド
+234,,rockhead,steinkopf,tête-de-roc,cabeza de roca,pedregoso,каменноголовый,ロックヘッド
 235,,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr,spr_eatr,ＳＰＲ＿ＥＡＴＲ
 236,,drdlich,drdlich,drdlich,drdlich,drdlich,дрд-лич,ドルドリッチ
 237,,drdknight,drdknight,drdknight,drdknight,drdknight,дрд-рыцарь,ドルドナイト
@@ -205,7 +205,7 @@
 251,,ersatz,ersatz,ersatz,emulación,sucedâneo,эрзац,エルザッツ
 252,,flauros,flauros,flauros,flauros,flauros,флаурос,フラウロス
 253,,database,datenbank,base de données,base de datos,base de dados,база данных,データベース
-262,,drillcore,bohrkern,cœur perceur,núcleo perforador,núcleo de broca,буровое ядро,ドリルコア
+262,,drillcore,bohrkern,cœur perceur,núcleo perforador,núcleo de broca,бур-ядро,ドリルコア
 281,,nephilim,nephilim,nephilim,nephilim,nephilim,нефилим,ネフィリム
 282,,forsaken arms,verlassene waffen,armes abandonnées,armas abandonadas,amas abandonadas,брошенное оружие,置き捨てられた武器
 283,,barrow,grabhügel,tumulus,túmulo,túmulo,курган,バロウ
