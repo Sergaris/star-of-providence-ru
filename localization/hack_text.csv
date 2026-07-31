@@ -20,7 +20,7 @@
 18,,item.upgrade(),belohnung.besser(),amélioration.objet(),mejora.objeto(),aprimoramento.de.item(),улучш.предмета(),アイテム.アップグレード（）
 19,,collect(),sammeln(),récolter(),collecter(),coletar(),собрать(),アイテム.ゲット（）
 20,,create.reward(),belohnung(),récompense(),recompensa(),aprim.de.item() ,создать.награду(),作成.ボーナス（）
-21,,active.up(),mehr.waffen(),active.bonus(),aumento.activa(),aumento.ativado(),актив.вверх(),アクティブ.増加（）
+21,,active.up(),mehr.waffen(),active.bonus(),aumento.activa(),aumento.ativado(),актив.усилить(),アクティブ.増加（）
 22,,careful!,vorsicht!,attention !,¡cuidado!,cuidado!,осторожно!,気を付けて！
 23,,collect!,sammle!,récolte !,¡obtén eso!,colete!,собери!,集めろ！
 24,,loop!,durch!,boucle !,¡bucle!,loop!,цикл!,ループ！

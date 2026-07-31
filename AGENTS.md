@@ -1,6 +1,6 @@
 # Инструкции для агентов (Star of Providence RU)
 
-Перед правкой: **[docs/LOCALIZATION.md](docs/LOCALIZATION.md)**.
+Перед правкой: **[docs/LOCALIZATION.md](docs/LOCALIZATION.md)**, глоссарий: **[docs/GLOSSARY.md](docs/GLOSSARY.md)**.
 
 ## Кратко
 
@@ -14,9 +14,12 @@
 
 ```bash
 python scripts/patch.py validate
+python scripts/patch.py validate --linebreaks
 python scripts/patch.py check-release
 python scripts/fix_linebreaks.py
 ```
+
+`validate` сверяет теги `/c/f/p/s/n/m/r`, переменные и длину. Число `#` — только с `--linebreaks` (русские переносы часто другие из‑за Noto).
 
 При релизе: обновить файл `VERSION`, тег `vX.Y`, собрать zip (`scripts/build_release.ps1`), опубликовать на GitHub Releases. Версия только в `VERSION` — единый источник правды для bat, `patch.py` и сборки zip.
 

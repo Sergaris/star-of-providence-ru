@@ -805,8 +805,14 @@ def cmd_stats() -> None:
 # ── validate ────────────────────────────────────────────────────────────
 
 
-def cmd_validate() -> None:
-    """Проверить переводы: теги /c/f/p/s/n/m/r, переменные, # и длина."""
+def cmd_validate(*, check_linebreaks: bool = False) -> None:
+    """Проверить переводы: теги /c/f/p/s/n/m/r, переменные и длина.
+
+    Args:
+        check_linebreaks: Если True, также сравнивать число ``#`` с EN.
+            По умолчанию выкл.: русские переносы часто намеренно другие
+            из‑за более широкого шрифта Noto (см. ``fix_linebreaks.py``).
+    """
     if not LOCALIZATION_DIR.is_dir():
         logger.error(
             "Каталог localization/ не найден. Сначала: patch.py init"
@@ -861,13 +867,14 @@ def cmd_validate() -> None:
                     f"EN={en_vars} ≠ ZHS={zhs_vars}"
                 )
 
-            en_breaks = en_val.count("#")
-            zhs_breaks = zhs_val.count("#")
-            if en_breaks != zhs_breaks:
-                issues.append(
-                    f"{path.name}:{line_num} переносы #: "
-                    f"EN={en_breaks} ≠ ZHS={zhs_breaks}"
-                )
+            if check_linebreaks:
+                en_breaks = en_val.count("#")
+                zhs_breaks = zhs_val.count("#")
+                if en_breaks != zhs_breaks:
+                    issues.append(
+                        f"{path.name}:{line_num} переносы #: "
+                        f"EN={en_breaks} ≠ ZHS={zhs_breaks}"
+                    )
 
             if en_val.rstrip().endswith("_") and not zhs_val.rstrip().endswith(
                 "_"
@@ -1083,7 +1090,15 @@ def main() -> None:
     )
 
     sub.add_parser("stats", help="Показать прогресс перевода")
-    sub.add_parser("validate", help="Проверить переводы на ошибки")
+    p_validate = sub.add_parser("validate", help="Проверить переводы на ошибки")
+    p_validate.add_argument(
+        "--linebreaks",
+        action="store_true",
+        help=(
+            "Также сверять число переносов # с EN "
+            "(обычно расходится из‑за шрифта Noto)"
+        ),
+    )
     p_check = sub.add_parser(
         "check-release",
         help="Проверить, есть ли на GitHub релиз новее локального",
@@ -1102,7 +1117,7 @@ def main() -> None:
         case "stats":
             cmd_stats()
         case "validate":
-            cmd_validate()
+            cmd_validate(check_linebreaks=args.linebreaks)
         case "check-release":
             cmd_check_release(quiet=args.quiet)
 

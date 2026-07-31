@@ -27,11 +27,11 @@
 25,,resume,fortsetzen,reprendre,continuar,continuar,продолжить,再開
 26,,exit to menu,zum hauptmenu,retourner au menu,salir al menú,ir para o menu,в меню,メニューに戻る
 27,,exit game,spiel verlassen,quitter le jeu,salir del juego,sair do jogo,выход из игры,ゲーム終了
-28,,enter the new key,neue taste eingeben,appuie sur la touche,pulsa una tecla,escolha a nova tecla,нажмите новую клавишу,新しいキーを入力してください
+28,,enter the new key,neue taste eingeben,appuie sur la touche,pulsa una tecla,escolha a nova tecla,нажми новую клавишу,新しいキーを入力してください
 29,,escape to cancel,esc zum abbrechen,échap. pour annuler,esc para cancelar,pressione esc para cancelar,ESC — отмена,ＥＳＣキーでキャンセル
 30,,key already in use,taste bereits besetzt,touche déjà attribuée,tecla ya en uso,tecla já em uso,клавиша уже занята,キーは使用中です
 31,,language,sprache,langue,idioma,idioma,язык,言語
-32,,choose one,wähle eins,choisis-en 1,elige una,selecione um,выберите один,１つを選択
+32,,choose one,wähle eins,choisis-en 1,elige una,selecione um,выбери один,１つを選択
 33,,so be it,so sei es,ansi soit-il,que así sea,que assim seja,да будет так,ではそうしよう
 34,,thats all folks,das wars leute,c'est tout,eso es todo,"isso é tudo, pessoal",вот и всё,以上だ
 35,,photosensitivity,fotosensetivität,photosensibilité,fotosensibilidad,fotossensib. ,светочувствительность,視覚過敏対応
@@ -50,7 +50,7 @@
 48,,reset progress,fortschritt zurücksetzen,réinitialiser,reiniciar progreso,zerar o progresso,сбросить прогресс,進行状況をリセット
 49,,crt,crt,crt,crt,crt,ЭЛТ,ＣＲＴ
 50,,ui flicker,ui-flackern,clignotement iu,parpadeo iu,inter. da iu ,мерцание интерфейса,ＵＩの点滅
-51,,enter the new button,neuen knopf eingeben,appuyer sur la touche,pulsa un botón,escolha o novo botão,нажмите новую кнопку,新しいボタンを入力
+51,,enter the new button,neuen knopf eingeben,appuyer sur la touche,pulsa un botón,escolha o novo botão,нажми новую кнопку,新しいボタンを入力
 52,,start to cancel,start zum abbrechen,start pour annuler,start para cancelar,pressione start para cancelar,START — отмена,スタートでキャンセル
 53,,button already in use,knopf bereits besetzt,touche déjà attribuée,botón ya en uso,botão já em uso,кнопка уже занята,ボタンは使用中です
 54,,hitbox,hitbox,hitbox,caja de colisión,hitbox,хитбокс,当たり判定
