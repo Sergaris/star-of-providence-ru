@@ -13,10 +13,10 @@
 11,,attempts.left(,versuche.übrig(,essais.restants(,intentos.rest(,tentativ.rest.(,попыток.осталось(,残り回数（
 12,,open.sesame(),öffne.tür(),sésame.ouvre-toi(),ábrete.sésamo(),abre-te.sésamo(),сим.сим.откройся(),ひらけ.ゴマ（）
 13,,init.hack(),init.hack(),init.piratage(),inic.hackeo(),iniciar.hackeamento(),нач.взлом(),開始.ハッキング（）
-14,,weapon.up(),mehr.waffen(),arme.augmentée(),aumento.arma(),aumento.de.arma(),оружие.вверх(),武器.増加（）
-15,,price.down(),preis.runter(),prix.baissé(),rebaja.precio(),preço.reduzido(),цена.вниз(),価格.ダウン（）
-16,,upgrades.up(),mehr.upgrades(),améliorations.bonus(),más.mejoras(),aumento.de.aprim() ,улучшения.вверх(),アップグレード.増加（）
-17,,forcefield.down(),kraftfeld.runter(),champ.de.force.baissé(),anular.barrera(),queda.de.barreira() ,силовое.поле.вниз(),フォースフィールド.ダウン（）
+14,,weapon.up(),mehr.waffen(),arme.augmentée(),aumento.arma(),aumento.de.arma(),оружие.усилить(),武器.増加（）
+15,,price.down(),preis.runter(),prix.baissé(),rebaja.precio(),preço.reduzido(),цена.снизить(),価格.ダウン（）
+16,,upgrades.up(),mehr.upgrades(),améliorations.bonus(),más.mejoras(),aumento.de.aprim() ,улучшения.поднять(),アップグレード.増加（）
+17,,forcefield.down(),kraftfeld.runter(),champ.de.force.baissé(),anular.barrera(),queda.de.barreira() ,силовое.поле.снять(),フォースフィールド.ダウン（）
 18,,item.upgrade(),belohnung.besser(),amélioration.objet(),mejora.objeto(),aprimoramento.de.item(),улучш.предмета(),アイテム.アップグレード（）
 19,,collect(),sammeln(),récolter(),collecter(),coletar(),собрать(),アイテム.ゲット（）
 20,,create.reward(),belohnung(),récompense(),recompensa(),aprim.de.item() ,создать.награду(),作成.ボーナス（）
