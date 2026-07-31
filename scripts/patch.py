@@ -80,7 +80,8 @@ _KEYBOARD_RU: dict[str, str] = {
     "r. stick": "Прав. стик",
 }
 
-TAG_RE = re.compile(r"/[cfp]\d")
+# /c цвет, /f шрифт, /p пауза, /s тряска, /n /m /r — прочие эффекты диалога
+TAG_RE = re.compile(r"/[cfpsnrm]\d")
 KLEINES_PRICE_TAG_RE = re.compile(r"/[cfpsnrmq]\d|/c\d|/f\d|/s\d|/r\d|/m\d")
 VAR_RE = re.compile(r"%\w+%")
 
@@ -805,7 +806,7 @@ def cmd_stats() -> None:
 
 
 def cmd_validate() -> None:
-    """Check translated rows for missing tags, variables, and length issues."""
+    """Проверить переводы: теги /c/f/p/s/n/m/r, переменные, # и длина."""
     if not LOCALIZATION_DIR.is_dir():
         logger.error(
             "Каталог localization/ не найден. Сначала: patch.py init"
